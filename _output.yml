@@ -1,11 +1,20 @@
+bookdown::bs4_book:
+  theme:
+    primary: "#4b2e83"
+    fg: "#2b2121"
+    bg: "#ffffff"
+    base_font: !expr bslib::font_google("Open Sans")
+  repo: https://github.com/scheuerell-lab/lab-book
 bookdown::gitbook:
   css: style.css
   config:
+    collapse: subsection
+    scroll_highlight: yes
     toc:
       before: |
-        <li><a href="./">A Minimal Book Example</a></li>
+        <li><a href="./">Applied Ecology Lab</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/scheuerell-lab/lab-book/blob/main/LICENSE" target="blank">Copyright 2021 - Mark Scheuerell</a></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
