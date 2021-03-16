@@ -5,21 +5,3 @@ bookdown::bs4_book:
     bg: "#ffffff"
     base_font: !expr bslib::font_google("Open Sans")
   repo: https://github.com/scheuerell-lab/lab-book
-bookdown::gitbook:
-  css: style.css
-  config:
-    collapse: subsection
-    scroll_highlight: yes
-    toc:
-      before: |
-        <li><a href="./">Applied Ecology Lab</a></li>
-      after: |
-        <li><a href="https://github.com/scheuerell-lab/lab-book/blob/main/LICENSE" target="blank">Copyright 2021 - Mark Scheuerell</a></li>
-    download: ["pdf", "epub"]
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
-bookdown::epub_book: default
