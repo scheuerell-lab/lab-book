@@ -1,0 +1,83 @@
+# Code of Conduct
+
+We recognize that scientific endeavors are reflective of society at large. We all possess different forms of implicit bias that affect the ways in which we relate to others and communicate with them. These implicit biases are also woven within a larger fabric of structural discrimination and prejudice that restricts many people from fully accessing the many facets of science and the academy. If we are to truly integrate everyone into our society in a meaningful context, must move towards a position of recognizing people for their strengths rather than focusing on their weaknesses. We believe that when we create an open, welcoming space that explicitly acknowledges the differences among us, we can better engage with one another and create positive outcomes for all.
+
+As such, all members of the Scheuerell Lab are expected to abide by the following Code of Conduct. This includes collaborators and visitors to the lab as well. **Violations of this code are taken very seriously and will be addressed swiftly.** We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, religion or (non)belief, age, education, or socio-economic status. 
+
+## Things you _can_ do
+
+In order to foster a positive and professional learning environment, we encourage the following kinds of behaviors:
+
+* show courtesy and decency toward others
+
+* use welcoming and inclusive language
+
+* listen with intent to understand
+
+* be respectful of different viewpoints and experiences
+
+* gracefully accept constructive criticism
+
+* be open to change
+
+* focus on what is best for all of us
+
+## Things you _cannot_ do
+
+Any form of language or behavior intended to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. This includes, but is not limited to
+
+* written or verbal comments that exclude people on the basis of membership in any specific group
+
+* sustained disruption of communications, talks or events
+
+* insults or put downs
+
+* sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+
+* excessive swearing
+
+* publication of private communication without consent
+
+* unwelcome sexual attention
+
+* nonconsensual or unwelcome physical contact
+
+* continuing to initiate interaction (including photography or recording) with someone after being asked to stop
+
+* the display of sexual or violent images
+
+* causing someone to fear for their safety, such as through stalking, following, or intimidation
+
+* violent threats or language directed against another person
+
+* incitement of others to violence, suicide, or self-harm
+
+Members of our lab's community who violate these rules—no matter how much they have contributed to the Scheuerell lab, or how specialized their skill set—will be approached by Mark Scheuerell.
+
+**_Anyone asked to stop any inappropriate behavior is expected to comply immediately._**
+
+If _any_ inappropriate behavior persists after a discussion with Mark, the offender will be asked to discontinue their participation in Scheuerell lab projects, meetings, or other activities.
+
+## Reporting
+
+If you believe someone has violated the Code of Conduct, please report it to Mark who will take appropriate action to address the situation. If the incident involves Mark, or for whatever reason you are uncomfortable reporting the incident to Mark, please contact any of the following individuals:
+
+* [Sarah Converse](https://fish.uw.edu/faculty/sarah-converse/) (Mark's supervisor)
+
+* [Andre Punt](https://fish.uw.edu/faculty/andre-punt/) (SAFS Director)
+
+* [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/) (SAFS graduate program coordinator)
+
+* [Amy Fox](mailto:safs@uw.edu) (SAFS graduate student advisor)
+
+* [Tim Essington](https://fish.uw.edu/faculty/tim-essington/) (QERM graduate program coordinator)
+
+* [Erica Owens](mailto:owense@uw.edu) (QERM graduate student advisor)
+
+**NOTE**: If you would like to report an incident, but remain anonymous, please use the [**SAFS online reporting form**](https://forms.gle/mmRmT1GTkNwaoF198) (requires a UW net-ID to access).
+
+<br>
+
+### Credits
+
+Much of this content is based upon Codes of Conduct developed by the [Data Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#about-this-document).

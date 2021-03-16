@@ -1,0 +1,16 @@
+# (PART) Policies & procedures {-}
+
+# Communication
+
+Our lab relies on several forms of communication, each with its own pros and cons. First and foremost, Mark maintains an "open door" policy when he's in his office. If the door is wide open, please come on in. If the door is open just a crack, please knock, as Mark may be on the phone or meeting with someone else. If the door is closed, please assume that either Mark does not want to be bothered or that he's out of the office.
+
+### Slack
+
+
+### GitHub
+
+
+### Email
+
+
+

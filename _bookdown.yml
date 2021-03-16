@@ -1,6 +1,23 @@
 book_filename: "lab-book"
 delete_merged_file: true
 output_dir: "docs"
+rmd_files: [
+  "index.Rmd",
+  ## background
+  "values.Rmd",
+  "code-of-conduct.Rmd",
+  "expectations.Rmd",
+  ## getting started
+  "onboarding.Rmd",
+  ## policies & procedures
+  "communications.Rmd",
+  "attendance.Rmd",
+  "coding.Rmd",
+  "data.Rmd",
+  "collaborations.Rmd",
+  ## safety
+  "safety.Rmd"
+]
 language:
   ui:
     chapter_name: "Chapter "
