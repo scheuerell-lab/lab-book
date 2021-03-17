@@ -11,10 +11,10 @@ rmd_files: [
   "onboarding.Rmd",
   ## policies & procedures
   "communications.Rmd",
-  "attendance.Rmd",
+  "participation.Rmd",
+  "collaborations.Rmd",
   "coding.Rmd",
   "data.Rmd",
-  "collaborations.Rmd",
   ## safety
   "safety.Rmd"
 ]
