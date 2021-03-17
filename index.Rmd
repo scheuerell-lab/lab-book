@@ -11,7 +11,7 @@ description: ""
 
 # Welcome! {.unnumbered}
 
-<img src="images/logo.png" width="150" height="150" align="right" alt="" class="cover"/>This is the lab book for [Mark Scheuerell](https://fish.uw.edu/faculty/mark-scheuerell/)'s Applied Ecology Lab in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the University of Washington. This book lays out the policies and procedures that we follow, serving as reference material for on-boarding, expectations, communications, coding, data, publishing, and presentations.
+<img src="images/logo.png" width="250" height="250" align="right" alt="" class="cover"/>This is the lab book for [Mark Scheuerell](https://fish.uw.edu/faculty/mark-scheuerell/)'s Applied Ecology Lab in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the University of Washington. This book lays out the policies and procedures that we follow, serving as reference material for on-boarding, expectations, communications, coding, data, publishing, and presentations.
 
 Research in the Applied Ecology Lab focuses on the conservation and management of aquatic resources, particularly within Washington State and along the west coast of North America. Much of our research is focused on the development and application of statistical methods for analyzing temporal and spatial data, but we collect our own data as well. In particular, our research relies on a combination of empirical data, quantitative analysis, and communication. We also pursue our scientific endeavors in an open science environment where we create accessible and reproducible workflows.
 
