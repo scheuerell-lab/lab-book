@@ -19,13 +19,7 @@ Research in the Applied Ecology Lab focuses on the conservation and management o
 
 The content of this book was drawn from a variety of sources. In particular, we would like to acknowledge [Chelsea Wood](https://fish.uw.edu/faculty/chelsea-wood/), [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/), and [Gavin Fay](https://sites.google.com/site/gfay42/). If you have questions or suggestions for improvements, please contact [Mark Scheuerell](mailto:scheuerl@uw.edu).
 
-The Applied Ecology Lab thanks the following individuals for their contributions to this manual:
-
-* Dara Farrell  
-* Markus Min  
-* Kelly Mistry  
-* Karl Veggerby  
-
+The Applied Ecology Lab thanks the following individuals for their contributions to this manual: Dara Farrell, Markus Min, Kelly Mistry, and Karl Veggerby.
 
 <br>
 
