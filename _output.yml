@@ -4,5 +4,5 @@ bookdown::bs4_book:
     fg: "#2b2121"
     bg: "#ffffff"
     base_font: !expr bslib::font_google("Open Sans")
-    font-size-base: "1rem"
+    font-size-base: "0.9rem"
   repo: https://github.com/scheuerell-lab/lab-book
