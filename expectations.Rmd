@@ -1,30 +1,61 @@
 # Expectations
 
+People in the Applied Ecology Lab are expected to be good citizens, neighbors, and office/lab mates. Please try your best to act in a manner consistent with our [Code of Conduct](LINK HERE).
 
-## Mentoring plans
+## Mark's role
 
+Mark is here to serve as a mentor and source of information about academics, research, service, and life in general. He will do his best to help everyone get the most out of their experience at SAFS and UW. As such, Mark will push you to be your best self, which may include some uncomfortable conversations on occasion. Maintaining open and clear lines of communication will be paramount to our successful mentor/mentee relationship. It's important that students, postdocs, and technicians feel empowered to express their opinions without fear of reprisal.
 
+Mark also recognizes that his socio-economic background and upbringing have shielded him from many of the challenges and injustices in the world. Although Mark is committed to helping you find the resources and information you need, he also acknowledges that he's a cis-gendered, straight, middle-aged white man, which means some of you may want to seek advice from others inside or outside of SAFS. And that's OK.
 
 ## Work hours
 
+Everyone is expected to finish their tasks on time, but there are no fixed hours when people are expected to be working in the office, lab, or remote location. That said, there will indeed be times when you are expected to be somewhere at a certain time, whether it be for a meeting, seminar, or lab/field work. Please be considerate of other people's time and do not make them wait for you or wonder where you are. If something should come up, please contact others to let them know your status.
 
+In general, Mark tries to maintain core hours at SAFS from 10:00-4:00 each weekday, so that people can interact with him on an *ad hoc* basis. When Mark knows he will be away due to travel or other business, he will do his best to alert the lab prior to his absence. If you cannot find Mark in his office outside of those times, please send him a message via Slack, email, or text message (if urgent or an emergency).
 
 ## Grad students
 
-Graduate school should be a rewarding experience, but it can be incredibly challenging at times. The resources provided here are meant to help you transition to a new phase in your life and get the most out of your time at the UW School of Aquatic and Fishery Sciences.
+Graduate school should be a rewarding experience, but it can be incredibly challenging at times. The resources provided here are meant to help you transition to a new phase in your life and get the most out of your time at the UW School of Aquatic and Fishery Sciences. Staying organized with respect to your personal obligations, coursework, research, and outreach will help you through the process.
 
 As a new graduate student in our lab, you will be welcomed into a group of diverse individuals with varying interests. We support each other in our respective endeavors and celebrate our successes. You will have numerous opportunities to contribute to our research projects, develop lasting bonds to others within and outside the lab, and help us improve upon our ways.
 
+### Mentoring plans
+
+All grad students will develop a mentoring plan with assistance from Mark. This will be a "living document" that evolves over time according to the goals and needs of the student.
+
+### Annual reviews
+
+All grad students will undergo an annual review with Mark, which involves the following 3 steps, as outlined [here](https://fish.uw.edu/wp-content/uploads/sites/29/2020/06/GSAR.pdf):
+
+1. Independent reports
+
+    * Student and Advisor both complete Annual Review reports, which include a self assessment
+
+2. Student / Advisor meeting
+
+    * Meet to discuss independent review reports
+
+    * Define specific goals for the next academic year including any planned exams
+
+    * After meeting, the advisor will distribute both reports to Committee
+
+3. Committee meeting
+
+    * Meet to discuss independent reports or distribute them electronically
+
+    * Revise and/or approve goals for next academic year
+
+    * Committee discusses and completes the Annual Committee Meeting Report, and sends it to Student for a response
+
+    * Advisor files completed Committee Report with SAFS
+
+
 ## Postdocs
 
-Post-docs in our lab conduct independent research and serve as ad hoc advisors to undergraduate and graduate students. They are a useful source of information and can help students navigate difficult situations.
+Post-docs in our lab conduct independent research and serve as *ad hoc* advisors to undergraduate and graduate students. They are a useful source of information and can help students navigate difficult situations.
 
 ## Technicians & staff
 
-
-
-## Mark
-
-
-
+More info coming soon.
 
