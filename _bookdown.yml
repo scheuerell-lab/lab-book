@@ -5,8 +5,9 @@ rmd_files: [
   "index.Rmd",
   ## background
   "values.Rmd",
-  "code-of-conduct.Rmd",
   "expectations.Rmd",
+  "code-of-conduct.Rmd",
+  "dei-resources.Rmd",
   ## getting started
   "onboarding.Rmd",
   ## policies & procedures
