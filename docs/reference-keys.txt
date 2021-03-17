@@ -3,12 +3,13 @@ mission
 vision
 land-acknowledgment
 expectations
-mentoring-plans
+marks-role
 work-hours
 grad-students
+mentoring-plans
+annual-reviews
 postdocs
 technicians-staff
-mark
 code-of-conduct
 things-you-can-do
 things-you-cannot-do
@@ -31,6 +32,7 @@ communication
 slack
 github
 email
+text-message
 participation
 mentoring-meetings
 lab-meetings
