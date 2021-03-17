@@ -1,9 +1,9 @@
 bookdown::bs4_book:
-  # theme:
-  #   primary: "#4b2e83"
-  #   fg: "#2b2121"
-  #   bg: "#ffffff"
-  #   base_font: !expr bslib::font_google("Open Sans")
-  theme: !expr bslib::bs_theme(bg = "#ffffff", fg = "#2b2121", primary = "#4b2e83", base_font = bslib::font_google("Open Sans"), "font-size-base" = "1rem")
+  theme:
+    primary: "#4b2e83"
+    fg: "#2b2121"
+    bg: "#ffffff"
+    base_font: !expr bslib::font_google("Open Sans")
+  # theme: !expr bslib::bs_theme(bg = "#ffffff", fg = "#2b2121", primary = "#4b2e83", base_font = bslib::font_google("Open Sans"), "font-size-base" = "1rem")
   css: style.css
   repo: https://github.com/scheuerell-lab/lab-book
