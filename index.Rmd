@@ -9,18 +9,41 @@ link-citations: yes
 description: ""
 ---
 
-# Welcome! {.unnumbered}
+```{r echo = FALSE}
+make_icon <- function(icon) {
+  return(htmltools::tag("i", list(class = icon)))
+}
+
+make_icon_text <- function(icon, text) {
+  return(htmltools::HTML(paste0(make_icon(icon), " ", text)))
+}
+
+# Creates the html to make a button to an external link
+icon_link <- function(icon = NULL, text = NULL, url = NULL) {
+  if (!is.null(icon)) {
+    text <- make_icon_text(icon, text)
+  }
+  return(htmltools::a(href = url, text, class = "icon-link"))
+}
+```
+
+# Welcome! {-}
 
 This is the lab book for [Mark Scheuerell](https://fish.uw.edu/faculty/mark-scheuerell/)'s Applied Ecology Lab in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the University of Washington. This book lays out the policies and procedures that we follow, serving as reference material for on-boarding, expectations, communications, coding, data, publishing, and presentations.
 
 Research in the Applied Ecology Lab focuses on the conservation and management of aquatic resources, particularly within Washington State and along the west coast of North America. Much of our research is focused on the development and application of statistical methods for analyzing temporal and spatial data, but we collect our own data as well. In particular, our research relies on a combination of empirical data, quantitative analysis, and communication. We also pursue our scientific endeavors in an open science environment where we create accessible and reproducible workflows.
 
-## Acknowledgments {.unnumbered}
+## Acknowledgments {-}
 
 The content of this book was drawn from a variety of sources. In particular, we would like to acknowledge [Chelsea Wood](https://fish.uw.edu/faculty/chelsea-wood/), [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/), and [Gavin Fay](https://sites.google.com/site/gfay42/). If you have questions or suggestions for improvements, please contact [Mark Scheuerell](mailto:scheuerl@uw.edu).
 
 The Applied Ecology Lab thanks the following individuals for their contributions to this manual: Dara Farrell, Markus Min, Kelly Mistry, and Karl Veggerby.
 
+## License {-}
+
+`r icon_link(icon = "fas fa-balance-scale", text = "CC-BY-SA-4.0 License", url  = "https://github.com/scheuerell-lab/lab-book/blob/main/LICENSE")`
+
 <br>
 
 This is version `r format(Sys.Date(), '%y.%m.%d')`.
+
