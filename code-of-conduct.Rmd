@@ -78,6 +78,6 @@ If you believe someone has violated the Code of Conduct, please report it to Mar
 
 <br>
 
-### Credits
+### Credits {-}
 
 Much of this content is based upon Codes of Conduct developed by the [Data Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#about-this-document).
