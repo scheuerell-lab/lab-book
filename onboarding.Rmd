@@ -2,4 +2,28 @@
 
 # Onboarding
 
-info here
+The information in this section will help new students and staff get acquainted with the resources available to them.
+
+## Immunization
+
+First-time students must meet the UW Immunization Requirement, which protects the UW community from outbreaks of diseases like measles and mumps. When the majority of UW students are vaccinated against measles and mumps, they shield other students who are unable to be vaccinated due to pregnancy, allergies or compromised immune systems. The university asks that you upload proof of immunity *by the first day of your first quarter at UW*. The sooner the upload, the more quickly they will process your documents. 
+
+Regardless of your immunization requirement status, you will be able to register for classes for your first quarter, but registration for your second quarter at UW may be affected if you have not met the requirement by that time. You can find out more about the immunization requirement [here](https://wellbeing.uw.edu/medical/immunizations/immunization-requirement/).
+
+## UW NetID
+
+Your UW NetID is your personal identification for using secure UW online resources. A UW NetID is required of everyone associated with the University of Washington who plans to use online central administrative and computing services. These include Web pages to:
+
+* Register for classes and thesis/dissertation credits.
+
+* Check your personal information (student grades and schedules, employee payroll records and benefits files).
+
+* Set up UW email accounts with forwarding options, along with other computer services.
+
+To create your UW NetID, please click [**here**](https://uwnetid.washington.edu/newid/). Please keep in mind that your NetID will also be your UW email address, so choose an ID carefully (you will be limited to 8 characters). 
+
+## MyUW
+
+[**MyUW**](https://my.uw.edu/) is your personal portal to University of Washington information. It is an easy-to-use tool for finding student and employee resources. You can personalize MyUW to fit your needs by including or excluding the services you see listed. Your UW NetID and password are required to log in.
+
+
