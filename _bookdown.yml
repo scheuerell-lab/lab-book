@@ -4,10 +4,9 @@ output_dir: "docs"
 rmd_files: [
   "index.Rmd",
   ## background
-  "values.Rmd",
+  "culture.Rmd",
   "expectations.Rmd",
   "code-of-conduct.Rmd",
-  "dei-resources.Rmd",
   ## getting started
   "onboarding.Rmd",
   ## policies & procedures
@@ -18,7 +17,9 @@ rmd_files: [
   "data.Rmd",
   ## safety
   "health.Rmd",
-  "safety.Rmd"
+  "safety.Rmd",
+  ## appendices
+  "dei-resources.Rmd"
 ]
 language:
   ui:
