@@ -13,5 +13,25 @@ pre code {
   white-space: inherit;
 }
 p {
-  font-size: 1rem;
+  font-size: 0.95rem;
+}
+
+/*--- LOGO ---*/
+
+.toc-logo {
+  width: 150px !important;
+  object-fit: contain;
+  margin: 0 0;
+  display: block;
+}
+
+.toc-logo img {
+  max-width: 100%;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: 5px;
+}
+
+.summary > li:first-child {
+  height: auto !important; 
 }
