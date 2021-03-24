@@ -17,6 +17,7 @@ rmd_files: [
   "coding.Rmd",
   "data.Rmd",
   ## safety
+  "health.Rmd",
   "safety.Rmd"
 ]
 language:
