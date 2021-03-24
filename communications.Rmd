@@ -8,11 +8,11 @@ Our lab relies on several forms of communication, each with its own pros and con
 
 ## Slack
 
-We use [**Slack**](https://scheuerell-lab.slack.com) as our primary mode of communication in the lab, as it helps to keep our email more manageable while providing a simple means for categorizing, archiving, and searching prior content.
+We use [**Slack**](https://scheuerell-lab.slack.com) as our primary mode of communication in the lab, as it helps to keep our email more manageable while providing a simple means for categorizing, archiving, and searching prior content. We also encourage you to sign up for the [**SAFS workspace**](https://safs-community.slack.com) and the [**WACFWRU workspace**](https://wacfwru.slack.com) as well.
 
 ## GitHub
 
-We use the Issues feature in GitHub when communicating inside and outside of the lab with our project collaborators. We also use GitHub for creating and editing our [**agendas for lab meetings**](https://github.com/scheuerell-lab/lab-meeting).
+We use [**GitHub**](https://github.com/scheuerell-lab) as a collaboration platform for our research projects. If you do not already have a GitHub account, please sign up for one (it's free). We also use the Issues feature in GitHub when communicating inside and outside of the lab with our project collaborators. We also use GitHub for creating and editing our [**agendas for lab meetings**](https://github.com/scheuerell-lab/lab-meeting).
 
 ## Email
 
