@@ -33,6 +33,10 @@ This is the lab book for [Mark Scheuerell](https://fish.uw.edu/faculty/mark-sche
 
 Research in the Applied Ecology Lab focuses on the conservation and management of aquatic resources, particularly within Washington State and along the west coast of North America. Much of our research is focused on the development and application of statistical methods for analyzing temporal and spatial data, but we collect our own data as well. In particular, our research relies on a combination of empirical data, quantitative analysis, and communication. We also pursue our scientific endeavors in an open science environment where we create accessible and reproducible workflows.
 
+## Land acknowledgment {-}
+
+We acknowledge the ancestral homelands of those who walked here before us and those who still walk here, keeping in mind the integrity of this territory where area Native peoples identify as the Duwamish, Suquamish, Snoqualmie, and Puyallup, as well as the tribes of the Muckleshoot, Tulalip, other Coast Salish peoples, and their descendants. We are grateful to respectfully live and work as guests on these lands with the Coast Salish and Native people who call this home.
+
 ## Acknowledgments {-}
 
 The content of this book was drawn from a variety of sources. In particular, we would like to acknowledge [Chelsea Wood](https://fish.uw.edu/faculty/chelsea-wood/), [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/), and [Gavin Fay](https://sites.google.com/site/gfay42/). If you have questions or suggestions for improvements, please contact [Mark Scheuerell](mailto:scheuerl@uw.edu).
