@@ -4,12 +4,6 @@
 
 The information in this section will help new students and staff get acquainted with the resources available to them.
 
-## Immunization
-
-First-time students must meet the UW Immunization Requirement, which protects the UW community from outbreaks of diseases like measles and mumps. When the majority of UW students are vaccinated against measles and mumps, they shield other students who are unable to be vaccinated due to pregnancy, allergies or compromised immune systems. The university asks that you upload proof of immunity *by the first day of your first quarter at UW*. The sooner the upload, the more quickly they will process your documents. 
-
-Regardless of your immunization requirement status, you will be able to register for classes for your first quarter, but registration for your second quarter at UW may be affected if you have not met the requirement by that time. You can find out more about the immunization requirement [here](https://wellbeing.uw.edu/medical/immunizations/immunization-requirement/).
-
 ## UW NetID
 
 Your UW NetID is your personal identification for using secure UW online resources. A UW NetID is required of everyone associated with the University of Washington who plans to use online central administrative and computing services. These include Web pages to:
@@ -25,5 +19,99 @@ To create your UW NetID, please click [**here**](https://uwnetid.washington.edu/
 ## MyUW
 
 [**MyUW**](https://my.uw.edu/) is your personal portal to University of Washington information. It is an easy-to-use tool for finding student and employee resources. You can personalize MyUW to fit your needs by including or excluding the services you see listed. Your UW NetID and password are required to log in.
+
+## Email
+
+If you prefer to use a non-UW email account primarily (e.g., Gmail), you can forward all of your UW email by updating your preferences on [**MyUW**](https://my.uw.edu/). However, you should ensure that your forwarded UW email is not filtered into your junk-mail/SPAM folder (e.g., add your UW email address to your contact list on your non-UW account).
+
+### SAFS email lists
+
+You should be automatically subscribed to the `safsgrads@uw.edu` mailing list, which is where general announcements are typically sent. You may also choose to self-subscribe to the SAFS "social" list `safssocial@uw.edu` [here](http://mailman.u.washington.edu/mailman/listinfo/safssocial/). You will not only hear about housing opportunities on this list but also events on campus, things for sale, and social events.  
+
+Additionally, you can manage your preferences for all lists to which you subscribe [here](http://www.washington.edu/computing/mailman/subscribers/) by typing the name of the list in the search box under "Find a List's Information Page". If you prefer to receive all email from a list in a daily digest (i.e., a summary) instead of individually, you can select the digest option by going to the list's information page.
+
+## Regular mail
+
+You will have a mailbox in the Fishery Sciences Building on campus, but it should only be used for correspondence and packages related to your academic program. The address is 
+
+School of Aquatic and Fishery Sciences  
+1122 NE Boat Street  
+Box 355020  
+Seattle, WA 98195-5020  
+
+Please make arrangements to receive all personal mail at your new local address. 
+
+## Getting paid
+
+If you have a Research Assistantship (RA), Teaching Assistantship (TA), or a SAFS fellowship, please bring either a U.S. Passport or some form of photo ID (driver's license, state ID card) and proof of eligibility to work in the U.S. (passport, birth certificate, social security card, or I-20 with statement indicating eligibility to work on campus) to Amy Fox in the SAFS Admin Office (FSH 116) and complete your employment paperwork before the first day of the pay period (September 16). Amy takes drop-ins daily between 9:30AM and 5:00PM, or you can [email Amy](mailto:amyfox@uw.edu) for an appointment or to ask questions. **Note: You cannot be placed on payroll without this documentation**. 
+
+## Union representation
+
+As an RA or TA at UW, you are classified as an Academic Student Employee (ASE) and may choose to become a member of the [GSEAC/UAW union](https://depts.washington.edu/labhist/uwunions/gseac.htm). Union members pay dues; non-members are required to pay a service fee to the union. Dues or service fees are automatically deducted from each paycheck. The union contract is available for review [here](https://hr.uw.edu/labor/academic-and-student-unions/uaw-ase/ase-contract). We strongly encourage you to become familiar with the contract, as both the UW and ASEs are bound by it, whether or not the student is a union member.
+
+## Immunization
+
+First-time students must meet the UW Immunization Requirement, which protects the UW community from outbreaks of diseases like measles and mumps. When the majority of UW students are vaccinated against measles and mumps, they shield other students who are unable to be vaccinated due to pregnancy, allergies or compromised immune systems. The university asks that you upload proof of immunity *by the first day of your first quarter at UW*. The sooner the upload, the more quickly they will process your documents. 
+
+Regardless of your immunization requirement status, you will be able to register for classes for your first quarter, but registration for your second quarter at UW may be affected if you have not met the requirement by that time. You can find out more about the immunization requirement [here](https://wellbeing.uw.edu/medical/immunizations/immunization-requirement/).
+
+## New student orientation
+
+Students funded by SAFS as an RA, TA, or fellow should be on campus by September 16, unless alternate arrangements have been made with Mark. Orientation takes place over a series of days between September 21–29 and normally includes a half-day SAFS orientation for all new graduate students, a lab-safety workshop, TA and RA training, and a CPR/First Aid class. Orientation is designed to help you become familiar with SAFS, its resources, and policies.
+
+If you are funded by your employer or another non-SAFS source, many of the events may not be applicable to you (e.g., TA or RA training). If an event is not applicable, then you do not need to participate in it. However, **all new students are required to attend the half-day SAFS Orientation**.
+
+## Additional resources
+
+Here are several additional resources to help you get acquainted with life on campus.
+
+* [UW Student Guide](http://www.washington.edu/students/)
+
+* [UW Events Calendar](http://www.washington.edu/visit/events.html)
+
+* [UW Student Organizations Office](http://depts.washington.edu/sao/)
+
+* [Registrar's Office](http://depts.washington.edu/registra/offices.html)
+
+* [UW Bookstore](http://www.bookstore.washington.edu/)
+
+* [Residency Classification Office](http://depts.washington.edu/registra/offices.html#Q7)
+
+### Getting around
+
+* [Campus maps](http://www.washington.edu/home/maps/)
+
+* [Bike map](http://www.kingcounty.gov/transportation/kcdot/Roads/Bicycling.aspx)
+
+* [Bus info](http://metro.kingcounty.gov/)
+
+* [UW Commuter and Parking Services, including UPASS](http://www.washington.edu/commuterservices/parking/)
+
+### Women & minorities
+
+* [Dream Project](https://www.washington.edu/dreamproject/who/)
+
+* [Race & Equity](https://www.washington.edu/raceequity/)
+
+* [The Q Center](https://depts.washington.edu/qcenter/wordpress/)
+
+* [Disability resources](https://depts.washington.edu/uwdrs/)
+
+* [Graduate Opportunities & Minority Achievement Program (GO-MAP)](https://grad.uw.edu/equity-inclusion-and-diversity/go-map/)
+
+* [UW Minority Affairs & Diversity Office](http://depts.washington.edu/omad/)
+
+* [UW Women's Center](http://depts.washington.edu/womenscenter/)
+
+### Funding & fiscal services
+
+* [Student Fiscal Services (paying your bill)](http://f2.washington.edu/fm/sfs/)
+
+* [Financial Aid Office](http://www.washington.edu/students/osfa/)
+
+* [Funding Opportunities](http://www.grad.washington.edu/fellow/funding.htm)
+
+* [Federal funding](http://grants.gov/)
+
 
 
