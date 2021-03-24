@@ -45,5 +45,5 @@ The Applied Ecology Lab thanks the following individuals for their contributions
 
 <br>
 
-This is version `r format(Sys.Date(), '%y.%m.%d')`.
+<center>This is version `r format(Sys.Date(), '%y.%m.%d')`.</center>
 
