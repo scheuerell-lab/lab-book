@@ -10,6 +10,8 @@ description: ""
 ---
 
 ```{r echo = FALSE}
+## thanks to John Helveston for these functions
+## https://github.com/jhelvy/jhelvy.github.io/blob/master/R/functions.R
 make_icon <- function(icon) {
   return(htmltools::tag("i", list(class = icon)))
 }
@@ -41,7 +43,7 @@ We acknowledge the ancestral homelands of those who walked here before us and th
 
 The content of this book was drawn from a variety of sources. In particular, we would like to acknowledge [Chelsea Wood](https://fish.uw.edu/faculty/chelsea-wood/), [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/), and [Gavin Fay](https://sites.google.com/site/gfay42/) for their inspiration. If you have questions or suggestions for improvements, please contact [Mark Scheuerell](mailto:scheuerl@uw.edu).
 
-The Applied Ecology Lab thanks the following individuals for their contributions to this manual: Dara Farrell, Markus Min, Kelly Mistry, and Karl Veggerby.
+The Applied Ecology Lab also thanks the following individuals for their contributions to this manual: Dara Farrell, Markus Min, Kelly Mistry, and Karl Veggerby.
 
 ## License {-}
 
@@ -49,5 +51,5 @@ The Applied Ecology Lab thanks the following individuals for their contributions
 
 <br>
 
-<center>This is version `r format(Sys.Date(), '%y.%m.%d')`.</center>
+<center style="font-size:0.95rem">This is version `r format(Sys.Date(), '%y.%m.%d')`.</center>
 
