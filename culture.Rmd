@@ -1,18 +1,68 @@
 # (PART) Background {-}
 
-# Lab culture
-
-## Values
+# Lab culture & values
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of their background, identity, appearance, or manner of communication. Our team works in an open science environment, relying on trust and respect to build effective partnerships. We continually strive to improve and expand upon our complimentary skillsets through education and innovation, and we believe strongly in the sharing of knowledge through conversation and writing.
 
-## Mission
+## Our mission
 
 Using our knowledge and skills to help solve real-world problems.
 
-## Vision
+## Our vision
 
 Our vision is to better understand and manage aquatic ecosystems through the integration of data, analysis, and communication.
 
-## Philosophy
+## Our philosophy
+
+* [We focus on what is best for all of us]
+
+* [We learn from our mistakes]
+
+* [We respect different viewpoints and experiences]
+
+* [We listen with intent to understand]
+
+* [We show out]
+
+* [We celebrate our successes]
+
+* [We gracefully accept constructive criticism]
+
+* [We are open to change]
+
+* [We consider the impact of our intent]
+
+* [We embrace life outside of academia]
+
+
+### We focus on what is best for all of us {-}
+
+
+### We learn from our mistakes {-}
+
+
+### We respect different viewpoints and experiences {-}
+
+
+### We listen with intent to understand {-}
+
+
+### We gracefully accept constructive criticism {-}
+
+
+### We are open to change {-}
+
+
+### We consider the impact of our intent {-}
+
+
+### We show out {-}
+
+
+### We celebrate our successes {-}
+
+
+### We embrace life outside of academia {-}
+
+
 
