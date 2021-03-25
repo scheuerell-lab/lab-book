@@ -1,7 +1,7 @@
 lab-culture-values
-mission
-vision
-philosophy
+our-mission
+our-vision
+our-philosophy
 expectations
 marks-role
 some-things-to-expect-from-mark
