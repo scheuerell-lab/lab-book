@@ -1,6 +1,6 @@
 bookdown::bs4_book:
   theme:
-    primary: "#4b2e83"
+    primary: "#4056a1"
     fg: "#2b2121"
     bg: "#ffffff"
     base_font: !expr bslib::font_google("Open Sans")
