@@ -1,6 +1,7 @@
 --- 
 title: "Applied Ecology Lab"
 author: "Mark Scheuerell"
+date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -31,9 +32,9 @@ icon_link <- function(icon = NULL, text = NULL, url = NULL) {
 
 # Welcome! {-}
 
-This is the lab book for [Mark Scheuerell](https://fish.uw.edu/faculty/mark-scheuerell/)'s Applied Ecology Lab in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the University of Washington. This book lays out the policies and procedures that we follow, serving as reference material for on-boarding, expectations, communications, coding, data, publishing, and presentations.
+This is the lab book for [Mark Scheuerell](https://fish.uw.edu/faculty/mark-scheuerell/)'s Applied Ecology Lab in the [School of Aquatic and Fishery Sciences (SAFS)](https://fish.uw.edu/) at the University of Washington. This book lays out the policies and procedures that we follow, serving as reference material for on-boarding, expectations, communications, coding, data, publishing, and presentations.
 
-Research in the Applied Ecology Lab focuses on the conservation and management of aquatic resources, particularly within Washington State and along the west coast of North America. Much of our research is focused on the development and application of statistical methods for analyzing temporal and spatial data, but we collect our own data as well. In particular, our research relies on a combination of empirical data, quantitative analysis, and communication. We also pursue our scientific endeavors in an open science environment where we create accessible and reproducible workflows.
+Research in the Applied Ecology Lab focuses on the conservation and management of aquatic resources, particularly within Washington State and along the west coast of North America. Much of our research is focused on the development and application of statistical methods for analyzing temporal and spatial data, but we collect our own data as well. In particular, our research relies on a combination of empirical data, quantitative analysis, and communication. We also pursue our scientific endeavors in an open science environment where we create accessible and reproducible workflows. You can find out more about our science and communication on our [website](https://depts.washington.edu/appliedecology/).
 
 ## Land acknowledgment {-}
 
@@ -41,7 +42,7 @@ We acknowledge the ancestral homelands of those who walked here before us and th
 
 ## Credits {-}
 
-The content of this book was drawn from a variety of sources. In particular, we would like to acknowledge [Chelsea Wood](https://fish.uw.edu/faculty/chelsea-wood/), [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/), and [Gavin Fay](https://sites.google.com/site/gfay42/) for their inspiration. If you have questions or suggestions for improvements, please contact [Mark Scheuerell](mailto:scheuerl@uw.edu).
+Many people and sources inspired the content here. In particular, we would like to acknowledge [Gavin Fay](https://sites.google.com/site/gfay42/), [Chelsea Wood](https://fish.uw.edu/faculty/chelsea-wood/), [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/), and [Sarah Converse](https://fish.uw.edu/faculty/sarah-converse/). If you have questions or suggestions for improvements, please contact [Mark Scheuerell](mailto:scheuerl@uw.edu).
 
 The Applied Ecology Lab also thanks the following individuals for their contributions to this manual: Dara Farrell, Markus Min, Kelly Mistry, and Karl Veggerby.
 
@@ -49,7 +50,7 @@ The Applied Ecology Lab also thanks the following individuals for their contribu
 
 `r icon_link(icon = "fas fa-balance-scale", text = "CC-BY-SA-4.0 License", url  = "https://github.com/scheuerell-lab/lab-book/blob/main/LICENSE")`
 
-<br>
+<!-- <br> -->
 
-<center style="font-size:0.95rem">This is version `r format(Sys.Date(), '%y.%m.%d')`.</center>
+<!-- <center style="font-size:0.95rem">v`r format(Sys.Date(), '%y.%m.%d')`</center> -->
 
