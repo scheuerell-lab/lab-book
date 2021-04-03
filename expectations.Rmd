@@ -4,13 +4,13 @@ People in the Applied Ecology Lab are expected to be good citizens, neighbors, a
 
 ## Mark's role
 
-Mark is here to serve as a mentor and source of information about academics, research, service, and life in general. He will do his best to help everyone get the most out of their experience at SAFS and UW. As such, Mark will push you to be your best self, which may include some uncomfortable conversations on occasion. Maintaining open and clear lines of communication will be paramount to our successful mentor/mentee relationship. It's important that students, postdocs, and technicians feel empowered to express their opinions without fear of reprisal.
+Mark is here to serve as a mentor and source of information about academics, research, service, and life in general. He will do his best to help everyone get the most out of their experience at SAFS and UW. As such, Mark will push you to be your best self, which may include some uncomfortable conversations on occasion. Maintaining open and clear lines of communication will be paramount to our successful mentor/mentee relationship, and Mark believes strongly that students, postdocs, and technicians should feel empowered to openly express their feelings.
 
-Mark also recognizes that his socio-economic background and upbringing have shielded him from many of the challenges and injustices in the world. Although Mark is committed to helping you find the resources and information you need, he's also cisgendered, straight, and white, which means some of you may want to seek advice from others inside or outside of SAFS. And that's totally OK.
+Mark also recognizes that his socio-economic background and upbringing have shielded him from many of the challenges and injustices that others may face. Although Mark is committed to helping you find the resources and information you need, he's also cisgendered, straight, white, which means some of you may want to seek advice from others inside or outside of SAFS. If you should choose to do so, you are under no obligation to tell Mark about it.
 
 ### Some things to expect from Mark
 
-* Mark will strive to be impartial in his dealings with all lab members and create a welcoming and inclusive atmosphere to facilitate learning and excellence.
+* Mark will strive to be impartial in his dealings with all lab members and cultivate a welcoming and inclusive atmosphere to facilitate learning and excellence.
 
 * Mark will endeavor to be clear in his advice and feedback to you.
 
@@ -25,14 +25,6 @@ Mark also recognizes that his socio-economic background and upbringing have shie
 * Mark will provide career advice and help you expand your professional network. 
 
 * Mark will assist you in finding a position following the completion of your program, which includes writing honest letters of recommendation on your behalf.
-
-## Work hours
-
-Everyone is expected to finish their tasks on time, but there are no fixed hours when people are expected to be working in the office, lab, or remote location. That said, there will indeed be times when you are expected to be somewhere at a certain time, whether it be for a meeting, seminar, or lab/field work. Please be considerate of other people's time and do not make them wait for you or wonder where you are. If something should come up, please contact others to let them know your status.
-
-In general, Mark tries to maintain core hours at SAFS from 10:00-4:00 each weekday, so that people can interact with him on an *ad hoc* basis. When Mark knows he will be away due to travel or other business, he will do his best to alert the lab prior to his absence. If you cannot find Mark in his office, please send him a message via Slack, email, or text message (if urgent or an emergency).
-
-If you are funded as an RA or TA, you are expected to work on the research program funding you, or the class to which you have been assigned, for 20 hours per week. You are expected to spend another 20 hours per week working on your own research, coursework, outreach, etc. "Side projects" are encouraged, but they should be considered part of your own 20 hours of research/studies, and not your RA or TA responsibilities. Your highest priorities are completing the tasks related to your TA/RA work and making progress towards completing your degree.
 
 ## Grad students
 
@@ -102,4 +94,13 @@ More info coming soon.
 ## Technicians & staff
 
 More info coming soon.
+
+
+## Work hours
+
+Everyone is expected to finish their tasks on time, but there are no fixed hours when people are expected to be working in the office, lab, or remote location. That said, there will indeed be times when you are expected to be somewhere at a certain time, whether it be for a meeting, seminar, or lab/field work. Please be considerate of other people's time and do not make them wait for you or wonder where you are. If something should come up, please contact others to let them know your status.
+
+In general, Mark tries to maintain core hours at SAFS from 10:00-4:00 each weekday, so that people can interact with him on an *ad hoc* basis. When Mark knows he will be away due to travel or other business, he will do his best to alert the lab prior to his absence. If you cannot find Mark in his office, please send him a message via Slack, email, or text message (if urgent or an emergency).
+
+If you are funded as an RA or TA, you are expected to work on the research program funding you, or the class to which you have been assigned, for 20 hours per week. You are expected to spend another 20 hours per week working on your own research, coursework, outreach, etc. "Side projects" are encouraged, but they should be considered part of your own 20 hours of research/studies, and not your RA or TA responsibilities. Your highest priorities are completing the tasks related to your TA/RA work and making progress towards completing your degree.
 
