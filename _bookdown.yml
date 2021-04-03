@@ -8,7 +8,8 @@ rmd_files: [
   "expectations.Rmd",
   "code-of-conduct.Rmd",
   ## getting started
-  "onboarding.Rmd",
+  "onboarding_safs.Rmd",
+  "onboarding_cru.Rmd",
   ## policies & procedures
   "communications.Rmd",
   "participation.Rmd",
@@ -18,6 +19,9 @@ rmd_files: [
   ## safety
   "health.Rmd",
   "safety.Rmd",
+  ## Lab & Field
+  "vehicles.Rmd",
+  "boats.Rmd",
   ## appendices
   "dei-resources.Rmd"
 ]
