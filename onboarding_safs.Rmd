@@ -1,6 +1,6 @@
 # (PART) Getting started {-}
 
-# Onboarding
+# UW & SAFS 
 
 The information in this section will help new students and staff get acquainted with the resources available to them.
 
@@ -55,11 +55,32 @@ First-time students must meet the UW Immunization Requirement, which protects th
 
 Regardless of your immunization requirement status, you will be able to register for classes for your first quarter, but registration for your second quarter at UW may be affected if you have not met the requirement by that time. You can find out more about the immunization requirement [here](https://wellbeing.uw.edu/medical/immunizations/immunization-requirement/).
 
-## New student orientation
+## Orientation
 
 Students funded by SAFS as an RA, TA, or fellow should be on campus by September 16, unless alternate arrangements have been made with Mark. Orientation takes place over a series of days between September 21–29 and normally includes a half-day SAFS orientation for all new graduate students, a lab-safety workshop, TA and RA training, and a CPR/First Aid class. Orientation is designed to help you become familiar with SAFS, its resources, and policies.
 
 If you are funded by your employer or another non-SAFS source, many of the events may not be applicable to you (e.g., TA or RA training). If an event is not applicable, then you do not need to participate in it. However, **all new students are required to attend the half-day SAFS Orientation**.
+
+## Helpful people
+
+These people are very helpful and may be able to assist you.
+
+* [Amy Fox](mailto:safs@uw.edu) (SAFS graduate student advisor)
+
+* [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/) (SAFS graduate program coordinator)
+
+* [Verna Blackhurst](mailto:vernab@uw.edu) (WACFWRU administrator)
+
+* [Joans Louie](mailto:jinl@uw.edu)	(SAFS Administrator)
+
+* [Dan DiNicola](mailto:dinicola@uw.edu)	(Communications, Website)
+
+* [Michael Parker](mailto:safshelp@uw.edu) (IT)
+
+* [Sam Scherer](mailto:iamsam@uw.edu) (Student Services Manager)
+
+* [Jon Wittouck](mailto:wittouck@uw.edu) (Facilities, Shop, Lab Safety)
+
 
 ## Additional resources
 
