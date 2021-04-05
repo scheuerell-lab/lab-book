@@ -16,6 +16,8 @@ rmd_files: [
   "collaborations.Rmd",
   "coding.Rmd",
   "data.Rmd",
+  ## expression
+  "prof_expression.Rmd",
   ## safety
   "health.Rmd",
   "safety.Rmd",
