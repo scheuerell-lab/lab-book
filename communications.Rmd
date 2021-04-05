@@ -12,7 +12,7 @@ We use [**Slack**](https://scheuerell-lab.slack.com) as our primary mode of comm
 
 ## GitHub
 
-We use [**GitHub**](https://github.com/scheuerell-lab) as a collaboration platform for our research projects. If you do not already have a GitHub account, please sign up for one (it's free). We also use the Issues feature in GitHub when communicating inside and outside of the lab with our project collaborators. We also use GitHub for creating and editing our [**agendas for lab meetings**](https://github.com/scheuerell-lab/lab-meeting).
+We use [**GitHub**](https://github.com/scheuerell-lab) as a collaboration platform for our research projects. If you do not already have a GitHub account, please sign up for one (it's free). We tend to use the "Issues" feature in GitHub when communicating inside and outside of the lab with our project collaborators. We also use GitHub for creating and editing our [**agendas for lab meetings**](https://github.com/scheuerell-lab/lab-meeting).
 
 ## Email
 
