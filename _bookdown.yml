@@ -16,8 +16,10 @@ rmd_files: [
   "collaborations.Rmd",
   "coding.Rmd",
   "data.Rmd",
-  ## expression
-  "prof_expression.Rmd",
+  ## scicomm
+  "online_presence.Rmd",
+  "presentations.Rmd",
+  "publications.Rmd",
   ## safety
   "health.Rmd",
   "safety.Rmd",
