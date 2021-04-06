@@ -1,0 +1,54 @@
+# (PART) SciComm {-}
+
+# Online presence
+
+Maintaining an online presence feels increasingly important in science, as it's often the quickest and most convenient way to communicate about what's being done, who's doing it, and where it's happening. If someone wants to find out about you, they're going to search for you online.
+
+
+## Website
+
+Mark encourages everyone to create a personal website, as they are a great way to show the projects you work on, the people you collaborate with, your CV, etc. There are many different platforms that allow you to create a free website. Mark uses Hugo and reveal.js to create the [lab website on GitHub](https://github.com/scheuerell-lab/website) and would be happy to help you get set up that way. Alternatively, you could use the built-in functionality of options from Google, Wix, Wordpress, etc.
+
+
+### What to include?
+
+Here is a non-exhaustive list of things you might want to include on a website. In addition, some people will include photos, blog posts, help links, etc.
+
+* Brief biography  
+* Educational background  
+    - Degree  
+    - Year  
+    - Major/minor  
+    - Institution  
+* Research interests  
+* Project(s) & collaborators/funders  
+* *Curriculum vitae* (see below)  
+* Contact info
+
+
+## *Curriculum vitae* (CV)
+
+Everyone should have a current CV that lists information about your education, employment history, publications, presentations, and any awards or accolades. No not list any personal information like your social security number. Mark recommends you keep your CV as up-to-date as possible, and you place a link to it on your website.
+
+
+## Social Media
+
+Social media is a great way to share your own experiences, discover interesting publications, find tutorials, learn about JEDI issues, get information about staying healthy, as well as wonderful personal stories, photographs, and humorous cartoons and memes. Your level of engagement on social media is a personal matter, but be cautious about being swept up in it. Social media is also a home for trolls and bots just looking for a fight.
+
+### Twitter
+
+Many people in the lab have a Twitter account (you can find Mark's [here](https://twitter.com/mark_scheuerell)). Twitter's requirement for brevity forces people to distill their messages into terms that (hopefully) many people can understand. One of the themes (hashtags) that Mark really enjoys is `#rstats`, which includes all kinds of helpful information about the R software and associated branches.
+
+### Instagram
+
+
+### Facebook
+
+
+### LinkedIn
+
+
+
+
+
+
