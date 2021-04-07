@@ -14,15 +14,15 @@ Your UW NetID is your personal identification for using secure UW online resourc
 
 * Set up UW email accounts with forwarding options, along with other computer services.
 
-To create your UW NetID, please click [**here**](https://uwnetid.washington.edu/newid/). Please keep in mind that your NetID will also be your UW email address, so choose an ID carefully (you will be limited to 8 characters). 
+To create your UW NetID, please click [here](https://uwnetid.washington.edu/newid/). Please keep in mind that your NetID will also be your UW email address, so choose an ID carefully (you will be limited to 8 characters). 
 
 ## MyUW
 
-[**MyUW**](https://my.uw.edu/) is your personal portal to University of Washington information. It is an easy-to-use tool for finding student and employee resources. You can personalize MyUW to fit your needs by including or excluding the services you see listed. Your UW NetID and password are required to log in.
+[MyUW](https://my.uw.edu/) is your personal portal to University of Washington information. It is an easy-to-use tool for finding student and employee resources. You can personalize MyUW to fit your needs by including or excluding the services you see listed. Your UW NetID and password are required to log in.
 
 ## Email
 
-If you prefer to use a non-UW email account primarily (e.g., Gmail), you can forward all of your UW email by updating your preferences on [**MyUW**](https://my.uw.edu/). However, you should ensure that your forwarded UW email is not filtered into your junk-mail/SPAM folder (e.g., add your UW email address to your contact list on your non-UW account).
+If you prefer to use a non-UW email account primarily (e.g., Gmail), you can forward all of your UW email by updating your preferences on [MyUW](https://my.uw.edu/). However, you should ensure that your forwarded UW email is not filtered into your junk-mail/SPAM folder (e.g., add your UW email address to your contact list on your non-UW account).
 
 ### SAFS email lists
 
