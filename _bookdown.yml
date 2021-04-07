@@ -14,7 +14,7 @@ rmd_files: [
   "communications.Rmd",
   "participation.Rmd",
   "collaborations.Rmd",
-  "coding.Rmd",
+  "sci_integrity.Rmd",
   "data.Rmd",
   ## scicomm
   "online_presence.Rmd",
