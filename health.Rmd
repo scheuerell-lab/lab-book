@@ -2,9 +2,9 @@
 
 # Health & well-being
 
-Your health and well-being are of paramount importance. For a broad range of resources and assistance at UW, please see the [Husky Health & Well-Being website](https://wellbeing.uw.edu/).
+### `r emo::ji("rotating_light")` If you are experiencing an emergency, please dial 911 immediately! `r emo::ji("rotating_light")` {-}
 
-### If you are experiencing a life-threatening emergency, please dial 911 immediately! {-}
+Your health and well-being are of paramount importance. For a broad range of resources and assistance at UW, please see the [Husky Health & Well-Being website](https://wellbeing.uw.edu/).
 
 ## Health insurance
 
