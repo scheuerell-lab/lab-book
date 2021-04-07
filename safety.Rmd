@@ -18,3 +18,14 @@ Our lab keeps a confidential list of emergency contacts for every member of the 
 
 [more info coming soon]
 
+
+## UW safety resources
+
+[UW Environmental Health & Safety (EH&S)](https://www.ehs.washington.edu/)
+
+[UW Lab Safety Manual](https://www.ehs.washington.edu/resource/laboratory-safety-manual-510)
+
+[UW Online Accident Reporting System (OARS)](https://www.ehs.washington.edu/ohsoars)
+
+[Chemical Inventory & Safety Data Sheets (MyChem)](https://cspc.admin.uw.edu/mychem/uwnetid/home/greeting.aspx)
+
