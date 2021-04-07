@@ -2,9 +2,9 @@
 
 # Health & well-being
 
-Your health and well-being are of paramount importance. For a broad range of resources and assistance at UW, please see the [**Husky Health & Well-Being website**](https://wellbeing.uw.edu/).
+Your health and well-being are of paramount importance. For a broad range of resources and assistance at UW, please see the [Husky Health & Well-Being website](https://wellbeing.uw.edu/).
 
-**If you are experiencing a life-threatening emergency, please dial 911**.  
+### If you are experiencing a life-threatening emergency, please dial 911 immediately! {-}
 
 ## Health insurance
 
@@ -32,6 +32,7 @@ You don't need to enroll yourself in GAIP. Instead, your eligibility is establis
 
 Once enrolled, you'll receive an enrollment confirmation email from LifeWise, the plan administrator. Please make sure to read all the GAIP information you receive as it contains important information about the GAIP plan.
 
+
 ## Mental health
 
 Every one of us can be negatively affected by a wide range of factors, whether or not they be related to academics. If you should feel like you need some help, please consider the following resources.
@@ -47,6 +48,12 @@ Phone: 206-543-1240
 
 [**Hall Health Mental Health**](https://wellbeing.uw.edu/unit/hall-health)
 
+
+## Sick leave
+
+If you are not feeling well, please be considerate of others in the lab and the SAFS community and stay home. If you have a meeting, deadline, exam, or other activity that would otherwise require you to be here, please do your best to reschedule it for another time when you're feeling better. Grad students accrue sick leave at the rate of one (1) hour for every 40 hours worked. Sick leave accrues at the end of the month and is available for use the following month. Postdocs receive one day of paid sick time off for every month of their appointment. Paid sick time off will be preloaded annually and available at the beginning of the month following the start of the appointment. Please note, though, that Mark will provide you with an excused absence if you are sick, but out of leave time.
+
+
 ## Food Pantry
 
-No student should ever have to choose between buying food or textbooks. The UW Food Pantry helps mitigate the social and academic effects of campus food insecurity. They aim to lessen the financial burden of purchasing food by providing students access to shelf-stable groceries, seasonal fresh produce, and hygiene products at **no cost**. Students can expect to receive 4 to 5 days' worth of supplemental food support when they visit the Pantry, located on the north side of Poplar Hall at the corner of NE 41<sup>st</sup> St and Brooklyn Ave NE. Visit the [**Any Hungry Husky website**](https://uw.edu/anyhungryhusky) for additional information, including operating hours and additional food support resources.
+No student should ever have to choose between buying food or textbooks. The UW Food Pantry helps mitigate the social and academic effects of campus food insecurity. They aim to lessen the financial burden of purchasing food by providing students access to shelf-stable groceries, seasonal fresh produce, and hygiene products at **no cost**. Students can expect to receive 4 to 5 days' worth of supplemental food support when they visit the Pantry, located on the north side of Poplar Hall at the corner of NE 41<sup>st</sup> St and Brooklyn Ave NE. Visit the [Any Hungry Husky website](https://uw.edu/anyhungryhusky) for additional information, including operating hours and additional food support resources.
