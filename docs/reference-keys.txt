@@ -48,8 +48,12 @@ safs-seminar
 safs-quantitative-seminar
 fish-wildlife-ecology-seminar
 collaborations
-code
+scientific-integrity
+reproducible-research
 github-1
+markdown
+authorship
+old-projects
 data
 github-2
 permanent-options
