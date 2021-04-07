@@ -4,19 +4,19 @@
 
 Communication is a critical component of science, whether it be through formal and informal publications, seminars, conference presentations, or a quick chat in the hall. Sharing our information with others and learning from one another are necessary for us to advance our collective knowledge.
 
-Our lab relies on several forms of communication, each with its own pros and cons. First and foremost, Mark maintains an "open door" policy when he's in his office. If the door is wide open, please come on in. If the door is open just a crack, please knock, as Mark may be on the phone or meeting with someone else. If the door is closed, please assume that either Mark does not want to be bothered or that he's out of the office.
+Our lab relies on several forms of communication, each with its own pros and cons. First and foremost, Mark maintains an "open door" policy when he's in his office. If the door is wide open, please come on in. If the door is open just a crack, please knock, as Mark may be on the phone or meeting with someone else. If the door is closed, please assume that either Mark does not want to be bothered or that he's out of the office. Note, too, that if Mark will be out of his office for just a bit during the day, he often leaves a message on his door with his whereabouts and estimated time of return.
 
 ## Slack
 
-We use [**Slack**](https://scheuerell-lab.slack.com) as our primary mode of communication in the lab, as it helps to keep our email more manageable while providing a simple means for categorizing, archiving, and searching prior content. We also encourage you to sign up for the [**SAFS workspace**](https://safs-community.slack.com) and the [**WACFWRU workspace**](https://wacfwru.slack.com) as well.
+We use [Slack](https://scheuerell-lab.slack.com) as our primary mode of communication in the lab, as it helps to keep our email more manageable while providing a simple means for categorizing, archiving, and searching prior content. We also encourage you to sign up for the [SAFS workspace](https://safs-community.slack.com) and the [WACFWRU workspace](https://wacfwru.slack.com) as well.
 
 ## GitHub
 
-We use [**GitHub**](https://github.com/scheuerell-lab) as a collaboration platform for our research projects. If you do not already have a GitHub account, please sign up for one (it's free). We tend to use the "Issues" feature in GitHub when communicating inside and outside of the lab with our project collaborators. We also use GitHub for creating and editing our [**agendas for lab meetings**](https://github.com/scheuerell-lab/lab-meeting).
+We use [GitHub](https://github.com/scheuerell-lab) as a collaboration platform for our research projects. If you do not already have a GitHub account, please sign up for one (it's free). We tend to use the "Issues" feature in GitHub when communicating inside and outside of the lab with our project collaborators. We also use GitHub for creating and editing our [agendas for lab meetings](https://github.com/scheuerell-lab/lab-meeting).
 
 ## Email
 
-Email is a tried and true means for communicating inside and outside of the lab, in particular if the conversation involves people outside of the lab or you need to send attachments (e.g., draft manuscript, forms for signatures).
+Email is a tried and true means for communicating inside and outside of the lab, in particular if the conversation involves people outside of the lab or you need to send attachments (e.g., draft manuscript, forms for signatures). Please try your best to respond to all email messages within 24 hours of their receipt. If you are going to be away from your email from an extended period of time (e.g., vacation, field work), please turn on a vacation auto-response. If you need some help setting one up, please ask Mark or someone else in the lab.
 
 ## Text message
 
