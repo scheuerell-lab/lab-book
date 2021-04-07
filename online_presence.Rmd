@@ -37,17 +37,19 @@ Social media is a great way to share your own experiences, discover interesting 
 
 ### Twitter
 
-Many people in the lab have a Twitter account (you can find Mark's [here](https://twitter.com/mark_scheuerell)). Twitter's requirement for brevity forces people to distill their messages into terms that (hopefully) many people can understand. One of the themes (hashtags) that Mark really enjoys is `#rstats`, which includes all kinds of helpful information about the R software and associated branches.
+Many people in the lab have a Twitter account (you can find Mark's [here](https://twitter.com/mark_scheuerell)). Twitter's requirement for brevity forces people to distill their messages into terms that (hopefully) many people can understand. One of the themes (hashtags) that Mark really enjoys is [`#rstats`](https://twitter.com/search?q=%23rstats&src=typed_query&f=live), which includes all kinds of helpful information about the R software and associated branches.
 
 ### Instagram
 
+Instagram is a wonderful place to see photos of people, places, and interesting things. At present the lab does not maintain an Instagram account, but that may change in the future. 
 
 ### Facebook
 
+Facebook is perhaps the most widely used social media platform. It allows you to reach many kinds of people all over the world. Unfortunately, it's also home to some disinformation and people of ill will. At present the lab does not maintain an Facebook account, but that may change in the future. 
 
 ### LinkedIn
 
-
+LinkedIn is sort of like Facebook for business. People maintain public profiles with information about their careers, publications, professional connections, as well as job postings.
 
 
 
