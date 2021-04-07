@@ -14,6 +14,18 @@ Documentation can be in the form of liberal comments in coding scripts, such tha
 * it allows for easier detection of bugs, and  
 * it facilitates code sharing.
 
+### References
+
+Mark encourages people to take a look at these references on scientific computing and project workflows:
+
+* [Bryan (2018) Excuse me, do you have a moment to talk about version control?](resources/Bryan_2018_version_control.pdf)
+
+* [Cooper & Hsing (2017) A guide to reproducible code in ecology and evolution](resources/BES-guide-to-reproducible-code.pdf)
+
+* [Marwick et al. (2018) Packaging data analytical work reproducibly using R (and friends)](resources/Marwick_et_al_2018_research_compendia.pdf)
+
+* [Wilson et al. (2017) Good enough practices in scientific computing](resources/Wilson_et_al_2017_good_enough_computing.pdf)
+
 ### GitHub
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. GitHub itself is not a development tool, but rather a file hosting and collaboration site. In many ways, a social network like Facebook. You can build a profile, create projects to share with others, and follow the accounts of other users. GitHub is not linked to any one programming language like R, as you can find all kinds of projects based upon different languages there. GitHub also runs Git in the background. Git is a version control software, which means it records changes to a file or set of files over time so that you can recall specific versions later. 
