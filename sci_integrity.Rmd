@@ -2,13 +2,17 @@
 
 ## Reproducible research
 
-Reproducible research means that an analysis can be reproduced exactly as originally intended, even if it's years later. Conducting reproducible research is more difficult than it sounds, because it requires you to be organized and possess sufficient foresight to document each step of your research process. There are two main things you can do to improve the reproducibility of your research: 1) extensive documentation and 2) programming workflows with version control.
+One of the hallmarks of our lab is that we are advocates and practitioners of "open and reproducible research". Open research means we use public online platforms for hosting our code and workflows. Reproducible research means that an analysis can be reproduced exactly as originally intended, even if it's years later. Conducting reproducible research is more difficult than it sounds, because it requires you to be organized and possess sufficient foresight to document each step of your research process. There are three main things you can do to improve the reproducibility of your research:
 
-Programming workflows help with reproducibility because they take some of the human element out, and in an ideal scenario, you are left with a script or series of scripts that takes data from raw form to final product. Programming alone is not enough, though, because people can easily forget which script changes they made and when. Therefore, all projects that involve programming of any kind (so basically, all projects) must use some form of version control. Our lab uses Git (a version control software) in combination with GitHub (an online collaboration platform). This is a hard requirement because
+1) write extensive documentation  
+2) create programming workflows, and
+3) use formal version control.
 
-1) it allows us to definitively track the evolution of files over time,  
-2) it allows for easier detection of bugs, and  
-3) it facilitates code sharing.
+Documentation can be in the form of liberal comments in coding scripts, such that others can easily decipher what the code is doing, as well as documents that combine text, equations, code, and results (see the [Markdown section](#markdown) below). Programming workflows help with reproducibility because they take some of the human element out, and in an ideal scenario, you are left with a script or series of scripts that takes data from raw form to final product. Programming alone is not enough, though, because people can easily forget which script changes they made and when. Therefore, all projects that involve programming of any kind (so basically, all projects) must use some form of version control. Our lab uses Git (a version control software) in combination with GitHub (an online collaboration platform). This is a hard requirement because
+
+* it allows us to definitively track the evolution of files over time,  
+* it allows for easier detection of bugs, and  
+* it facilitates code sharing.
 
 ### GitHub
 
@@ -16,7 +20,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 Our lab maintains a so-called "organization" on GitHub [here](https://github.com/scheuerell-lab). Each project gets its own "repository" (or "repo"), which you can think of as the root directory for various folders and files. Each repository also contains a `README` file with information about its contents and a `LICENSE` file that lays out permissions and conditions for others who are interested in our work. You can learn more about GitHub and how to set up a repo [here](https://fish497.github.io/website/lectures/week_02/lec_04_intro_github.html).
 
-### Markdown
+### Markdown {#markdown}
 
 Markdown is a simple markup language for creating formatted text using a plain-text editor. It makes use of some special characters for formatting headers and text. GitHub automatically recognizes Markdown files with a `.md` extension and renders them as formatted information.
 
