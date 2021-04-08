@@ -10,8 +10,13 @@ some-things-mark-expects-from-you
 mentoring-plans
 annual-reviews
 postdocs
+undergraduates
 technicians-staff
 work-hours
+time-off
+grad-students-1
+postdocs-1
+absences
 code-of-conduct
 things-you-can-do
 things-you-cannot-do
@@ -50,6 +55,7 @@ fish-wildlife-ecology-seminar
 collaborations
 scientific-integrity
 reproducible-research
+references
 github-1
 markdown
 authorship
@@ -86,12 +92,14 @@ health-insurance
 eligibility
 enrollment
 mental-health
+sick-leave
 food-pantry
 safety
 safecampus
 emergency-contacts
 lab
 field
+uw-safety-resources
 vehicles
 training
 operation
