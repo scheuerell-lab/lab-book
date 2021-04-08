@@ -21,6 +21,10 @@ code-of-conduct
 things-you-can-do
 things-you-cannot-do
 reporting
+relocating-to-seattle
+geography
+budgeting
+resources-other-advice-links
 uw-safs
 uw-netid
 myuw
