@@ -8,6 +8,7 @@ rmd_files: [
   "expectations.Rmd",
   "code-of-conduct.Rmd",
   ## getting started
+  "seattle.Rmd",
   "onboarding_safs.Rmd",
   "onboarding_cru.Rmd",
   ## policies & procedures

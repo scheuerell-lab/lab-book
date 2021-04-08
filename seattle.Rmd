@@ -1,0 +1,33 @@
+# (PART) Getting started {-}
+
+# Relocating to Seattle
+
+The information in this section will help new students and staff get acquainted with the resources available to them.
+
+## Geography
+
+Seattle's neighborhoods each have their own unique character and attractions, and many have their own little core with shops and restaurants. For example, Fremont is quirky and comes with a troll under a bridge, Capitol Hill is vivacious, Greenlake is home to an expansive park that is very popular in the summer, and Ballard has a Nordic influence. 
+
+Any apartment hunt must begin with a geographic overview. These links will help start you off:
+
+* [Wikitravel](https://wikitravel.org/en/Seattle)
+
+* [findwell](https://seattle.findwell.com/seattle-neighborhoods/)
+
+* [Seattle moving guide](https://www.pods.com/blog/2019/07/seattle-moving-guide-find-the-best-neighborhoods-in-seattle/)
+
+* [Zillow](https://www.zillow.com/homes/for_rent/?searchQueryState=%7B%22mapBounds%22%3A%7B%22west%22%3A-122.38473964892579%2C%22east%22%3A-122.26217342578126%2C%22south%22%3A47.589151545930676%2C%22north%22%3A47.71380893722545%7D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22ah%22%3A%7B%22value%22%3Atrue%7D%2C%22fr%22%3A%7B%22value%22%3Atrue%7D%2C%22fsba%22%3A%7B%22value%22%3Afalse%7D%2C%22fsbo%22%3A%7B%22value%22%3Afalse%7D%2C%22nc%22%3A%7B%22value%22%3Afalse%7D%2C%22cmsn%22%3A%7B%22value%22%3Afalse%7D%2C%22auc%22%3A%7B%22value%22%3Afalse%7D%2C%22fore%22%3A%7B%22value%22%3Afalse%7D%2C%22pmf%22%3A%7B%22value%22%3Afalse%7D%2C%22pf%22%3A%7B%22value%22%3Afalse%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A13%2C%22pagination%22%3A%7B%7D%7D)
+
+## Budgeting
+
+You're likely on fixed budget, which may be the deciding factor on where to live. Rent will depend on the neighborhood, number of bedrooms, amenities, and whether it is a shared or non-shared housing situation. [Padmapper](https://www.padmapper.com/apartments/seattle-wa) is helpful for a bird's eye view of the range of rental options for a given budget. You can also use Craigslist’s map view.
+
+The U.S. Department of Housing and Urban Development’s Office of Policy Development and Research released a 2019 report that analyzed the Seattle-Bellevue-Everett housing market. They found that the average rents for a studio, one-bedroom, two-bedroom, and three-bedroom apartment were $1515, $1675, $1899, and $2051, respectively (based on data from 2017). There are sometimes rare gems under the $1500 mark that are rented very quickly; typically these options are found through networking with friends or colleagues, but sometimes they can be seen on Craigslist (be ready to pounce, but be very wary of scam listings and be cautious with your personal information). Housing options near the $1000 mark are typically more attainable if you only need a room in a house and don't mind multiple roommates and shared bathrooms. Be sure to ask which utilities are included with the rent.
+
+If you work or study in Seattle and your circumstances allow you to sustain a longer commute (by car, bus or light rail), living outside of the core of the city in areas such as Mountlake Terrace, Shoreline, Beacon Hill, Columbia City or Tukwila may offer you more choice within your budget. Be sure to research your commute options well; some buses do not run year round.
+
+## Resources, Other Advice & Links
+
+Seattle has numerous property management companies and depending on your budget, time or flexibility it might be worthwhile to survey the listings offered on various property management companies' websites. You may also find it worthwhile to check for reviews of any companies that interest you to get a sense of whether or not they are reputable. Craigslist and Zillow remain viable ways to find an apartment, sublease or room, but be aware that the most affordable options are likely to be quite competitive. Landlords often ask for first and last month's rent as well as a security deposit (non-refundable in some cases) plus an application fee. The best apartments go very quickly; be prepared to show up at open houses ready to fill out application forms, have documents that show your source of income, and have references handy plus a check for any application fees.
+
+As a new postdoc or graduate student, your first stop should be SAFS's student/postdoc mailing list and Slack workspaces, even before Craigslist or Zillow. There you'll find people looking for roommates, selling or gifting their furnishings, and sharing invites to social activities. If you move and find yourself missing some essentials, keep in mind that community initiatives, such as [Freecycle](https://www.freecycle.org/) and Facebook Markeplace, are a great way to meet your new neighbors while preventing the flow of unwanted items to landfills. 
