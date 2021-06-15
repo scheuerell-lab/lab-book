@@ -2,34 +2,50 @@
 
 Data management is one of the most important aspects of our research program. In particular, when we are collecting our own data we must ensure that we 
 
-1) include the necessary metadata to describe the individual fields in a data file; and
+1) use conventional formats for entering data into spreadsheets;
 
-2) create backups of the data and metadata files.
+2) include the necessary metadata to describe the individual fields in a data file; and
 
-
-# Data files & formats
-
-We ascribe to the "tidy" format for data, wherein each row of a data table or flat file is a unique record and each column is a unique field. [Broman and Woo (2018)](resources/Broman_Woo_2018_spreadsheet_data.pdf) provide an excellent overview of data entry and organization in spreadsheets. Here are their major take-home messages:
-
-1) **Be consistent**. This includes names of locations, species, sex, as well as dates and file names.
-
-2) **Choose good names**. Choose short, but descriptive names for files and avoid spaces in them. For example, `L_WA_limno_sampling.csv` rather than `Lake Washington limnology sampling.csv`.
-
-3) **Write dates as `YYYY-MM-DD`**. This may sound trivial, but it turns out to be really important when working with the file as part of an analysis.
-
-4) **Don't leave empty cells**. Although it can be tempting to do so when some aspect of a field or record is to be repeated many times, it can wreak havoc on the resulting object when imported into a software like **R**. In particular, if a cell should be consider empty or null, please enter `NA`.
-
-5) **Only include one piece of info in a cell**. For example, you might consider a variable (column) named `plot_sample`, which would be better separated into 2 columns labeled `plot` and `sample`.
-
-6) 
-
-**Create a data dictionary**.
+3) create backups of the data and metadata files.
 
 
-## GitHub
+## Data files & formats
+
+We ascribe to the "tidy" format for data, wherein each row of a data table or flat file is a unique record and each column is a unique field. [Broman and Woo (2018)](resources/Broman_Woo_2018_spreadsheet_data.pdf) provide an excellent overview of data entry and organization in spreadsheets. Here are their take-home messages:
+
+* **Be consistent**. This includes names of locations, species, sex, as well as dates and file names.
+
+* **Choose good names**. Choose short, but descriptive names for files and avoid spaces in them. For example, `L_WA_limno_sampling.csv` rather than `Lake Washington limnology sampling.csv`.
+
+* **Write dates as `YYYY-MM-DD`**. This may sound trivial, but it turns out to be really important when working with the file as part of an analysis.
+
+* **Don't leave empty cells**. Although it can be tempting to do so when some aspect of a field or record is to be repeated many times, it can wreak havoc on the resulting object when imported into a software like **R**. In particular, if a cell should be consider empty or null, please enter `NA`.
+
+* **Only include one piece of info in a cell**. For example, you might consider a column/field named `plot_sample` with a possible value like `10A`, which would be better separated into 2 columns labeled `plot` and `sample` with respective values `10` and `A`.
+
+* **Do not use color, highlighting, or comments as data**. If the data in a particular cell is otherwise noteworthy for some reason (eg, value is 10X greater than anything else), it's probably best to add an additional `notes` column/field to the file and include any comments there.
+
+* **No calculations in cells**. Although tempting, resist the urge to add cells with calculations that are based on other cells (eg, `=SUM(A1:A3)`). Similarly, do not include graphs or pivot tables in your data files either.
+
+* **Use data validation**. If you are using Excel for data entry, you can take advantage of its "[data validation](https://support.microsoft.com/en-us/office/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249)" feature, which will help insure that the correct type (eg, text) and value (eg, min/max) are entered into a cell.
+
+* **Create a data dictionary**. This should be a separate (and tidy) file with some metadata about the columns/fields, which might include the following:  
+    - The exact variable name as in the data file  
+    - A version of the variable name that might be used in data visualizations  
+    - A longer explanation of what the variable means  
+    - The measurement units  
+    - Expected minimum and maximum values  
+
+* **Save the data as plain text**. If using a spreadsheet like Excel to enter your data, export a copy in a plain text format. Although some people like tab delimited files (`.txt`), we prefer to save our files as comma separated values (`.csv`). CSV files are nice because you can easily open the file in Excel or another spreadsheet program, but perhaps more importantly, this file format does not require any sort of special software.
 
 
-## Permanent options
+## Metadata
+
+
+
+## Data storage
+
+### GitHub
 
 
 ### Zenodo
