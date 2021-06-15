@@ -1,40 +1,44 @@
-# (PART) Policies & procedures {-}
+# Academics
 
-# SAFS Degree Requirements and Planning
-
-The aim of this document is to consolidate the most important resources for navigating the various SAFS milestones/protocols/procedures, including the master's by-pass process, coursework requirements, and the various exams. Most of the resources here have been adapted/summarized from the [SAFS grad guide](https://docs.google.com/document/d/e/2PACX-1vQ3umutJ-blRtPOR26a7k8mY5Hj8j4NqiFZY8rjmKWEQgdgykZAdIfZdTNzUiu7xw/pub). A more detailed description of most of these processes/protocols/requirements can be found there.
+This section includes the most important resources for navigating the various SAFS milestones/protocols/procedures, including coursework requirements, the master's by-pass process, and the various exams. Most of the resources here have been adapted/summarized from the [SAFS grad guide](https://docs.google.com/document/d/e/2PACX-1vQ3umutJ-blRtPOR26a7k8mY5Hj8j4NqiFZY8rjmKWEQgdgykZAdIfZdTNzUiu7xw/pub). A more detailed description of most of these processes/protocols/requirements can be found there.
 
 ## Required coursework
 
 Note: If you feel that prior courses that you have taken would satisfy any core requirements (or any other courses), you can waive these courses (with Mark's permission).
 
 ### Core coursework for both M.S. and Ph.D. students
+
 - Q SCI 482 (Statistical Inference) - 5 credits
 - 5-TEEN (FISH 510-514) x 2 - 2-5 credits each
 - FISH 521 (Research Proposal Writing) - 4 credits
 - FISH 522 (Hot Topics in Aquatic and Fishery Sciences) - 2 credits
 
 ### M.S.
+
 - Minimum of 45 credits total at the 400-level or higher
 - At least 18 credits must be in courses numbered 500 and above
 - 18 credits must be numerically graded in department approved 400-level courses accepted as part of the major and in 500-level courses 
 - Minimum of 27 non thesis credits
 
 ### Ph.D.
+
 - Minimum of 90 credits total at the 400-level or higher
 - At least 18 credits of course work at the 500 level and above
 - Numerical grades must be received in at least 18 quarter credits of course work
 - The Candidate must register for a minimum of 27 credits of dissertation over a period of at least three quarters
 
 ## Forming a committee
+
 - This is typically the first milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 5th quarter of a degree; a typical time seems to be the summer or fall quarter after your first year.
 - Your first committee meeting typically occurs shortly after committee formation and is where you go over your plan of study (see below)
 
 ### M.S. Committee
+
 - M.S. committee is 3 members minimum: PI (Mark) + two other people
 - minimum of two members must be SAFS core faculty; this means that of the two people who aren't your PI, one can be non-SAFS core faculty.
 
 ### Ph.D. Committee
+
 - Ph.D. committee is 4 members minimum
   - Mark
   - GSR (Graduate School Representative) - this is a faculty member from UW but outside of SAFS
@@ -50,6 +54,7 @@ This is an agreement made between the student and the supervisory committee abou
 [SAFS Plan of Study Toward the Ph.D. Degree](https://docs.google.com/forms/d/1RnklFaVPdyQNe4rHKZ9FSvG6yPqougk2Y8R3NWR8f48/viewform?edit_requested=true)
 
 ## M.S. Thesis Proposal
+
 - After forming your committee (and submitting your plan of study), this is the next major milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 6th quarter of a degree; however, I have not heard of anyone completing this in their first year. Most students complete this in their second year.
 - NOTE: Even if you plan on doing the by-pass, you still must complete an M.S. thesis proposal! More detail on this later in the by-pass section.
 
@@ -64,11 +69,12 @@ Requirements: Two quarters before you plan to take your final examination, pleas
 Request for M.S. Final Examination:
 The student must submit a complete, near-to-final draft of the thesis, which has been reviewed and approved by the committee chair, to all members of his or her committee at least four weeks prior to the Final Examination.  After reading the draft and the supervisory committee agrees that you are ready for the Final Examination, please request the final exam via the MS Request for a Final Exam Form. Completion of this form verifies that your committee has read an entire near-to-final draft of your thesis and concurs that you are ready to sit for your final examination. The final draft of the thesis takes place after the final examination, incorporating changes suggested by the committee.
 
-## By-pass
+## Master's by-pass
 
 The M.S. by-pass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Here are the requirements from the SAFS grad guide:
 
 ### By-pass Requirements:
+
 - All M.S. coursework must be completed
 - A statement from the student that describes their current M.S. research and illustrates the scientific direction and rationale they will take in expanding it to merit Doctoral status.  The statement should also include a plan for coursework that supports their Doctoral degree, while also satisfying program requirements, as well as a funding plan.
 - A statement from the Master’s committee chairperson confirming:
@@ -83,15 +89,31 @@ The M.S. by-pass procedure is one of the most frequently asked about processes a
 - A draft doctoral dissertation research proposal that outlines each chapter of the Ph.D. dissertation, including methods, likely outcomes and significance.  Importantly, this must demonstrate that the proposed body of proposed work would satisfy the requirements for a Ph.D. degree This will not be the final dissertation proposal that will later be defended for the General Examination – you will still be expected to submit a formal dissertation proposal after your bypass application has been accepted;
 - **Copy of a paper** accepted for publication in a peer-reviewed scientific journal; a manuscript that has been submitted (or deemed submittable) to a journal may also be acceptable, in which case letters from at least two MS committee members indicating that the manuscript is scientifically rigorous and publishable are required
 
+### Milestones for students planning to by-pass
+
+1. Form M.S. committee
+2. Submit plan of study for master's and have first M.S. committee meeting
+3. Submit M.S. thesis proposal
+4. By-pass
+5. Form Ph.D. committee
+6. Submit plan of study for Ph.D.
+7. Submit dissertation proposal
+8. Qualifying exam
+9. General exam
+10. Final exam
+
 ## Dissertation Proposal
+
 - For those entering as Ph.D. students, this is the only proposal you need to write. For those who entered as M.S. students and wish to bypass, this happens once you have completed the by-pass (and therefore means you first must have finished your M.S. thesis proposal). 
 
 ## Qualifying Exam
+
 - Should be completed within 18 months of residency in the doctoral program
 - Written exam administered over a one-week period
 - Prior to the Qualifying Exam, the student obtains guidance from each Committee member on the subject matter to be covered and the expected question and answer formats
 
 ## General Exam
+
 - Passing your generals means that you are admitted as a Ph.D. candidate
 - A General Examination may be scheduled if:
   - You've completed 60 credits (some of these credits may be taken the same quarter of the exam)
@@ -107,16 +129,4 @@ A Final Examination may be scheduled if:
   - A reading committee is officially established with the Graduate School
   - The reading committee has read an entire draft of the dissertation
   - The entire supervisory committee has agreed that the student is prepared and has approved the student to schedule a Final Examination.
-
-## Milestones for students planning to by-pass
-1. Form M.S. committee
-2. Submit plan of study for master's and have first M.S. committee meeting
-3. Submit M.S. thesis proposal
-4. By-pass
-5. Form Ph.D. committee
-6. Submit plan of study for Ph.D.
-7. Submit dissertation proposal
-8. Qualifying exam
-9. General exam
-10. Final exam
 
