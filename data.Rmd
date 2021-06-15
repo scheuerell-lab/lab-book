@@ -8,7 +8,6 @@ Data management is one of the most important aspects of our research program. In
 
 3) create backups of the data and metadata files.
 
-
 ## Data files & formats
 
 We ascribe to the "tidy" format for data, wherein each row of a data table or flat file is a unique record and each column is a unique field. [Broman and Woo (2018)](resources/Broman_Woo_2018_spreadsheet_data.pdf) provide an excellent overview of data entry and organization in spreadsheets. Here are their take-home messages:
@@ -36,7 +35,7 @@ We ascribe to the "tidy" format for data, wherein each row of a data table or fl
     - The measurement units  
     - Expected minimum and maximum values  
 
-* **Save the data as plain text**. If using a spreadsheet like Excel to enter your data, export a copy in a plain text format. Although some people like tab delimited files (`.txt`), we prefer to save our files as comma separated values (`.csv`). CSV files are nice because you can easily open the file in Excel or another spreadsheet program, but perhaps more importantly, this file format does not require any sort of special software.
+* **Save the data as plain text**. If using a spreadsheet like Excel to enter your data, export a copy in a plain text format. Although some people like tab delimited files (`.txt`), we prefer to save our files as comma separated values (`.csv`). CSV files are nice because you can easily open the file in Excel or another spreadsheet program, but perhaps more importantly, this file format does not require any sort of special software to open it.
 
 
 ## Metadata
@@ -44,6 +43,7 @@ We ascribe to the "tidy" format for data, wherein each row of a data table or fl
 
 
 ## Data storage
+
 
 ### GitHub
 
@@ -54,4 +54,13 @@ We ascribe to the "tidy" format for data, wherein each row of a data table or fl
 ### Dryad
 
 
+## Data chain of custody
+
+Data chain of custody refers to a process whereby everyone should do the following to insure your analysis is fully reproducible (see Section \@ref(reproducible)):
+
+* keep a copy of the raw data  
+
+* record all of the operations used to generate the clean data
+
+* document the contents of the clean data
 

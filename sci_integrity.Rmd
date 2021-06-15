@@ -1,6 +1,6 @@
 # Scientific Integrity
 
-## Reproducible research
+## Reproducible research {#reproducible}
 
 One of the hallmarks of our lab is that we are advocates and practitioners of "open and reproducible research". Open research means we use public online platforms for hosting our code and workflows. Reproducible research means that an analysis can be reproduced exactly as originally intended, even if it's years later. Conducting reproducible research is more difficult than it sounds, because it requires you to be organized and possess sufficient foresight to document each step of your research process. There are three main things you can do to improve the reproducibility of your research:
 
