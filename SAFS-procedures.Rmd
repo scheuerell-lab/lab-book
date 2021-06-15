@@ -66,8 +66,7 @@ The M.S. final exam consists of a public seminar on your thesis followed by a pr
 
 ## By-pass
 
-The M.S. by-pass procedure is one of the most frequently asked about and confusing processing at SAFS. Here are the requirements from the SAFS grad guide:
-
+The M.S. by-pass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Here are the requirements from the SAFS grad guide:
 
 ### By-pass Requirements:
 - All M.S. coursework must be completed
@@ -108,7 +107,6 @@ A Final Examination may be scheduled if:
   - A reading committee is officially established with the Graduate School
   - The reading committee has read an entire draft of the dissertation
   - The entire supervisory committee has agreed that the student is prepared and has approved the student to schedule a Final Examination.
-
 
 ## Milestones for students planning to by-pass
 1. Form M.S. committee
