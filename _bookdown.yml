@@ -12,6 +12,7 @@ rmd_files: [
   "onboarding_safs.Rmd",
   "onboarding_cru.Rmd",
   ## policies & procedures
+  "safs-procedures.Rmd",
   "communications.Rmd",
   "participation.Rmd",
   "collaborations.Rmd",
