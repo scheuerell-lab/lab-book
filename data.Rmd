@@ -40,6 +40,21 @@ We ascribe to the "tidy" format for data, wherein each row of a data table or fl
 
 ## Metadata
 
+Metadata are simply data that provide information about other data, or in other words, a shorthand representation of the data to which they refer. Metadata benefit science in many ways, including
+
+* **Increased data longevity**. Over the course of a scientist's career she may initiate many different studies, some of which outlast the investigators/students. In addition, many scientists will often contribute information from many areas/fields, each of which may have its own norms, lingo, etc.
+
+* **Increased data reuse & sharing**. Metadata can help other scientists understand whether or not a dataset could be of use to them in their own studies. It also greatly facilitates meta-analyses.
+
+* **Expanded scales/scopes of analyses**. In some cases, short-term studies evolve into long-term programs, and the metadata can help people understand when and how new data can be incorporated into the program. It also facilitates creativity among researchers.
+
+One of the most common questions about metadata is, "How much metadata is enough?" The answer is based on two factors:
+
+1) the effort involved in creating the metadata
+
+2) the value derived from it
+
+In general, it's best to assume that "more is better".
 
 
 ## Data storage
