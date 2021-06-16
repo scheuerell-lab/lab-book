@@ -123,6 +123,98 @@
 <li><p>the value derived from it</p></li>
 </ol>
 <p>In general, it’s best to assume that “more is better.”</p>
+<div id="ecological-metadata-language-eml" class="section level3" number="12.2.1">
+<h3>
+<span class="header-section-number">12.2.1</span> Ecological Metadata Language (EML)<a class="anchor" aria-label="anchor" href="#ecological-metadata-language-eml"><i class="fas fa-link"></i></a>
+</h3>
+<p>EML reduces ambiguity and uncertainty by formalizing metadata concepts via a comprehensive and standardized set of terms that are intended specifically for ecological data. EML contains various categories of information of the dataset.</p>
+<div id="general-dataset" class="section level4 unnumbered">
+<h4>General dataset<a class="anchor" aria-label="anchor" href="#general-dataset"><i class="fas fa-link"></i></a>
+</h4>
+<ul>
+<li>identify and name the dataset<br>
+</li>
+<li>describe the purpose of the data collection<br>
+</li>
+<li>describe the questions the data were intended to address</li>
+</ul>
+</div>
+<div id="geographic" class="section level4 unnumbered">
+<h4>Geographic<a class="anchor" aria-label="anchor" href="#geographic"><i class="fas fa-link"></i></a>
+</h4>
+<ul>
+<li>where the research project took place<br>
+</li>
+<li>where the samples were collected<br>
+</li>
+<li>spatial or geographic references (UTM, lat/lon)</li>
+</ul>
+</div>
+<div id="temporal" class="section level4 unnumbered">
+<h4>Temporal<a class="anchor" aria-label="anchor" href="#temporal"><i class="fas fa-link"></i></a>
+</h4>
+<ul>
+<li>range of dates (eg, monthly between June 2019 and Dec 2020)<br>
+</li>
+<li>specific time periods (eg, 01 May 2019, 08:00–12:00)<br>
+</li>
+<li>gaps in time (eg, no data from July 2020 because of power loss)</li>
+</ul>
+</div>
+<div id="taxonomic" class="section level4 unnumbered">
+<h4>Taxonomic<a class="anchor" aria-label="anchor" href="#taxonomic"><i class="fas fa-link"></i></a>
+</h4>
+<ul>
+<li>taxonomic authority (book or system used to identify species)<br>
+</li>
+<li>taxonomic rank (family, genus, species)</li>
+</ul>
+</div>
+<div id="methods" class="section level4 unnumbered">
+<h4>Methods<a class="anchor" aria-label="anchor" href="#methods"><i class="fas fa-link"></i></a>
+</h4>
+<ul>
+<li>instruments or devices used to collect data<br>
+</li>
+<li>protocols</li>
+<li>units of the samples</li>
+</ul>
+</div>
+<div id="data-table" class="section level4 unnumbered">
+<h4>Data table<a class="anchor" aria-label="anchor" href="#data-table"><i class="fas fa-link"></i></a>
+</h4>
+<ul>
+<li>
+<em>name</em> is a unique name for the field/column (<code>date</code>)<br>
+</li>
+<li>
+<em>label</em> describes the field/column ("date of sample collection)<br>
+</li>
+<li>
+<em>definition</em> indicates what the values represent (length of a fish)<br>
+</li>
+<li>
+<em>units</em> (grams, meters)<br>
+</li>
+<li>
+<em>type</em> (<code>numeric</code>, <code>character</code>)<br>
+</li>
+<li>
+<em>precision</em> (mm)<br>
+</li>
+<li>
+<em>attribute domain description</em> defines codes &amp; domain of values
+<ul>
+<li>
+<code>BVA = Bear Valley Creek</code><br>
+</li>
+<li>
+<code>Length</code> is a positive, real value</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
 </div>
 <div id="data-storage" class="section level2" number="12.3">
 <h2>
@@ -167,7 +259,9 @@
       <ul class="nav navbar-nav">
 <li><a class="nav-link" href="#data-management"><span class="header-section-number">12</span> Data management</a></li>
 <li><a class="nav-link" href="#data-files-formats"><span class="header-section-number">12.1</span> Data files &amp; formats</a></li>
-<li><a class="nav-link" href="#metadata"><span class="header-section-number">12.2</span> Metadata</a></li>
+<li>
+<a class="nav-link" href="#metadata"><span class="header-section-number">12.2</span> Metadata</a><ul class="nav navbar-nav"><li><a class="nav-link" href="#ecological-metadata-language-eml"><span class="header-section-number">12.2.1</span> Ecological Metadata Language (EML)</a></li></ul>
+</li>
 <li>
 <a class="nav-link" href="#data-storage"><span class="header-section-number">12.3</span> Data storage</a><ul class="nav navbar-nav">
 <li><a class="nav-link" href="#github-2"><span class="header-section-number">12.3.1</span> GitHub</a></li>
@@ -197,7 +291,7 @@
   </div>
 
   <div class="col-12 col-md-6 mt-3">
-    <p>Built with <a class="text-light" href="https://bookdown.org">bookdown</a> on 2021-06-15 </p>
+    <p>Built with <a class="text-light" href="https://bookdown.org">bookdown</a> on 2021-06-16 </p>
   </div>
 
 
