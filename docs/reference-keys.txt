@@ -43,8 +43,8 @@ funding-fiscal-services
 coop-unit
 digital-measures
 doi-talent
-vehicles-and-boats
 student-symposium
+vehicles-and-boats
 communication
 slack
 github
@@ -81,9 +81,10 @@ metadata
 ecological-metadata-language-eml
 data-storage
 github-2
+others
+data-archival
 zenodo
-dryad
-data-chain-of-custody
+usgs
 online-presence
 website
 what-to-include
