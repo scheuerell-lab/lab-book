@@ -4,23 +4,23 @@ This section includes the most important resources for navigating the various SA
 
 ## Required coursework
 
-Note: If you feel that prior courses that you have taken would satisfy any core requirements (or any other courses), you can waive these courses (with Mark's permission).
+There are only a few courses that SAFS requires every student to take, as our goal is to have students work with their supervisory committee to chart a plan of study that is best suited to the student's needs. **Note**: If you feel that prior courses that you have taken would satisfy any core requirements (or any other courses), you can waive these courses (with Mark's permission).
 
-### Core coursework for both M.S. and Ph.D. students
+### Core coursework for all M.S. and Ph.D. students {-}
 
 - FISH 522 "Hot Topics in Aquatic and Fishery Sciences" (2 credits; offered Fall)
 - QSCI 482 "Statistical Inference" (5 credits; offered Fall/Winter)
 - FISH 521 "Professional Development" (4 credits; offered Winter)
 - FISH 510-514 "5-teen (miscellaneous topics)" (2X; 2-5 credits each; offered Fall/Winter/Spring)
 
-### M.S.
+### M.S. {-}
 
 - Minimum of 45 credits total at the 400-level or higher
 - At least 18 credits must be in courses numbered 500 and above
 - 18 credits must be numerically graded in department approved 400-level courses accepted as part of the major and in 500-level courses 
 - Minimum of 27 non thesis credits
 
-### Ph.D.
+### Ph.D. {-}
 
 - Minimum of 90 credits total at the 400-level or higher
 - At least 18 credits of course work at the 500 level and above
@@ -31,12 +31,12 @@ Note: If you feel that prior courses that you have taken would satisfy any core 
 
 This is typically the first milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 5th quarter of a degree; most students do this in their 4th (summer) or 5th (fall) quarter. Your first committee meeting typically occurs shortly after committee formation and is where you go over your plan of study (see below).
 
-### M.S. Committee
+### M.S. Committee {-}
 
 - M.S. committee is 3 members minimum: PI (Mark) + two other people
 - minimum of two members must be SAFS core faculty; this means that of the two people who aren't your PI, one can be non-SAFS core faculty.
 
-### Ph.D. Committee
+### Ph.D. Committee {-}
 
 - Ph.D. committee is 4 members minimum
   - Mark
@@ -62,11 +62,11 @@ After forming your committee (and submitting your plan of study), this is the ne
 
 The M.S. final exam consists of a public seminar on your thesis followed by a private oral examination by the supervisory committee (final exam).
 
-### Requirements
+### Requirements {-}
 
 Two quarters before you plan to take your final examination, please schedule a 30 minute appointment with the SAFS GPA (Amy Fox).  At this meeting, the GPA will review your transcript, check your Plan of Study and confirm that all of your milestones have been completed.  If you fail to attend this meeting, your Request for M.S. Final Examination may not be granted, resulting in postponing your graduation quarter.
 
-### Request for M.S. Final Examination
+### Request for M.S. Final Examination {-}
 
 The student must submit a complete, near-to-final draft of the thesis, which has been reviewed and approved by the committee chair, to all members of his or her committee at least four weeks prior to the Final Examination.  After reading the draft and the supervisory committee agrees that you are ready for the Final Examination, please request the final exam via the MS Request for a Final Exam Form. Completion of this form verifies that your committee has read an entire near-to-final draft of your thesis and concurs that you are ready to sit for your final examination. The final draft of the thesis takes place after the final examination, incorporating changes suggested by the committee.
 
@@ -74,12 +74,12 @@ The student must submit a complete, near-to-final draft of the thesis, which has
 
 The M.S. by-pass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Here are the requirements from the SAFS grad guide.
 
-### By-pass Requirements:
+### By-pass Requirements: {-}
 
 - All M.S. coursework must be completed
 - A statement from the student that describes their current M.S. research and illustrates the scientific direction and rationale they will take in expanding it to merit Doctoral status.  The statement should also include a plan for coursework that supports their Doctoral degree, while also satisfying program requirements, as well as a funding plan.
-- A statement from the Master’s committee chairperson confirming:
-  - that the student’s research has progressed to the point of demonstrating competence at the Master’s level
+- A statement from the Master's committee chairperson confirming:
+  - that the student's research has progressed to the point of demonstrating competence at the Master's level
   - the completed M.S. research is a considerable and meaningful base of work for the proposed Ph.D. research, and, the proposed Ph.D. research is a substantive and logical advance from the M.S. research; evidence for this should be outlined in the draft Doctoral dissertation proposal
   - guaranteeing space and financial support for the student for at least the first academic year of Doctoral study; and
   - their approval of the draft Doctoral proposal.
@@ -88,9 +88,9 @@ The M.S. by-pass procedure is one of the most frequently asked about processes a
 - A letter or email (to safs@uw.edu) from each member of the student's MS Supervisory Committee indicating that they have read the draft Doctoral proposal, confirm that it constitutes a sufficient basis for a PhD dissertation, as well as their approval to bypass the MS Degree;
 - A copy of the M.S. thesis proposal;
 - A draft doctoral dissertation research proposal that outlines each chapter of the Ph.D. dissertation, including methods, likely outcomes and significance.  Importantly, this must demonstrate that the proposed body of proposed work would satisfy the requirements for a Ph.D. degree This will not be the final dissertation proposal that will later be defended for the General Examination – you will still be expected to submit a formal dissertation proposal after your bypass application has been accepted;
-- **Copy of a paper** accepted for publication in a peer-reviewed scientific journal; a manuscript that has been submitted (or deemed submittable) to a journal may also be acceptable, in which case letters from at least two MS committee members indicating that the manuscript is scientifically rigorous and publishable are required
+- A copy of a paper accepted for publication in a peer-reviewed scientific journal; a manuscript that has been submitted (or deemed submittable) to a journal may also be acceptable, in which case letters from at least two MS committee members indicating that the manuscript is scientifically rigorous and publishable are required
 
-### Milestones for students planning to by-pass
+### Milestones for students planning to by-pass {-}
 
 1. Form M.S. committee
 2. Submit plan of study for master's and have first M.S. committee meeting
