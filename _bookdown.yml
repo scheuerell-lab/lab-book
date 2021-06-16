@@ -26,6 +26,8 @@ rmd_files: [
   "health.Rmd",
   "safety.Rmd",
   ## Lab & Field
+  "labwork.Rmd",
+  "fieldwork.Rmd",
   "vehicles.Rmd",
   "boats.Rmd",
   ## appendices
