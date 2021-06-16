@@ -46,6 +46,8 @@ doi-talent
 student-symposium
 vehicles-and-boats
 communication
+conversation-norms
+forms-of-communication
 slack
 github
 email-1
