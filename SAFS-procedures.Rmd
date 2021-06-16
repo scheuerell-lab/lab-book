@@ -8,10 +8,10 @@ Note: If you feel that prior courses that you have taken would satisfy any core 
 
 ### Core coursework for both M.S. and Ph.D. students
 
-- Q SCI 482 (Statistical Inference) - 5 credits
-- 5-TEEN (FISH 510-514) x 2 - 2-5 credits each
-- FISH 521 (Research Proposal Writing) - 4 credits
-- FISH 522 (Hot Topics in Aquatic and Fishery Sciences) - 2 credits
+- FISH 522 "Hot Topics in Aquatic and Fishery Sciences" (2 credits; offered Fall)
+- QSCI 482 "Statistical Inference" (5 credits; offered Fall/Winter)
+- FISH 521 "Professional Development" (4 credits; offered Winter)
+- FISH 510-514 "5-teen (miscellaneous topics)" (2X; 2-5 credits each; offered Fall/Winter/Spring)
 
 ### M.S.
 
@@ -29,8 +29,7 @@ Note: If you feel that prior courses that you have taken would satisfy any core 
 
 ## Forming a committee
 
-- This is typically the first milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 5th quarter of a degree; a typical time seems to be the summer or fall quarter after your first year.
-- Your first committee meeting typically occurs shortly after committee formation and is where you go over your plan of study (see below)
+This is typically the first milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 5th quarter of a degree; most students do this in their 4th (summer) or 5th (fall) quarter. Your first committee meeting typically occurs shortly after committee formation and is where you go over your plan of study (see below).
 
 ### M.S. Committee
 
@@ -49,29 +48,31 @@ Note: If you feel that prior courses that you have taken would satisfy any core 
 
 This is an agreement made between the student and the supervisory committee about what coursework will be required to complete the doctoral degree. It includes the core required courses as well as any other courses the committee feels are necessary to give the student the required background in her/his/their area of interest.
 
-[SAFS Plan of Study Toward the M.S. Degree](https://docs.google.com/forms/d/e/1FAIpQLSfJR2CyPnTCvS9S_M3ouymp5CRK823z5QZJCv2Ftq74hCBPFQ/viewform)
+* [SAFS Plan of Study Toward the M.S. Degree](https://docs.google.com/forms/d/e/1FAIpQLSfJR2CyPnTCvS9S_M3ouymp5CRK823z5QZJCv2Ftq74hCBPFQ/viewform)
 
-[SAFS Plan of Study Toward the Ph.D. Degree](https://docs.google.com/forms/d/1RnklFaVPdyQNe4rHKZ9FSvG6yPqougk2Y8R3NWR8f48/viewform?edit_requested=true)
+* [SAFS Plan of Study Toward the Ph.D. Degree](https://docs.google.com/forms/d/1RnklFaVPdyQNe4rHKZ9FSvG6yPqougk2Y8R3NWR8f48/viewform?edit_requested=true)
 
 ## M.S. Thesis Proposal
 
-- After forming your committee (and submitting your plan of study), this is the next major milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 6th quarter of a degree; however, I have not heard of anyone completing this in their first year. Most students complete this in their second year.
-- NOTE: Even if you plan on doing the by-pass, you still must complete an M.S. thesis proposal! More detail on this later in the by-pass section.
+After forming your committee (and submitting your plan of study), this is the next major milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 6th quarter of a degree; however, most students complete this in their second year. **NOTE**: Even if you plan on doing the by-pass, you still must complete an M.S. thesis proposal (see [below](Master's by-pass))!
 
-[link to form to submit M.S. thesis proposal](https://docs.google.com/forms/d/e/1FAIpQLScL5Tp4GOxGUTxV2c1-kXW0orPTZEfuFeGtMF4eoJ9LHC9mcw/viewform)
+[Here](https://docs.google.com/forms/d/e/1FAIpQLScL5Tp4GOxGUTxV2c1-kXW0orPTZEfuFeGtMF4eoJ9LHC9mcw/viewform) is the form to submit your M.S. thesis proposal.
 
 ## M.S. Final Exam
 
 The M.S. final exam consists of a public seminar on your thesis followed by a private oral examination by the supervisory committee (final exam).
 
-Requirements: Two quarters before you plan to take your final examination, please schedule a 30 minute appointment with the SAFS GPA.  At this meeting, the GPA will review your transcript, check your Plan of Study and confirm that all of your milestones have been completed.  If you fail to attend this meeting, your Request for M.S. Final Examination may not be granted, resulting in postponing your graduation quarter.
+### Requirements
 
-Request for M.S. Final Examination:
+Two quarters before you plan to take your final examination, please schedule a 30 minute appointment with the SAFS GPA (Amy Fox).  At this meeting, the GPA will review your transcript, check your Plan of Study and confirm that all of your milestones have been completed.  If you fail to attend this meeting, your Request for M.S. Final Examination may not be granted, resulting in postponing your graduation quarter.
+
+### Request for M.S. Final Examination
+
 The student must submit a complete, near-to-final draft of the thesis, which has been reviewed and approved by the committee chair, to all members of his or her committee at least four weeks prior to the Final Examination.  After reading the draft and the supervisory committee agrees that you are ready for the Final Examination, please request the final exam via the MS Request for a Final Exam Form. Completion of this form verifies that your committee has read an entire near-to-final draft of your thesis and concurs that you are ready to sit for your final examination. The final draft of the thesis takes place after the final examination, incorporating changes suggested by the committee.
 
 ## Master's by-pass
 
-The M.S. by-pass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Here are the requirements from the SAFS grad guide:
+The M.S. by-pass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Here are the requirements from the SAFS grad guide.
 
 ### By-pass Requirements:
 
@@ -104,15 +105,15 @@ The M.S. by-pass procedure is one of the most frequently asked about processes a
 
 ## Dissertation Proposal
 
-- For those entering as Ph.D. students, this is the only proposal you need to write. For those who entered as M.S. students and wish to bypass, this happens once you have completed the by-pass (and therefore means you first must have finished your M.S. thesis proposal). 
+For those entering as Ph.D. students, this is the only proposal you need to write. For those who entered as M.S. students and wish to bypass, this happens once you have completed the by-pass (and therefore means you first must have finished your M.S. thesis proposal). 
 
-## Qualifying Exam
+## Ph.D. Qualifying Exam
 
 - Should be completed within 18 months of residency in the doctoral program
 - Written exam administered over a one-week period
 - Prior to the Qualifying Exam, the student obtains guidance from each Committee member on the subject matter to be covered and the expected question and answer formats
 
-## General Exam
+## Ph.D. General Exam
 
 - Passing your generals means that you are admitted as a Ph.D. candidate
 - A General Examination may be scheduled if:
