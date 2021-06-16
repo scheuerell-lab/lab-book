@@ -57,6 +57,51 @@ One of the most common questions about metadata is, "How much metadata is enough
 In general, it's best to assume that "more is better".
 
 
+### Ecological Metadata Language (EML)
+
+EML reduces ambiguity and uncertainty by formalizing metadata concepts via a comprehensive and standardized set of terms that are intended specifically for ecological data. EML contains various categories of information of the dataset.
+
+#### General dataset {-}
+
+- identify and name the dataset  
+- describe the purpose of the data collection  
+- describe the questions the data were intended to address
+
+#### Geographic {-}
+
+- where the research project took place  
+- where the samples were collected  
+- spatial or geographic references (UTM, lat/lon)
+
+#### Temporal {-}
+
+- range of dates (eg, monthly between June 2019 and Dec 2020)  
+- specific time periods (eg, 01 May 2019, 08:00–12:00)  
+- gaps in time (eg, no data from July 2020 because of power loss)
+
+#### Taxonomic {-}
+
+- taxonomic authority (book or system used to identify species)  
+- taxonomic rank (family, genus, species)
+
+#### Methods {-}
+
+- instruments or devices used to collect data  
+- protocols
+- units of the samples
+
+#### Data table {-}
+
+- *name* is a unique name for the field/column (`date`)  
+- *label* describes the field/column ("date of sample collection)  
+- *definition* indicates what the values represent (length of a fish)  
+- *units* (grams, meters)  
+- *type* (`numeric`, `character`)  
+- *precision* (mm)  
+- *attribute domain description* defines codes & domain of values
+   - `BVA = Bear Valley Creek`  
+   - `Length` is a positive, real value
+
 ## Data storage
 
 
