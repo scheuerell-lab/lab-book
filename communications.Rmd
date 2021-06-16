@@ -4,20 +4,52 @@
 
 Communication is a critical component of science, whether it be through formal and informal publications, seminars, conference presentations, or a quick chat in the hall. Sharing our information with others and learning from one another are necessary for us to advance our collective knowledge.
 
+## Conversation norms
+
+It is important to all of us that people feel empowered and safe to share their feelings in one-on-one or group meetings. As such, we have adopted the following norms with respect to 
+
+* We will listen with the intention of understanding.
+
+* We will elevate impact above intent, and we will apologize when necessary.
+
+* We will acknowledge that it's not equally easy for everyone to share, but all perspectives are valuable.
+
+* We will monitor our own air time (aim to share the space and time so others may participate as well).
+
+* We will respect those who do not wish to speak.
+
+* We will support one another to the best of our ability. 
+
+* We will use "I" statements as opposed to generalizations.
+
+* We will not ask anyone to speak on behalf of any group to which we perceive them to identify, or to which they self-identify.
+
+* We will be open to new or different perspectives
+
+* We will accept non-closure. We acknowledge that some conversations may not be resolved in a single meeting, and that they may be tabled and revisited later.
+
+* We will take lessons learned, but not others' stories, out of this space.
+
+
+## Forms of communication
+
 Our lab relies on several forms of communication, each with its own pros and cons. First and foremost, Mark maintains an "open door" policy when he's in his office. If the door is wide open, please come on in. If the door is open just a crack, please knock, as Mark may be on the phone or meeting with someone else. If the door is closed, please assume that either Mark does not want to be bothered or that he's out of the office. Note, too, that if Mark will be out of his office for just a bit during the day, he often leaves a message on his door with his whereabouts and estimated time of return.
 
-## Slack
+**Note**: Anyone has the right to request that a conversation change venue if they are having trouble with the communication medium. For example, something might start as a Slack thread and then move to an in-person meeting, or someone might like to include more people in the conversation.
+
+
+### Slack
 
 We use [Slack](https://scheuerell-lab.slack.com) as our primary mode of communication in the lab, as it helps to keep our email more manageable while providing a simple means for categorizing, archiving, and searching prior content. We also encourage you to sign up for the [SAFS workspace](https://safs-community.slack.com) and the [WACFWRU workspace](https://wacfwru.slack.com) as well.
 
-## GitHub
+### GitHub
 
 We use [GitHub](https://github.com/scheuerell-lab) as a collaboration platform for our research projects. If you do not already have a GitHub account, please sign up for one (it's free). We tend to use the "Issues" feature in GitHub when communicating inside and outside of the lab with our project collaborators. We also use GitHub for creating and editing our [agendas for lab meetings](https://github.com/scheuerell-lab/lab-meeting).
 
-## Email
+### Email
 
 Email is a tried and true means for communicating inside and outside of the lab, in particular if the conversation involves people outside of the lab or you need to send attachments (e.g., draft manuscript, forms for signatures). Please try your best to respond to all email messages within 24 hours of their receipt. If you are going to be away from your email from an extended period of time (e.g., vacation, field work), please turn on a vacation auto-response. If you need some help setting one up, please ask Mark or someone else in the lab.
 
-## Text message
+### Text message
 
 In the event of an emergency or safety concern, please send Mark a text message or call him on his mobile phone. All members of the lab will be provided with Mark's number.
