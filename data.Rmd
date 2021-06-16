@@ -4,9 +4,19 @@ Data management is one of the most important aspects of our research program. In
 
 1) use conventional formats for entering data into spreadsheets;
 
-2) include the necessary metadata to describe the individual fields in a data file; and
+2) include the necessary metadata to describe the individual fields in a data file;
 
-3) create backups of the data and metadata files.
+3) create backups of the data and metadata files; and
+
+### Data chain of custody {-}
+
+Data chain of custody refers to part of a process whereby everyone must insure their analysis is fully reproducible (see Section \@ref(reproducible)). This includes:
+
+* keeping a copy of the raw data  
+
+* recording all of the operations used to generate the clean data
+
+* documenting the contents of the clean data
 
 ## Data files & formats
 
@@ -104,27 +114,26 @@ EML reduces ambiguity and uncertainty by formalizing metadata concepts via a com
 
 ## Data storage
 
-Where and how to store your data is an important consideration. In general, you are responsible for backing up your data to the cloud, which may involve one or more services.
+Where and how to store your data is an important consideration. In general, you are responsible for backing up your data to the cloud, which may involve one or more options.
 
 ### GitHub
 
 Each research project (or chapter of a thesis/dissertation) should have a corresponding repository in GitHub. At the outset, students and postdocs may choose to create these repos under their own GitHub username, with the expectation that they also invite Mark as a formal collaborator. As people finish projects, the corresponding repo should be transferred over to the lab's [GitHub organization](https://github.com/scheuerell-lab).
 
-Data for your project should be pushed/pulled from GitHub as part of your regular workflow. Each project should be set up as a "research compendium" following one of the templates [here](https://github.com/scheuerell-lab/onboarding/tree/master/templates). Each of the compendia should be structured with a `/data/` folder that contains sub-folders for raw and derived datasets. It is important that you **do not** revise the raw data files outside of your workflow, and instead keep unchanged versions of them in the `/data/raw` folder.
+Data for your project should be pushed/pulled from GitHub as part of your regular workflow. Each project repo should be set up as a "[research compendium](https://fish497.github.io/website/lectures/week_01/lec_03_orgs_styles.html)" following one of the templates [here](https://github.com/scheuerell-lab/onboarding/tree/master/templates). Each compendium should be structured with a `/data` folder that contains sub-folders for raw and derived ("cleaned") datasets. It is important that you **do not** revise the raw data files outside of your workflow, and instead keep unchanged versions of them in the `/data/raw` folder.
+
+### Others
+
+In some cases you may need to rely on another cloud option for data storage or access. For example, a colleague or project collaborator my have information stored on iCloud, Dropbox, or Google Drive. You might also elect to use one of these options as another form of backup for your own data, but if you should choose to do so, be aware that formal version software like Git and the auto-sync features of other platforms may not play nicely together.
+
+## Data archival
+
+Upon completion of a project, all data will be archived in a formal repository and given a unique digital object identifier. In many cases this is a strict requirement of granting agencies and peer-reviewed journals. There are many data archival services available now, some of which charge for the service.
 
 ### Zenodo
 
+[Zenodo](https://zenodo.org/) is one of the more popular archival services because it's free and easy to use. It also [integrates nicely with GitHub](https://guides.github.com/activities/citable-code/).
 
-### Dryad
+### USGS
 
-
-## Data chain of custody
-
-Data chain of custody refers to a process whereby everyone should do the following to insure your analysis is fully reproducible (see Section \@ref(reproducible)):
-
-* keep a copy of the raw data  
-
-* record all of the operations used to generate the clean data
-
-* document the contents of the clean data
-
+USGS also offers a data archival service, which some of our projects use.
