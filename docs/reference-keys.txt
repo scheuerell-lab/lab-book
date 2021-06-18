@@ -75,7 +75,6 @@ reproducible
 references
 github-1
 markdown
-authorship
 old-projects
 data-management
 data-files-formats
@@ -103,12 +102,12 @@ public-outreach
 seas
 conferences
 publications
-informal-1
-blog-posts
-vignettes
-formal
+authorship
 usgs-fundamental-science-practices
+affiliation
 peer-reviewed
+pre-publication-disclaimer
+informal-1
 health-well-being
 health-insurance
 eligibility
