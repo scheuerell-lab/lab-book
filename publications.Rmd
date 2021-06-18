@@ -1,16 +1,40 @@
 # Publications
 
+Writing is a large part of our scientific endeavors, and as a member of our lab you should expect to be integrally involved in communicating the results of your research. Writing can be hard and it may take a lot of practice before one feels confident in their ability to communicate clearly and effectively. Mark is willing to help you with the writing process, but he will not write things for you.
+
+## Authorship
+
+Our research typically involves a wide variety of collaborators. When deciding who should be included as an author on any publication, we will follow APA guidelines, which state:
+
+> Authorship credit should reflect the individual's contribution to the study. An author is considered anyone involved with initial research design, data collection and analysis, manuscript drafting, and final approval. However, the following do not necessarily qualify for authorship: providing funding or resources, mentorship, or contributing research but not helping with the publication itself. The primary author assumes responsibility for the publication, making sure that the data are accurate, that all deserving authors have been credited, that all authors have given their approval to the final draft; and handles responses to inquiries after the manuscript is published.
+
+Authorship will be discussed prior to the beginning of a new project, so that expectations are clearly defined. However, changes to authorship may occur over the course of a project if a new person becomes involved or if someone is not fulfilling their planned role. In general, Mark expects that graduate students and postdocs will be first authors on publications on which they are the primary lead, and Mark will be a co-author. Some labs use a tradition where the PI is the last author, but Mark prefers to list authors in order of contribution, which means that sometimes he will be last and other times he may be second, third, etc.
+
+## USGS Fundamental Science Practices
+
+Because Mark is an employee of the U.S. government, he and his lab members must follow a set of policies and procedures for ensuring the quality and integrity of our science, which includes our scientific communications, known as the  ["Fundamental Science Practices (FSP)](https://www.usgs.gov/about/organization/science-support/office-science-quality-and-integrity/fundamental-science-practices). To comply with FSP, there are several steps we must take before a manuscript may be published. Failure to do so causes a number of problems, and could potentially result in disciplinary action against Mark.
+
+### Affiliation
+
+It is **very important** that lab members list their affiliation as:
+
+> U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit  
+> School of Aquatic and Fishery Sciences  
+> University of Washington  
+> Seattle, WA
+
+Although there may be some subtle differences depending on the journal/outlet, such as the inclusion of a street address or zip code, the first line must always be written verbatim as above. Note, too, that you may not abbreviate the first line in any manner (eg, "USGS WACFWRU").
+
+## Peer-reviewed
+
+Most of what we write is destined for publication in peer-reviewed journals (`r emo::ji("+1")`).
+
+### Pre-publication disclaimer
+
+As part of the USGS FSP, we **must** include the following statement on the cover page or somewhere else near the beginning when formatting a paper for submission to a journal:
+
+> This draft manuscript is distributed solely for purposes of scientific peer review. Its content is deliberative and predecisional, so it must not be disclosed or released by reviewers. Because the manuscript has not yet been approved for publication by the U.S. Geological Survey (USGS), it does not represent any official USGS finding or policy.
 
 ## Informal
 
-### Blog posts
-
-### Vignettes
-
-
-## Formal
-
-### USGS Fundamental Science Practices
-
-### Peer-reviewed
-
+To the extent that your time and interest allows, I support people writing informal posts/threads on social media, blogging, etc. Effective and engaging science communication is a skill that takes time to develop, and your experiences at SAFS, UW, and beyond will provide ample opportunities for practice. Mark's only requirement is that anything you share adhere to our [Code of Conduct] and abide by the [Conversation Norms] agreed to with others.
