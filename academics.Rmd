@@ -13,6 +13,13 @@ There are only a few courses that SAFS requires every student to take, as our go
 - FISH 521 "Professional Development" (4 credits; offered Winter)
 - FISH 510-514 "5-teen (miscellaneous topics)" (2X; 2-5 credits each; offered Fall/Winter/Spring)
 
+### Mark's requirements {-}
+
+There is a *very* good chance Mark will also require you to take the following courses (or their equivalent), if you haven't done so already.
+
+- [FISH 497](https://fish497.github.io/website/) "Introduction to Environmental Data Science" (3 credits; offered Winter of odd years)
+- [QERM 514](https://qerm514.github.io/website/) "Analysis of Ecological and Environmental Data" (4 credits; offered Spring)
+
 ### M.S. {-}
 
 - Minimum of 45 credits total at the 400-level or higher

@@ -14,7 +14,7 @@ rmd_files: [
   ## policies & procedures
   "communications.Rmd",
   "participation.Rmd",
-  "safs-procedures.Rmd",
+  "academics.Rmd",
   "collaborations.Rmd",
   "open_repro.Rmd",
   "data.Rmd",
