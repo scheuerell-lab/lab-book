@@ -2,9 +2,9 @@
 
 Mark's faculty appointment in SAFS is tied to his position as the Assistant Unit Leader for Fisheries in the [U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit](https://depts.washington.edu/wacfwru/) (WACFWRU or "Coop Unit"). Therefore, as a member of the Applied Ecology Lab you are also a member of the Coop Unit. Other members of the WACFWRU include:
 
-* Dr. Sarah Converse (Unit Leader) and her lab members
+* [Dr. Sarah Converse](https://fish.uw.edu/faculty/sarah-converse/) (Unit Leader) and her lab members
 
-* Dr. Alex McInturff (Assistant Unit Leader - Wildlife) and his lab members
+* [Dr. Alex McInturff](https://alexmcinturff.com/) (Assistant Unit Leader - Wildlife) and his lab members
 
 * Verna Blackhurst (Administrator)
 
@@ -12,7 +12,14 @@ Because the Coop Unit is a federal program and Mark is a federal employee, there
 
 ### Volunteer forms
 
-Everyone in the unit who is not a federal employee (i.e., students, postdocs, technicians) will need to complete a volunteer agreement as part of the onboarding process, which can be found [here]("resources/USGS_Form9_2080_fillable.pdf"). Please fill out Sections 1-3, sign the document (digitally is OK), save it, and send it to Mark. He will sign it and then file in our records. (Note: Mark can help you with the end date on the form.)
+Everyone in the unit who is not a federal employee (i.e., students, postdocs, technicians) will need to complete a volunteer agreement as part of the onboarding process, which can be found [here](resources/USGS_Form_9_2080_fillable.pdf). Please fill in the following information
+
+* Sec 1: Personal information
+* Sec 2: Emergency contact
+* Sec 3a: Beginning & end dates (ask Mark for these)
+* Sec 3f: Sign and date the document (digitally is OK)
+
+When you are finished, email the form to Mark. He will then sign it and file it with our records.
 
 ### Digital Measures
 
