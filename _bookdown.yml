@@ -31,7 +31,8 @@ rmd_files: [
   "vehicles.Rmd",
   "boats.Rmd",
   ## appendices
-  "dei-resources.Rmd"
+  "dei-resources.Rmd",
+  "inclusive_scicomm.Rmd"
 ]
 language:
   ui:
