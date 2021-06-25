@@ -71,12 +71,10 @@ ph.d.-qualifying-exam
 ph.d.-general-exam
 ph.d.-final-exam
 collaborations
-scientific-integrity
 reproducible
 references
 github-1
 markdown
-old-projects
 data-management
 data-files-formats
 metadata
@@ -93,6 +91,7 @@ usgs-fundamental-science-practices
 affiliation
 peer-reviewed
 pre-publication-disclaimer
+old-projects
 informal
 presentations
 informal-1
