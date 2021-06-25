@@ -16,7 +16,7 @@ rmd_files: [
   "participation.Rmd",
   "safs-procedures.Rmd",
   "collaborations.Rmd",
-  "sci_integrity.Rmd",
+  "open_repro.Rmd",
   "data.Rmd",
   ## scicomm
   "online_presence.Rmd",
