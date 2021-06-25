@@ -97,8 +97,11 @@ presentations
 informal-1
 lab-meetings-1
 public-outreach
+community-engagement
 seas
-conferences
+formal
+seminars-guest-lectures
+conferences-symposia
 personal-website
 what-to-include
 curriculum-vitae-cv
