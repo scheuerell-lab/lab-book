@@ -18,10 +18,10 @@ rmd_files: [
   "collaborations.Rmd",
   "open_repro.Rmd",
   "data.Rmd",
+  "publications.Rmd",
+  "presentations.Rmd",
   ## scicomm
   "online_presence.Rmd",
-  "presentations.Rmd",
-  "publications.Rmd",
   ## safety
   "health.Rmd",
   "safety.Rmd",

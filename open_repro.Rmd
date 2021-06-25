@@ -1,6 +1,4 @@
-# Scientific Integrity
-
-## Reproducible research {#reproducible}
+# Reproducible research {#reproducible}
 
 We are strong advocates and practitioners of "open and reproducible research". Open research means we use public online platforms for hosting our code and workflows. Reproducible research means that an analysis can be reproduced exactly as originally intended, even if it's years later. Conducting reproducible research is more difficult than it sounds, because it requires you to be organized and document each step of your research process. There are three main things you can do to improve the reproducibility of your research:
 
@@ -14,7 +12,7 @@ Documentation can be in the form of liberal comments in coding scripts, such tha
 * it allows for easier detection of bugs, and  
 * it facilitates code sharing.
 
-### References
+## References
 
 Mark encourages people to take a look at these references on scientific computing and project workflows:
 
@@ -26,20 +24,16 @@ Mark encourages people to take a look at these references on scientific computin
 
 * [Wilson et al. (2017) Good enough practices in scientific computing](resources/Wilson_et_al_2017_good_enough_computing.pdf)
 
-### GitHub
+## GitHub
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. GitHub itself is not a development tool, but rather a file hosting and collaboration site. In many ways, a social network like Facebook. You can build a profile, create projects to share with others, and follow the accounts of other users. GitHub is not linked to any one programming language like R, as you can find all kinds of projects based upon different languages there. GitHub also runs Git in the background. Git is a version control software, which means it records changes to a file or set of files over time so that you can recall specific versions later. 
 
 Our lab maintains a so-called "organization" on GitHub [here](https://github.com/scheuerell-lab). Each project gets its own "repository" (or "repo"), which you can think of as the root directory for various folders and files. Each repository also contains a `README` file with information about its contents and a `LICENSE` file that lays out permissions and conditions for others who are interested in our work. You can learn more about GitHub and how to set up a repo [here](https://fish497.github.io/website/lectures/week_02/lec_04_intro_github.html).
 
-### Markdown {#markdown}
+## Markdown {#markdown}
 
 Markdown is a simple markup language for creating formatted text using a plain-text editor. It makes use of some special characters for formatting headers and text. GitHub automatically recognizes Markdown files with a `.md` extension and renders them as formatted information.
 
 R Markdown is a specific flavor of Markdown that allows you great flexibility to include equations and other special formats. It also allows to create documents in various forms such as HTML (`.html`), PDF (`.pdf`), and even MS Word (`.doc`). You can learn more about using Markdown [here](https://fish497.github.io/website/lectures/week_02/lec_04_intro_github.html#Markdown).
-
-## Old projects
-
-For projects that required significant lab resources (i.e., time, money, or lab effort), project "ownership" expires 3 years after data collection has ended (or whenever the original primary lead relinquishes their rights to the study, whichever comes first). At that point, Mark reserves the right to re-assign the project (or not) as needed to expedite publication. This policy is intended to avoid situations in which a dataset languishes for a long period of time, while still giving publication priority to the original primary lead. 
 
 
