@@ -1,16 +1,13 @@
-# (PART) SciComm {-}
+# (PART) Online presence {-}
 
-# Online presence
+# Personal website
 
 Maintaining an online presence feels increasingly important in science, as it's often the quickest and most convenient way to communicate about what's being done, who's doing it, and where it's happening. If someone wants to find out about you, they're going to search for you online.
-
-
-## Website
 
 Mark encourages everyone to create a personal website, as they are a great way to show the projects you work on, the people you collaborate with, your CV, etc. There are many different platforms that allow you to create a free website. Mark uses Hugo and reveal.js to create the [lab website on GitHub](https://github.com/scheuerell-lab/website) and would be happy to help you get set up that way. Alternatively, you could use the built-in functionality of options from Google, Wix, Wordpress, etc.
 
 
-### What to include?
+## What to include?
 
 Here is a non-exhaustive list of things you might want to include on a website. In addition, some people will include photos, blog posts, help links, etc.
 
@@ -26,28 +23,47 @@ Here is a non-exhaustive list of things you might want to include on a website. 
 * Contact info
 
 
-## *Curriculum vitae* (CV)
+# *Curriculum vitae* (CV)
 
-Everyone should have a current CV that lists information about your education, employment history, publications, presentations, and any awards or accolades. Do not list any personal information like your social security number. Mark recommends you keep your CV as up-to-date as possible, and you place a link to it on your website.
+Everyone should have a CV that lists information about your professional activities. Do not list any personal information like your social security number. Mark recommends you keep your CV as up-to-date as possible, and you place a link to it on your website.
 
 
-## Social Media
+## What to include?
+
+Here are some of the things people include on a CV when they are an early career researcher:
+
+* Name & contact info  
+* Research interests  
+* Educational background  
+    - Degree  
+    - Year  
+    - Major/minor  
+    - Institution  
+* Relevant work or volunteer experience  
+* Awards or accolades (if any)
+* Publications (if any)
+* Presentations (if any)
+* Project(s) & collaborators/funders  
+* Service (eg, committee service, reviewing papers or grants)
+
+
+# Social Media
 
 Social media is a great way to share your own experiences, discover interesting publications, find tutorials, learn about JEDI issues, get information about staying healthy, as well as wonderful personal stories, photographs, and humorous cartoons and memes. Your level of engagement on social media is a personal matter, but be cautious about being swept up in it. Social media is also a home for trolls and bots just looking for a fight.
 
-### Twitter
+## Twitter
 
 Many people in the lab have a Twitter account (you can find Mark's [here](https://twitter.com/mark_scheuerell)). Twitter's requirement for brevity forces people to distill their messages into terms that (hopefully) many people can understand. One of the themes (hashtags) that Mark really enjoys is [`#rstats`](https://twitter.com/search?q=%23rstats&src=typed_query&f=live), which includes all kinds of helpful information about the R software and associated branches.
 
-### Instagram
+## Instagram
 
 Instagram is a wonderful place to see photos of people, places, and interesting things. At present the lab does not maintain an Instagram account, but that may change in the future. 
 
-### Facebook
+## Facebook
 
 Facebook is perhaps the most widely used social media platform. It allows you to reach many kinds of people all over the world. Unfortunately, it's also home to some disinformation and people of ill will. At present the lab does not maintain an Facebook account, but that may change in the future. 
 
-### LinkedIn
+## LinkedIn
 
 LinkedIn is sort of like Facebook for business. People maintain public profiles with information about their careers, publications, professional connections, as well as job postings.
 
