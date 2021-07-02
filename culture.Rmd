@@ -12,57 +12,40 @@ Using our knowledge and skills to help solve real-world problems.
 
 Our vision is to better understand and manage aquatic ecosystems through the integration of data, analysis, and communication.
 
-## Our philosophy
+## Our values
 
 * [We focus on what is best for all of us]
 
-* [We learn from our mistakes]
-
-* [We respect different viewpoints and experiences]
+* [We embrace diversity]
 
 * [We listen with intent to understand]
+
+* [We consider the impact of our intent]
+
+* [We learn from our mistakes]
+
+* [We are open to change]
 
 * [We show out]
 
 * [We celebrate our successes]
-
-* [We gracefully accept constructive criticism]
-
-* [We are open to change]
-
-* [We consider the impact of our intent]
 
 * [We embrace life outside of academia]
 
 
 ### We focus on what is best for all of us {-}
 
-Our lab is meant to be a safe and welcoming place for all of us. We will all feel better and have greater success in our endeavors when we focus on the collective good. We ask one another for help when needed and we graciously help each other when we can.
+Our lab is meant to be a safe and welcoming place. We will all have greater success in our endeavors, and feel better while doing it, when we focus on the collective good. We ask one another for help when needed and we graciously help each other when we can.
 
 
-### We learn from our mistakes {-}
+### We embrace diversity {-}
 
-Science is a process that advances through the acknowledgment of mistakes and a desire to learn from them. We don't set out to fail, but sometimes it just happens. Rather than beat ourselves up about it, we take the time to understand what happened, think about how it could be avoided in the future, and move along.
-
-
-### We respect different viewpoints and experiences {-}
-
-We all come from different places and different backgrounds. We all have unique experiences and knowledge that we can share with one another. We respect that not everyone has to feel or act the same, and that a diversity of viewpoints is part of what makes us human.
+We all come from different places and different backgrounds, and we respect that not everyone has to look, feel, or act the same. We all have unique experiences and knowledge that we may, or may not, want to share with one another.
 
 
 ### We listen with intent to understand {-}
 
-When we communicate with others, we listen with the intent to understand where others are coming from and how their previous experiences shape their beliefs. We are active listeners and approach conversations with an open mind.
-
-
-### We gracefully accept constructive criticism {-}
-
-Science involves a lot of feedback from others. This might be in the form of written comments on a manuscript, a review of some code, or a back-and-forth discussion around a presentation. We acknowledge that we are always learning and looking for better ways of doing our work. As such, we accept *constructive* criticism from one another in the hope of improving ourselves.
-
-
-### We are open to change {-}
-
-Science is an evolving process where new discoveries bring new ways of thinking and conducting our research. We are committed to exploring new ideas and approaches, and we welcome each other's thoughts.
+When we communicate with others, we listen with the intent to understand where others are coming from, and how their previous experiences shape their beliefs. We are active listeners and approach conversations with an open mind.
 
 
 ### We consider the impact of our intent {-}
@@ -70,14 +53,24 @@ Science is an evolving process where new discoveries bring new ways of thinking 
 Although we may set out with the best intentions, our words and actions may have unintended consequences. The impact of our behaviors can make others feel unwelcome, unwanted, or unsafe. Thus, we try our best to consider the impact of our intent, with the understanding that we can also try to repair any damage we may have unwillingly caused to others.
 
 
+### We learn from our mistakes {-}
+
+We acknowledge our mistakes and try our best to learn from them. Rather than beat ourselves up about it, we take the time to understand what happened, think about how it could be rectified and avoided in the future, and move forward.
+
+
+### We are open to change {-}
+
+We acknowledge that we are always learning and looking for better ways of doing our work. As such, we accept *constructive and gracious* criticism from one another in the hope of improving ourselves.
+
+
 ### We show out {-}
 
-We don't merely show up--we show out! We put our best selves forward and commit to working hard. Simply "going through the motions" won't get you very far in our lab.
+We don't merely show up---we show out! We put our best selves forward and commit to working hard.
 
 
 ### We celebrate our successes {-}
 
-Science has its ups and, unfortunately, more than enough downs. It's important that we acknowledge our successes and celebrate accordingly, whether they be small wins or major accomplishments. We're not shy about giving someone a high-five or a pat on the back.
+Science has its ups and its downs. It's important that we acknowledge and celebrate our successes, whether they be small wins or major accomplishments.
 
 
 ### We embrace life outside of academia {-}
