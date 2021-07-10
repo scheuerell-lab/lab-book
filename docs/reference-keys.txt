@@ -63,6 +63,7 @@ academics
 required-coursework
 forming-a-committee
 plan-of-study
+student-advisor-annual-review
 m.s.-thesis-proposal
 m.s.-final-exam
 masters-by-pass
