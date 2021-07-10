@@ -59,6 +59,27 @@ This is an agreement made between the student and the supervisory committee abou
 
 * [SAFS Plan of Study Toward the Ph.D. Degree](https://docs.google.com/forms/d/1RnklFaVPdyQNe4rHKZ9FSvG6yPqougk2Y8R3NWR8f48/viewform?edit_requested=true)
 
+
+## Student & Advisor Annual Review
+
+Every student is expected to undergo an annual review with their advisor and their committee. These annual check-ins should consist of three steps:
+
+1) Independent reports
+    * Student completes a self-evaluation using [this form](resources/student_report.docx)
+    * Advisor completes a student evaluation using [this form](resources/advisor_report.docx)
+
+2) Student / Advisor meeting
+    * Meet to discuss independent reports
+    * Define specific goals for the next academic year including any planned exams
+    * After meeting, the advisor will distribute both reports to Committee
+
+3) Committee meeting
+    * Meet to discuss independent reports or distribute them electronically
+    * Revise and/or approve goals for next academic year
+    * Committee discusses and completes the [Annual Committee Meeting Report](resources/committee_report.docx), and sends it to Student for a response
+    * Advisor files completed Committee Report with SAFS
+
+
 ## M.S. Thesis Proposal
 
 After forming your committee (and submitting your plan of study), this is the next major milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 6th quarter of a degree; however, most students complete this in their second year. **NOTE**: Even if you plan on doing the by-pass, you still must complete an M.S. thesis proposal (see [below](Master's by-pass))!
