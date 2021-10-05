@@ -10,8 +10,8 @@ rmd_files: [
   ## getting started
   "seattle.Rmd",
   "onboarding_safs.Rmd",
-  "onboarding_cru.Rmd",
   "onboarding_lab.Rmd",
+  "onboarding_cru.Rmd",
   ## policies & procedures
   "communications.Rmd",
   "participation.Rmd",
