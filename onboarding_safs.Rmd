@@ -14,14 +14,13 @@ Your UW NetID is your personal identification for using secure UW online resourc
 
 To create your UW NetID, please click [here](https://uwnetid.washington.edu/newid/). Please keep in mind that your NetID will also be your UW email address, so choose an ID carefully (you will be limited to 8 characters). 
 
-## MyUW
-
-[MyUW](https://my.uw.edu/) is your personal portal to University of Washington information. It is an easy-to-use tool for finding student and employee resources. You can personalize MyUW to fit your needs by including or excluding the services you see listed. Your UW NetID and password are required to log in.
-
 ## Husky Card
 
 You will need to get a [Husky Card](https://hfs.uw.edu/Husky-Card-Services/Husky-Card), which acts as your university ID, as well as your library card, [U-PASS](https://transportation.uw.edu/getting-here/transit/u-pass), and after-hours building access key. Your Husky Card also admits you into the [Intramural Activities Building (IMA)](https://www.washington.edu/ima/) and grants you free admission to the [Henry Art Gallery](https://henryart.org/) and the [Burke Museum](https://www.burkemuseum.org/). You can get your Husky Card from the [Husky Card Account & ID Center](https://hfs.uw.edu/Husky-Card-Services/Husky-Card/ID-Center-Locations), located in the ground floor of Odegaard Undergraduate Library. Note that you will need to have your UW student ID number and a U.S. state- or federally-issued photo identification with you (eg, a driver's license or passport).
 
+## MyUW
+
+[MyUW](https://my.uw.edu/) is your personal portal to University of Washington information. It is an easy-to-use tool for finding student and employee resources. You can personalize MyUW to fit your needs by including or excluding the services you see listed. Your UW NetID and password are required to log in.
 
 ## Email
 
