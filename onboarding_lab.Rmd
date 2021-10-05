@@ -1,14 +1,14 @@
 # Scheuerell Lab 
 
-Here is some information about getting set up in the Scheuerell Lab, specifically with respect to office space, lab space, and coding.
+Here is some information about getting set up in the Scheuerell Lab, specifically with respect to office space, access, and communication.
 
 ## Office suite
 
 Our lab's office spaces are all located within a suite (Rm 134). Each student will be assigned office space inside the lab suite, which could be in any one of the three interior offices. Specific desks are assigned based on seniority, such that you will have the opportunity to switch desks after students graduate and move on. Each sit/stand desk has an external monitor, keyboard, and mouse to which you may connect your laptop.
 
-### Keys
+## Keys
 
-Mark will assign you a key to the office suite, which will grant you access to the anteroom and your specific office space inside the suite (134B, 134C, or 134D). Students and post-docs share keys to the Coop Admin suite (Rm 250) and the lab (Rm 132); Mark will show you where they are kept. These keys should be returned immediately after you are done with them.
+Mark will assign you a key to the office suite, which will grant you access to the anteroom and your specific office space inside the suite (134B, 134C, or 134D). Students and post-docs share keys to the Coop Admin suite (Rm 250) and the lab (Rm 132); Mark will show you where they are kept. These keys should be returned immediately after you are done with them, so that others may use them when necessary.
 
 ## Slack account
 
