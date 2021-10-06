@@ -27,6 +27,7 @@ budgeting
 resources-other-advice-links
 uw-safs
 uw-netid
+husky-card
 myuw
 email
 safs-email-lists
@@ -40,6 +41,11 @@ additional-resources
 getting-around
 women-minorities
 funding-fiscal-services
+scheuerell-lab
+office-suite
+keys
+slack-account
+github-account
 coop-unit
 volunteer-forms
 digital-measures
