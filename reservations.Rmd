@@ -1,0 +1,40 @@
+# Rooms & projectors
+
+There are several conference rooms in the Fisheries Science Building that can be reserved for small meetings, as well as a portable LCD projector. Here are the steps to do so.
+
+* Navigate to the [SAFS homepage](https://fish.uw.edu/) and click on the "Intranet" link in the upper right
+
+![](images/reserve_1.png){width=100%}
+
+<br>
+
+* Click on the link on the far left that says "Front Desk Services"
+
+![](images/reserve_2.png){width=100%}
+
+<br>
+
+* Click on the purple square on the right that says "SAFS Reservations..."
+
+![](images/reserve_3.png){width=100%}
+
+<br>
+
+* Enter your UW netID and password in the dialogue box
+
+![](images/reserve_4.png){width=75%}
+
+<br>
+
+* Click on the "SAFS Calendars" link on the far left
+
+![](images/reserve_5.png){width=100%}
+
+<br>
+
+* You will then see several light blue titles/links for equipment, boats, rooms, etc; click on the one you want
+
+![](images/reserve_6.png){width=100%}
+
+
+

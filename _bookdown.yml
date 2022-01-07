@@ -21,6 +21,7 @@ rmd_files: [
   "data.Rmd",
   "publications.Rmd",
   "presentations.Rmd",
+  "reservations.Rmd",
   ## scicomm
   "online_presence.Rmd",
   ## safety
