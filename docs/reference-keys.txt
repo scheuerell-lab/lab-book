@@ -109,6 +109,7 @@ seas
 formal
 seminars-guest-lectures
 conferences-symposia
+rooms-projectors
 personal-website
 what-to-include
 curriculum-vitae-cv
