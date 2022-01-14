@@ -43,7 +43,7 @@ This is typically the first milestone for both M.S. and Ph.D. students. The SAFS
 - M.S. committee is 3 members minimum: PI (Mark) + two other people
 - minimum of two members must be SAFS core faculty; this means that of the two people who aren't your PI, one can be non-SAFS core faculty.
 
-[SAFS_M.S. Committee Formation Form] (https://docs.google.com/forms/d/e/1FAIpQLSdMCg96RoRiT4yEIAMorzOPT6GqDYFRQcPp0Ttr0D22idJqYg/viewform)
+[SAFS M.S. Committee Formation Form](https://docs.google.com/forms/d/e/1FAIpQLSdMCg96RoRiT4yEIAMorzOPT6GqDYFRQcPp0Ttr0D22idJqYg/viewform)
 
 ### Ph.D. Committee {-}
 
