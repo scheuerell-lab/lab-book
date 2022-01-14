@@ -1,10 +1,10 @@
 # Academics
 
-This section includes the most important resources for navigating the various SAFS milestones/protocols/procedures, including coursework requirements, the master's by-pass process, and various exams. Most of the resources here have been summarized from the [SAFS grad guide](https://docs.google.com/document/d/e/2PACX-1vQ3umutJ-blRtPOR26a7k8mY5Hj8j4NqiFZY8rjmKWEQgdgykZAdIfZdTNzUiu7xw/pub). A more detailed description of most of these processes/protocols/requirements can be found there.
+This section includes the most important resources for navigating the various SAFS milestones/protocols/procedures, including coursework requirements, the master's by-pass process, and various exams. Most of the resources here have been summarized from the [SAFS grad guide](https://docs.google.com/document/d/1LuPMsUMPyA4AYuD5CIjDwVsFM2tNyA2pg3A-d90PrF8/edit). A more detailed description of most of these processes/protocols/requirements can be found there.
 
 ## Required coursework
 
-There are only a few courses that SAFS requires every student to take, as our goal is to have students work with their supervisory committee to chart a plan of study that is best suited to the student's needs. **Note**: If you feel that prior courses that you have taken would satisfy any core requirements (or any other courses), you can waive these courses (with Mark's permission).
+There are only a few courses that SAFS requires every student to take, as our goal is to have students work with their supervisory committee to chart a plan of study that is best suited to the student's needs. **Note**: If you feel that prior courses that you have taken would satisfy any core requirements (or any other courses), you can waive these courses (with Mark/your committee's permission).
 
 ### Core coursework for all M.S. and Ph.D. students {-}
 
@@ -43,6 +43,8 @@ This is typically the first milestone for both M.S. and Ph.D. students. The SAFS
 - M.S. committee is 3 members minimum: PI (Mark) + two other people
 - minimum of two members must be SAFS core faculty; this means that of the two people who aren't your PI, one can be non-SAFS core faculty.
 
+[SAFS M.S. Committee Formation Form](https://docs.google.com/forms/d/e/1FAIpQLSdMCg96RoRiT4yEIAMorzOPT6GqDYFRQcPp0Ttr0D22idJqYg/viewform)
+
 ### Ph.D. Committee {-}
 
 - Ph.D. committee is 4 members minimum
@@ -50,6 +52,8 @@ This is typically the first milestone for both M.S. and Ph.D. students. The SAFS
   - GSR (Graduate School Representative) - this is a faculty member from UW but outside of SAFS
   - Two other people
 - minimum of two members must be SAFS core faculty
+
+[SAFS Ph.D. Committee Formation Form](https://docs.google.com/forms/d/e/1FAIpQLScXAjjyjil49lIzOmPbsb12vHyJUlOGtW2B5pHD_5BcqutfFA/viewform)
 
 ## Plan of Study
 
