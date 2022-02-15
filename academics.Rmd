@@ -1,6 +1,6 @@
 # Academics
 
-This section includes the most important resources for navigating the various SAFS milestones/protocols/procedures, including coursework requirements, the master's by-pass process, and various exams. Most of the resources here have been summarized from the [SAFS grad guide](https://docs.google.com/document/d/1LuPMsUMPyA4AYuD5CIjDwVsFM2tNyA2pg3A-d90PrF8/edit). A more detailed description of most of these processes/protocols/requirements can be found there.
+This section includes the most important resources for navigating the various SAFS milestones/protocols/procedures, including coursework requirements, the master's by-pass process, and various exams. Most of the resources here have been summarized from the [SAFS grad guide](https://docs.google.com/document/d/1LuPMsUMPyA4AYuD5CIjDwVsFM2tNyA2pg3A-d90PrF8/edit) or the [SAFS Forms, Guidelines, & Handbooks Page](https://fish.uw.edu/students/advising/forms-guidelines-handbooks/). A more detailed description of most of these processes/protocols/requirements can be found there.
 
 ## Required coursework
 
@@ -88,7 +88,7 @@ Every student is expected to undergo an annual review with their advisor and the
 
 After forming your committee (and submitting your plan of study), this is the next major milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 6th quarter of a degree; however, most students complete this in their second year. **NOTE**: Even if you plan on doing the by-pass, you still must complete an M.S. thesis proposal (see [below](Master's by-pass))!
 
-[Here](https://docs.google.com/forms/d/e/1FAIpQLScL5Tp4GOxGUTxV2c1-kXW0orPTZEfuFeGtMF4eoJ9LHC9mcw/viewform) is the form to submit your M.S. thesis proposal.
+[M.S. Thesis Proposal Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScL5Tp4GOxGUTxV2c1-kXW0orPTZEfuFeGtMF4eoJ9LHC9mcw/viewform)
 
 ## M.S. Final Exam
 
@@ -98,13 +98,17 @@ The M.S. final exam consists of a public seminar on your thesis followed by a pr
 
 Two quarters before you plan to take your final examination, please schedule a 30 minute appointment with the SAFS GPA (Amy Fox).  At this meeting, the GPA will review your transcript, check your Plan of Study and confirm that all of your milestones have been completed.  If you fail to attend this meeting, your Request for M.S. Final Examination may not be granted, resulting in postponing your graduation quarter.
 
+[M.S. Request for Final Exam Form](https://docs.google.com/forms/d/e/1FAIpQLScJsXlPLyI56qPNQWOL8LGW3JR1jkmVNd4DrjQywx_4Q3SZ1A/viewform) is the link to submit your request for the M.S. final exam.
+
 ### Request for M.S. Final Examination {-}
 
 The student must submit a complete, near-to-final draft of the thesis, which has been reviewed and approved by the committee chair, to all members of his or her committee at least four weeks prior to the Final Examination.  After reading the draft and the supervisory committee agrees that you are ready for the Final Examination, please request the final exam via the MS Request for a Final Exam Form. Completion of this form verifies that your committee has read an entire near-to-final draft of your thesis and concurs that you are ready to sit for your final examination. The final draft of the thesis takes place after the final examination, incorporating changes suggested by the committee.
 
 ## Master's by-pass
 
-The M.S. by-pass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Here are the requirements from the SAFS grad guide.
+[M.S. Bypass Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdu7hFCkKdvC003c6NpVExgD7KzVC9OR3uz_jYuYvFHrXj8cQ/viewform)
+
+The M.S. by-pass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Here are the requirements from the SAFS grad guide:
 
 ### By-pass Requirements: {-}
 
