@@ -2,17 +2,19 @@
 
 # Health & well-being
 
-### `r emo::ji("rotating_light")` If you are experiencing an emergency, please dial 911 immediately! `r emo::ji("rotating_light")` {-}
+### `r emo::ji("rotating_light")` If you are experiencing an emergency, dial 911 immediately! `r emo::ji("rotating_light")` {-}
 
 Your health and well-being are of paramount importance. For a broad range of resources and assistance at UW, please see the [Husky Health & Well-Being website](https://wellbeing.uw.edu/).
 
 ## Health insurance
 
+### Students
+
 Academic student employees (ASEs) receive health insurance through the [Graduate Appointee Insurance Program (GAIP)](https://hr.uw.edu/benefits/insurance/health/graduate-appointees-options/). GAIP covers medical, vision, and dental care for teaching assistants, research assistants, tutors, predoctoral researchers, and other ASEs working across the University.
 
 GAIP benefits are negotiated between the UW and United Auto Workers (representing students at UW) on a three-year basis. The benefits are administered by LifeWise, a health insurance company based in the Pacific Northwest.
 
-### Eligibility
+#### Eligibility
 
 The UW pays for your GAIP coverage if you hold an eligible job appointment and meet all these requirements:
 
@@ -26,11 +28,15 @@ The UW pays for your GAIP coverage if you hold an eligible job appointment and m
 
 This eligibility criteria applies to the fall, winter, and spring quarters. If you remain eligible throughout these three quarters, you’ll automatically receive summer quarter coverage.
 
-### Enrollment
+#### Enrollment
 
 You don't need to enroll yourself in GAIP. Instead, your eligibility is established when your department enters your employment information into Workday. However, to avoid any coverage delays, you should contact your department and verify your employment information was entered into Workday if you haven't received enrollment confirmation.
 
 Once enrolled, you'll receive an enrollment confirmation email from LifeWise, the plan administrator. Please make sure to read all the GAIP information you receive as it contains important information about the GAIP plan.
+
+### Post-docs & technicians
+
+Post-docs and technicians should investigate the options available from the insurance provider you select when you sign up for UW Benefits. For example, through Regence you have access to a free service called Quartet, which helps you find a therapist based on your particular concern, and will also help you change therapists until you find the right fit.
 
 
 ## Mental health
