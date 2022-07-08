@@ -27,7 +27,7 @@ Although there may be some subtle differences depending on the journal/outlet, s
 
 ## Peer-reviewed
 
-Most of what we write is destined for publication in peer-reviewed journals (`r emo::ji("+1")`).
+Most of what we write is destined for publication in peer-reviewed journals.
 
 ### Pre-publication disclaimer
 

@@ -2,7 +2,7 @@
 
 # Health & well-being
 
-### `r emo::ji("rotating_light")` If you are experiencing an emergency, dial 911 immediately! `r emo::ji("rotating_light")` {-}
+### **If you are experiencing an emergency, dial 911 immediately!** {-}
 
 Your health and well-being are of paramount importance. For a broad range of resources and assistance at UW, please see the [Husky Health & Well-Being website](https://wellbeing.uw.edu/).
 
