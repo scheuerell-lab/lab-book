@@ -8,9 +8,12 @@
 <meta name="author" content="Mark Scheuerell">
 <!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.2"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
-<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><link href="libs/_Open%20Sans-0.4.0/font.css" rel="stylesheet">
-<script src="libs/bs3compat-0.2.5/tabs.js"></script><script src="libs/bs3compat-0.2.5/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
-<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script><script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script><!-- CSS --><link rel="stylesheet" href="style.css">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><link href="libs/_Open%20Sans-0.4.1/font.css" rel="stylesheet">
+<script src="libs/bs3compat-0.3.1/transition.js"></script><script src="libs/bs3compat-0.3.1/tabs.js"></script><script src="libs/bs3compat-0.3.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script><!-- CSS --><link rel="stylesheet" href="style.css">
+<meta name="description" content="Data management is one of the most important aspects of our research program. In particular, when we are collecting our own data we must ensure that we use conventional formats for entering data...">
+<meta property="og:description" content="Data management is one of the most important aspects of our research program. In particular, when we are collecting our own data we must ensure that we use conventional formats for entering data...">
+<meta name="twitter:description" content="Data management is one of the most important aspects of our research program. In particular, when we are collecting our own data we must ensure that we use conventional formats for entering data...">
 </head>
 <body data-spy="scroll" data-target="#toc">
 
@@ -31,7 +34,7 @@
 </form>
 
       <nav aria-label="Table of contents"><br><ul class="book-toc list-unstyled">
-<li><a class="" href="index.html">Welcome!</a></li>
+<li><a class="" href="index.html">Welcome</a></li>
 <li class="book-part">Background</li>
 <li><a class="" href="lab-culture-values.html"><span class="header-section-number">1</span> Lab culture &amp; values</a></li>
 <li><a class="" href="expectations.html"><span class="header-section-number">2</span> Expectations</a></li>
@@ -73,10 +76,12 @@
         </div>
       </nav>
 </div>
-  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="data-management" class="section level1">
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="data-management" class="section level1" number="13">
 <h1>
 <span class="header-section-number">13</span> Data management<a class="anchor" aria-label="anchor" href="#data-management"><i class="fas fa-link"></i></a>
 </h1>
+<p>
+</p>
 <p>Data management is one of the most important aspects of our research program. In particular, when we are collecting our own data we must ensure that we</p>
 <ol style="list-style-type: decimal">
 <li><p>use conventional formats for entering data into spreadsheets;</p></li>
@@ -93,7 +98,7 @@
 <li><p>documenting the contents of the clean data</p></li>
 </ul>
 </div>
-<div id="data-files-formats" class="section level2">
+<div id="data-files-formats" class="section level2" number="13.1">
 <h2>
 <span class="header-section-number">13.1</span> Data files &amp; formats<a class="anchor" aria-label="anchor" href="#data-files-formats"><i class="fas fa-link"></i></a>
 </h2>
@@ -124,7 +129,7 @@
 <li><p><strong>Save the data as plain text</strong>. If using a spreadsheet like Excel to enter your data, export a copy in a plain text format. Although some people like tab delimited files (<code>.txt</code>), we prefer to save our files as comma separated values (<code>.csv</code>). CSV files are nice because you can easily open the file in Excel or another spreadsheet program, but perhaps more importantly, this file format does not require any sort of special software to open it.</p></li>
 </ul>
 </div>
-<div id="metadata" class="section level2">
+<div id="metadata" class="section level2" number="13.2">
 <h2>
 <span class="header-section-number">13.2</span> Metadata<a class="anchor" aria-label="anchor" href="#metadata"><i class="fas fa-link"></i></a>
 </h2>
@@ -140,7 +145,7 @@
 <li><p>the value derived from it</p></li>
 </ol>
 <p>In general, it’s best to assume that “more is better”.</p>
-<div id="ecological-metadata-language-eml" class="section level3">
+<div id="ecological-metadata-language-eml" class="section level3" number="13.2.1">
 <h3>
 <span class="header-section-number">13.2.1</span> Ecological Metadata Language (EML)<a class="anchor" aria-label="anchor" href="#ecological-metadata-language-eml"><i class="fas fa-link"></i></a>
 </h3>
@@ -205,7 +210,7 @@
 <em>name</em> is a unique name for the field/column (<code>date</code>)<br>
 </li>
 <li>
-<em>label</em> describes the field/column ("date of sample collection)<br>
+<em>label</em> describes the field/column (“date of sample collection)<br>
 </li>
 <li>
 <em>definition</em> indicates what the values represent (length of a fish)<br>
@@ -233,37 +238,37 @@
 </div>
 </div>
 </div>
-<div id="data-storage" class="section level2">
+<div id="data-storage" class="section level2" number="13.3">
 <h2>
 <span class="header-section-number">13.3</span> Data storage<a class="anchor" aria-label="anchor" href="#data-storage"><i class="fas fa-link"></i></a>
 </h2>
 <p>Where and how to store your data is an important consideration. In general, you are responsible for backing up your data to the cloud, which may involve one or more options.</p>
-<div id="github-2" class="section level3">
+<div id="github-2" class="section level3" number="13.3.1">
 <h3>
 <span class="header-section-number">13.3.1</span> GitHub<a class="anchor" aria-label="anchor" href="#github-2"><i class="fas fa-link"></i></a>
 </h3>
 <p>Each research project (or chapter of a thesis/dissertation) should have a corresponding repository in GitHub. At the outset, students and postdocs may choose to create these repos under their own GitHub username, with the expectation that they also invite Mark as a formal collaborator. As people finish projects, the corresponding repo should be transferred over to the lab’s <a href="https://github.com/scheuerell-lab">GitHub organization</a>.</p>
 <p>Data for your project should be pushed/pulled from GitHub as part of your regular workflow. Each project repo should be set up as a “<a href="https://fish497.github.io/website/lectures/week_01/lec_03_orgs_styles.html">research compendium</a>” following one of the templates <a href="https://github.com/scheuerell-lab/onboarding/tree/master/templates">here</a>. Each compendium should be structured with a <code>/data</code> folder that contains sub-folders for raw and derived (“cleaned”) datasets. It is important that you <strong>do not</strong> revise the raw data files outside of your workflow, and instead keep unchanged versions of them in the <code>/data/raw</code> folder.</p>
 </div>
-<div id="others" class="section level3">
+<div id="others" class="section level3" number="13.3.2">
 <h3>
 <span class="header-section-number">13.3.2</span> Others<a class="anchor" aria-label="anchor" href="#others"><i class="fas fa-link"></i></a>
 </h3>
 <p>In some cases you may need to rely on another cloud option for data storage or access. For example, a colleague or project collaborator my have information stored on iCloud, Dropbox, or Google Drive. You might also elect to use one of these options as another form of backup for your own data, but if you should choose to do so, be aware that formal version software like Git and the auto-sync features of other platforms may not play nicely together.</p>
 </div>
 </div>
-<div id="data-archival" class="section level2">
+<div id="data-archival" class="section level2" number="13.4">
 <h2>
 <span class="header-section-number">13.4</span> Data archival<a class="anchor" aria-label="anchor" href="#data-archival"><i class="fas fa-link"></i></a>
 </h2>
 <p>Upon completion of a project, all data will be archived in a formal repository and given a unique digital object identifier. In many cases this is a strict requirement of granting agencies and peer-reviewed journals. There are many data archival services available now, some of which charge for the service.</p>
-<div id="zenodo" class="section level3">
+<div id="zenodo" class="section level3" number="13.4.1">
 <h3>
 <span class="header-section-number">13.4.1</span> Zenodo<a class="anchor" aria-label="anchor" href="#zenodo"><i class="fas fa-link"></i></a>
 </h3>
 <p><a href="https://zenodo.org/">Zenodo</a> is one of the more popular archival services because it’s free and easy to use. It also <a href="https://guides.github.com/activities/citable-code/">integrates nicely with GitHub</a>.</p>
 </div>
-<div id="usgs" class="section level3">
+<div id="usgs" class="section level3" number="13.4.2">
 <h3>
 <span class="header-section-number">13.4.2</span> USGS<a class="anchor" aria-label="anchor" href="#usgs"><i class="fas fa-link"></i></a>
 </h3>
@@ -318,7 +323,7 @@
   </div>
 
   <div class="col-12 col-md-6 mt-3">
-    <p>Built with <a class="text-light" href="https://bookdown.org">bookdown</a> on 2022-04-05 </p>
+    <p>Built with <a class="text-light" href="https://bookdown.org">bookdown</a> on 2022-07-20 </p>
   </div>
 
 
