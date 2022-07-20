@@ -10,7 +10,7 @@ Mark serves as a mentor and source of information about academics, research, ser
 
 Although Mark is committed to helping you find the resources and information you need, he's also cisgendered, straight, and white, which means some of you may want to seek advice from others inside or outside of SAFS. If you should choose to do so, you are under no obligation to tell Mark about it.
 
-### Some things to expect from Mark
+### Some things to expect from Mark {-}
 
 * Mark will strive to be impartial in his dealings with all lab members and cultivate a welcoming and inclusive atmosphere to facilitate learning and excellence.
 
@@ -34,7 +34,7 @@ Graduate school should be a rewarding experience, but it can be incredibly chall
 
 As a new graduate student in our lab, you will be welcomed into a group of diverse individuals with varying interests. We support each other in our respective endeavors and celebrate our successes. You will have numerous opportunities to contribute to our research projects, develop lasting bonds to others within and outside the lab, and help us improve upon our ways.
 
-### Things Mark expects from you
+### Things Mark expects from you {-}
 
 * You will maintain a high level of professionalism, which includes acting ethically and behaving in a manner consistent with our lab's [Code of Conduct](https://scheuerell-lab.github.io/lab-book/code-of-conduct.html) and the [UW Student Conduct Code](https://www.washington.edu/admin/rules/policies/WAC/478-121TOC.html).
 
@@ -56,11 +56,11 @@ As a new graduate student in our lab, you will be welcomed into a group of diver
 
 * You will use your peer network to find and receive advice, to the extent possible.
 
-### Mentoring plans
+### Mentoring plans {-}
 
 All grad students will develop a mentoring plan with assistance from Mark. This will be a "living document" that evolves over time according to the goals and needs of the student.
 
-### Annual reviews
+### Annual reviews {-}
 
 All grad students will undergo an annual review with Mark, which involves the following 3 steps, as outlined [here](https://fish.uw.edu/wp-content/uploads/sites/29/2020/06/GSAR.pdf):
 
@@ -91,7 +91,7 @@ All grad students will undergo an annual review with Mark, which involves the fo
 
 Post-docs in our lab conduct independent research and serve as *ad hoc* advisors to undergraduate and graduate students. They are a useful source of information and can help students navigate difficult situations.
 
-### Annual reviews
+### Annual reviews {-}
 
 All postdocs will undergo an annual review with Mark, as required under the collective bargaining agreement. Prior to the meeting, Mark (and potentially other collaborators) will fill out [this form](resources/postdoc_360.docx). The postdoc will fill out [this form](resources/postdoc_annual_activities.docx). After the meeting, Mark will send the completed forms to the HR director and they will file them away.
 
@@ -138,7 +138,7 @@ If you are funded as an RA or TA, you are expected to work on the research progr
 
 Note, too, that people are allowed to take up to two unpaid holidays per calendar year for a reason of faith or conscience, or for an organized activity conducted under the auspices of a religious denomination, church or religious organization.
 
-### Grad students
+### Grad students {-}
 
 Grad students with a 50% or greater FTE appointment for twelve months are allowed 4 weeks (20 business days) of paid time off per year, but they should clear any leave plans with Mark at least 2 weeks in advance. There will be no reduction in pay or benefits for this time off. Grad students with a 50% appointment for less than twelve months, or those who are appointed for less than 50% FTE, shall have vacation time off prorated on this basis. 
 
@@ -146,7 +146,7 @@ Grad students who are employed as a 50% FTE for three or more quarters during th
 
 More information about leave policies for grad students can be found [here](https://hr.uw.edu/labor/academic-and-student-unions/uaw-ase/ase-contract).
 
-### Postdocs
+### Postdocs {-}
 
 Postdocs receive 21 days of paid vacation time off at the beginning of the month following the start of each one-year appointment period. For appointment periods of less than one year, postdocs will receive the prorated number of paid vacation days. Unused vacation time off shall lapse 12 months from the date it was received and at the expiration of each appointment period. Unused vacation time off is not paid at separation, does not transfer between employment programs, and is not eligible for shared leave donation.
 
