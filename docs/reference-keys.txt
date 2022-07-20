@@ -4,18 +4,11 @@ our-vision
 our-values
 expectations
 marks-role
-some-things-to-expect-from-mark
 grad-students
-some-things-mark-expects-from-you
-mentoring-plans
-annual-reviews
 postdocs
 undergraduates
-technicians-staff
 work-hours
 time-off
-grad-students-1
-postdocs-1
 absences
 code-of-conduct
 things-you-can-do
@@ -67,6 +60,7 @@ safs-quantitative-seminar
 fish-wildlife-ecology-seminar
 academics
 required-coursework
+registering-for-courses
 forming-a-committee
 plan-of-study
 student-advisor-annual-review
