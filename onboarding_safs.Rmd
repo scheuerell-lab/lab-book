@@ -4,6 +4,7 @@
 
 The information in this section will help new students and staff get acquainted with the resources available to them.
 
+
 ## UW NetID
 
 Your UW NetID is your personal identification for using secure UW online resources. A UW NetID is required of everyone associated with the University of Washington who plans to use online central administrative and computing services. These include Web pages to:
@@ -16,17 +17,21 @@ Your UW NetID is your personal identification for using secure UW online resourc
 
 To create your UW NetID, please click [here](https://uwnetid.washington.edu/newid/). Please keep in mind that your NetID will also be your UW email address, so choose an ID carefully (you will be limited to 8 characters). 
 
+
 ## Husky Card
 
 You will need to get a [Husky Card](https://hfs.uw.edu/Husky-Card-Services/Husky-Card), which acts as your university ID, as well as your library card, [U-PASS](https://transportation.uw.edu/getting-here/transit/u-pass), and after-hours building access key. Your Husky Card also admits you into the [Intramural Activities Building (IMA)](https://www.washington.edu/ima/) and grants you free admission to the [Henry Art Gallery](https://henryart.org/) and the [Burke Museum](https://www.burkemuseum.org/). You can get your Husky Card from the [Husky Card Account & ID Center](https://hfs.uw.edu/Husky-Card-Services/Husky-Card/ID-Center-Locations), located in the ground floor of Odegaard Undergraduate Library. Note that you will need to have your UW student ID number and a U.S. state- or federally-issued photo identification with you (eg, a driver's license or passport).
+
 
 ## MyUW
 
 [MyUW](https://my.uw.edu/) is your personal portal to University of Washington information. It is an easy-to-use tool for finding student and employee resources. You can personalize MyUW to fit your needs by including or excluding the services you see listed. Your UW NetID and password are required to log in.
 
+
 ## Email
 
 If you prefer to use a non-UW email account primarily (e.g., Gmail), you can forward all of your UW email by updating your preferences on [MyUW](https://my.uw.edu/). However, you should ensure that your forwarded UW email is not filtered into your junk-mail/SPAM folder (e.g., add your UW email address to your contact list on your non-UW account).
+
 
 ### SAFS email lists
 
@@ -34,24 +39,35 @@ You should be automatically subscribed to the `safsgrads@uw.edu` mailing list, w
 
 Additionally, you can manage your preferences for all lists to which you subscribe [here](http://www.washington.edu/computing/mailman/subscribers/) by typing the name of the list in the search box under "Find a List's Information Page". If you prefer to receive all email from a list in a daily digest (i.e., a summary) instead of individually, you can select the digest option by going to the list's information page.
 
+
 ## Regular mail
 
-You will have a mailbox in the Fishery Sciences Building on campus, but it should only be used for correspondence and packages related to your academic program. The address is 
+You will have a mailbox in the Fishery Sciences Building on campus, but it should only be used for correspondence and packages related to your academic program. The mailing address for regular postal delivery is 
 
+[Your name]
 School of Aquatic and Fishery Sciences  
-1122 NE Boat Street  
 Box 355020  
 Seattle, WA 98195-5020  
 
+The street address for courier deliveries (eg, UPS, FedEx) is
+
+[Your name]
+School of Aquatic and Fishery Sciences  
+1122 NE Boat Street  
+Seattle, WA 98105
+
 Please make arrangements to receive all personal mail at your new local address. 
+
 
 ## Getting paid
 
 If you have a Research Assistantship (RA), Teaching Assistantship (TA), or a SAFS fellowship, please bring either a U.S. Passport or some form of photo ID (driver's license, state ID card) and proof of eligibility to work in the U.S. (passport, birth certificate, social security card, or I-20 with statement indicating eligibility to work on campus) to Amy Fox in the SAFS Admin Office (FSH 116) and complete your employment paperwork before the first day of the pay period (September 16). Amy takes drop-ins daily between 9:30AM and 5:00PM, or you can [email Amy](mailto:amyfox@uw.edu) for an appointment or to ask questions. **Note: You cannot be placed on payroll without this documentation**. 
 
+
 ## Union representation
 
-As an RA or TA at UW, you are classified as an Academic Student Employee (ASE) and may choose to become a member of the [GSEAC/UAW union](https://depts.washington.edu/labhist/uwunions/gseac.htm). Union members pay dues; non-members are required to pay a service fee to the union. Dues or service fees are automatically deducted from each paycheck. The union contract is available for review [here](https://hr.uw.edu/labor/academic-and-student-unions/uaw-ase/ase-contract). We strongly encourage you to become familiar with the contract, as both the UW and ASEs are bound by it, whether or not the student is a union member.
+As an RA or TA at UW, you are classified as an Academic Student Employee (ASE) and may choose to become a member of the [GSEAC/UAW union](https://depts.washington.edu/labhist/uwunions/gseac.htm). Union members pay dues; non-members are required to pay a service fee to the union. Dues or service fees are automatically deducted from each paycheck. The union contract is available for review [here](https://hr.uw.edu/labor/academic-and-student-unions/uaw-ase/ase-contract). We strongly encourage you to become familiar with the contract, as both the UW and ASEs are bound by it, whether or not you are a union member.
+
 
 ## Immunization
 
@@ -59,31 +75,33 @@ First-time students must meet the UW Immunization Requirement, which protects th
 
 Regardless of your immunization requirement status, you will be able to register for classes for your first quarter, but registration for your second quarter at UW may be affected if you have not met the requirement by that time. You can find out more about the immunization requirement [here](https://wellbeing.uw.edu/medical/immunizations/immunization-requirement/).
 
+
 ## Orientation
 
 Students funded by SAFS as an RA, TA, or fellow should be on campus by September 16, unless alternate arrangements have been made with Mark. Orientation takes place over a series of days between September 21–29 and normally includes a half-day SAFS orientation for all new graduate students, a lab-safety workshop, TA and RA training, and a CPR/First Aid class. Orientation is designed to help you become familiar with SAFS, its resources, and policies.
 
 If you are funded by your employer or another non-SAFS source, many of the events may not be applicable to you (e.g., TA or RA training). If an event is not applicable, then you do not need to participate in it. However, **all new students are required to attend the half-day SAFS Orientation**.
 
+
 ## Helpful people
 
 These people are very helpful and may be able to assist you.
+
+* [Sarah Romero](mailto:sarahjh@uw.edu) (WACFWRU administrator)
+
+* [Michael Martínez](mailto:mcfm@uw.edu) (DEI Specialist)
 
 * [Samantha "Sam" Scherer](mailto:safs@uw.edu) (SAFS graduate student advisor)
 
 * [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/) (SAFS graduate program coordinator)
 
-* [Verna Blackhurst](mailto:vernab@uw.edu) (WACFWRU administrator)
-
-* [Michael Martinez](mailto:mcfm@uw.edu) (DEI Specialist)
+* [Jon Wittouck](mailto:wittouck@uw.edu) (Facilities, Shop, Lab Safety)
 
 * [Jonas Louie](mailto:jinl@uw.edu)	(SAFS Administrator)
 
 * [Dan DiNicola](mailto:dinicola@uw.edu)	(Communications, Website)
 
 * [Michael Parker](mailto:safshelp@uw.edu) (IT)
-
-* [Jon Wittouck](mailto:wittouck@uw.edu) (Facilities, Shop, Lab Safety)
 
 
 ## Additional resources
@@ -102,6 +120,7 @@ Here are several additional resources to help you get acquainted with life on ca
 
 * [Residency Classification Office](http://depts.washington.edu/registra/offices.html#Q7)
 
+
 ### Getting around
 
 * [Campus maps](http://www.washington.edu/home/maps/)
@@ -111,6 +130,7 @@ Here are several additional resources to help you get acquainted with life on ca
 * [Bus info](http://metro.kingcounty.gov/)
 
 * [UW Commuter and Parking Services, including UPASS](http://www.washington.edu/commuterservices/parking/)
+
 
 ### Women & minorities
 
@@ -127,6 +147,7 @@ Here are several additional resources to help you get acquainted with life on ca
 * [UW Minority Affairs & Diversity Office](http://depts.washington.edu/omad/)
 
 * [UW Women's Center](http://depts.washington.edu/womenscenter/)
+
 
 ### Funding & fiscal services
 
