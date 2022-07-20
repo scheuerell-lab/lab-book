@@ -2,6 +2,8 @@
 
 # Personal website
 
+<p></p>
+
 Maintaining an online presence feels increasingly important in science, as it's often the quickest and most convenient way to communicate about what's being done, who's doing it, and where it's happening. If someone wants to find out about you, they're going to search for you online.
 
 Mark encourages everyone to create a personal website, as they are a great way to show the projects you work on, the people you collaborate with, your CV, etc. There are many different platforms that allow you to create a free website. Mark uses Hugo and reveal.js to create the [lab website on GitHub](https://github.com/scheuerell-lab/website) and would be happy to help you get set up that way. Alternatively, you could use the built-in functionality of options from Google, Wix, Wordpress, etc.
@@ -24,6 +26,8 @@ Here is a non-exhaustive list of things you might want to include on a website. 
 
 
 # *Curriculum vitae* (CV)
+
+<p></p>
 
 Everyone should have a CV that lists information about your professional activities. Do not list any personal information like your social security number. Mark recommends you keep your CV as up-to-date as possible, and you place a link to it on your website.
 
@@ -48,6 +52,8 @@ Here are some of the things people include on a CV when they are an early career
 
 
 # Social Media
+
+<p></p>
 
 Social media is a great way to share your own experiences, discover interesting publications, find tutorials, learn about JEDI issues, get information about staying healthy, as well as wonderful personal stories, photographs, and humorous cartoons and memes. Your level of engagement on social media is a personal matter, but be cautious about being swept up in it. Social media is also a home for trolls and bots just looking for a fight.
 
