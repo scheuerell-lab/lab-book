@@ -34,7 +34,7 @@ Graduate school should be a rewarding experience, but it can be incredibly chall
 
 As a new graduate student in our lab, you will be welcomed into a group of diverse individuals with varying interests. We support each other in our respective endeavors and celebrate our successes. You will have numerous opportunities to contribute to our research projects, develop lasting bonds to others within and outside the lab, and help us improve upon our ways.
 
-### Some things Mark expects from you
+### Things Mark expects from you
 
 * You will maintain a high level of professionalism, which includes acting ethically and behaving in a manner consistent with our lab's [Code of Conduct](https://scheuerell-lab.github.io/lab-book/code-of-conduct.html) and the [UW Student Conduct Code](https://www.washington.edu/admin/rules/policies/WAC/478-121TOC.html).
 
@@ -91,7 +91,10 @@ All grad students will undergo an annual review with Mark, which involves the fo
 
 Post-docs in our lab conduct independent research and serve as *ad hoc* advisors to undergraduate and graduate students. They are a useful source of information and can help students navigate difficult situations.
 
-More info coming soon.
+### Annual reviews
+
+All postdocs will undergo an annual review with Mark, as required under the collective bargaining agreement. Prior to the meeting, Mark (and potentially other collaborators) will fill out [this form](resources/postdoc_360.docx). The postdoc will fill out [this form](resources/postdoc_annual_activities.docx). After the meeting, Mark will send the completed forms to the HR director and they will file them away.
+
 
 ## Undergraduates
 
@@ -106,10 +109,6 @@ Here are some additional expectations:
 * We expect people to work the hours they're being paid. You may not do homework, read material unrelated to the lab, eat lunch, etc while being paid by us. You are welcome to use the lab space as a place to sit while you work on other tasks, though.
 
 * Please clean up after yourself. The lab is a shared space and we do not want to suffer a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons). If you don't know where something belongs, ask for help.
-
-## Technicians & staff
-
-More info coming soon.
 
 
 ## Work hours
