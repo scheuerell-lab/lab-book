@@ -30,7 +30,7 @@ icon_link <- function(icon = NULL, text = NULL, url = NULL) {
 }
 ```
 
-# Introduction {-}
+# Welcome {-}
 
 <p></p>
 
