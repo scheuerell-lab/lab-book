@@ -32,7 +32,33 @@ Digital Measures (DM) is the online system that the national Cooperative Units P
 
 ### DOI Talent
 
-DOI Talent is the platform for administering online training to Department of the Interior Employees. Even though you're not an actual federal employee, you'll still need to get set up with an account on DOI Talent. Again, Sarah Romero will be able to help.
+DOI Talent is the platform for administering online training to Department of the Interior Employees. Even though you're not an actual federal employee, you'll still need to get set up with an account on DOI Talent. Again, Sarah Romero will be able to help you with this.
+
+Among the various training modules you'll have to complete, these are required by everyone in the lab and do not expire (i.e., they only have to be completed once).
+
+| Title in DOI Talent | Title in Digital Measures |
+|:--------------------|:--------------------------|
+| SAFETY: DOI Safety and Occupational Health Overview | DOI Safety and Occupational Health Overview (86389) | 
+| SAFETY: 1315 USGS Safety and Occupational Health Program Overview | USGS Safety and Occupational Health Program Overview (90112) |  
+| SAFETY: 1300 USGS Safety Program Requirements | USGS Safety Program Requirements (90113) | 
+| SAFETY: 1338 USGS Authorities, Roles, and Responsibilities | Authorities, Roles, and Responsibilities (86396) | 
+| SAFETY: 1304 USGS Industrial Hygiene Program Requirements | USGS Industrial Hygiene Program (104246) | 
+| | | 
+
+Your other training requirements will be determined by the types of lab and field activities you will undertake. To identify them, you will have to complete a _Personal Hazard Analysis_ (PHA) in DM, which you can access under **Safe at Work &rarr; My Safety Worksheet**. After you complete your PHA, you and Mark will review it together and discuss any additional training you will be required to complete. This training will have to be repeated at regular intervals of 1-5 years (see table below).
+
+| Type of training | Expires every |
+|:---------|:-------------:|    
+| Fire extinguisher | 1 year |
+| Bloodborne pathogens | 1 year |
+| CPR | 2 years |
+| (Wilderness) First Aid | 2 years |
+| Defensive driving | 3 years |
+| Over-the-Water | 3 years |
+| Motorboat operator | 5 years |
+| | | 
+
+After you have completed a training module, you should (in theory) be able to download or print a pdf of the training certification. In cases where you do not get a certificate, save a screen-grab of the training details that show your completion status. You will then have to go into Digital Measures (DM), create a new training record under **Safe at Work &rarr; Safety Training Records**, enter the relevant information, and then upload the training certification from DOI Talent.
 
 
 ### Student symposium
