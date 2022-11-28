@@ -92,6 +92,7 @@ usgs-fundamental-science-practices
 affiliation
 peer-reviewed
 pre-publication-disclaimer
+product-disclaimer
 old-projects
 informal
 presentations
