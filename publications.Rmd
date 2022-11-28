@@ -18,7 +18,19 @@ Because Mark is an employee of the U.S. government, he and his lab members must 
 
 ### Affiliation
 
-It is **very important** that lab members list their affiliation as:
+Students and postdocs should list their affiliation as
+
+> School of Aquatic and Fishery Sciences  
+> University of Washington  
+> Seattle, WA
+
+although QERM students may elect to use
+
+> Quantitative Ecology and Resources Management  
+> University of Washington  
+> Seattle, WA
+
+It is **very important** that Mark's affiliation be listed as:
 
 > U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit  
 > School of Aquatic and Fishery Sciences  
@@ -33,9 +45,16 @@ Most of what we write is destined for publication in peer-reviewed journals.
 
 ### Pre-publication disclaimer
 
-As part of the USGS FSP, we **must** include the following statement on the cover page or somewhere else near the beginning when formatting a paper for submission to a journal:
+As part of the [USGS Fundamental Science Practices](https://www.usgs.gov/office-of-science-quality-and-integrity/fundamental-science-practices), publications with Mark s a co-author **must** include the following statement on the cover page or somewhere else near the beginning when formatting a paper for submission to a journal:
 
 > This draft manuscript is distributed solely for purposes of scientific peer review. Its content is deliberative and predecisional, so it must not be disclosed or released by reviewers. Because the manuscript has not yet been approved for publication by the U.S. Geological Survey (USGS), it does not represent any official USGS finding or policy.
+
+### Product disclaimer
+
+If we refer to specific trade, firm, or product names within a publication (e.g., "R programming language", "YSI multisonde"), we **must** include the following statement in the acknowledgments:
+
+> Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+
 
 ## Old projects
 
