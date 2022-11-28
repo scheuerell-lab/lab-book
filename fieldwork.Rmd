@@ -1,6 +1,9 @@
 # In the field
 
-[ more info coming soon ]
+<br>
+
+**NOTE**: Click [here](resources\Scheuerell_fieldwork_safety_plan_2022.pdf) to access our full field safety document.
+
 
 ## General etiquette and advice
 
@@ -11,3 +14,82 @@
 -	Fieldwork can be intense, and the group dynamic is important in making sure things go smoothly. Try to make sure everyone feels included and comfortable around each other. This can go a long way to making the trip a success.
 
 -	Find time to have fun and unwind. 
+
+
+## Site information
+
+### Lake Sammamish
+
+Field work on Lake Sammamish is typically based out of the boat ramp at Lake Sammamish State Park (2000 NW Sammamish Rd, Issaquah, WA 98027).
+
+### Lake Washington
+
+Field work on Lake Washington is typically based out of the boat ramp at Magnuson Park (7400 Sand Point Way NE, Seattle, WA 98115).
+
+### Puget Sound
+
+Field work on Puget Sound is based out of several locations, depending on the specific project and whether it is boat- or shore-based. For boat operations, we typically use the following access points
+
+*	Eddie Vine Ramp at Seattle’s Golden Gardens Park (8001 Seaview Ave NW, Seattle, WA 98117)  
+*	Mukilteo’s Lighthouse Park Public Boat Launch (609 Front St, Mukilteo, WA 98275)  
+*	Anacortes’ Washington Park (6300 Sunset Avenue, Anacortes, WA 98221)  
+
+The specific launch site, destination(s), and expected departure and arrival times will be detailed on the day’s float plan.
+
+## Fieldwork safety policies
+
+### “No-go” criteria
+
+Final authority for deciding whether field work will proceed rests with the crew leader. In many cases this will be Mark Scheuerell (PI). The crew leader will consult the [National Weather Service Marine Zone Forecast](https://marine.weather.gov/MapClick.php?zoneid=pzz135#.YqurZhPMIk5) for information on forecasted temperature, wind, and precipitation both the evening prior to and the morning of the planned work. Although they are not the exclusive criteria, any of the following conditions constitute a “no-go”:
+
+*	Temperatures are forecasted to be below 45F or greater than 90F  
+*	Wind waves are forecasted to be greater than 4 feet  
+*	Thunderstorms are likely  
+*	Poor air quality from wildfire smoke or other causes (check [AirNow](https://www.airnow.gov/?city=Seattle&state=WA&country=USA))  
+*	Water quality concerns (e.g., cyanobacteria blooms, high levels of fecal coliform)  
+
+All participants will continue to monitor weather conditions throughout the day via weather apps on mobile devices and the WX channel on the VHF radio. If anything should change, the crew leader will call off sampling and the vessel will return to the vessel launch location or home port. If conditions are such that returning to the vessel launch location or home port would constitute an additional hazard (e.g., lightning spotted or thunder heard), the vessel operator should proceed to the closest location that offers shelter from the elements.
+
+### Personal conduct
+
+All individuals are expected to abide by our lab's [Code of Conduct](https://scheuerell-lab.github.io/lab-book/code-of-conduct.html) and the SAFS [Code of Conduct](https://fish.uw.edu/about/code-of-conduct/). Anyone who violates these rules—no matter how much they have contributed to the lab, or how specialized their skill set—will be asked to stop any inappropriate behavior and they are expected to comply immediately. Drug and alcohol use is strictly forbidden while transiting to a location or doing field work.
+
+### Hazards
+
+Working in nearshore environments (e.g., mudflats, rocky intertidal areas) and on research vessels is inherently risky. The ground, decks, gunwales are typically wet and slippery, so crew should exercise caution when moving about, especially in windy conditions. Appropriate footwear (eg, Xtratuffs) will help reduce risk of slipping. Cool water and wind can reduce manual dexterity in hands and arms, so crew members should be aware of possible mobility limitations. Neoprene or other non-cotton gloves will reduce heat loss. 
+
+Crew members should be especially mindful of ropes and cables in the boat, as they present both a tripping and entanglement hazard. Some equipment (eg, Van Dorn bottle) relies on spring-loaded mechanisms, which can potentially pinch the skin if not armed and activated properly. Careful attention to detail will help mitigate any risk of doing so.
+
+Knives, scalpels, and other sharp implements pose a risk of suffering a cut or puncture wound. In particular, care should be exercised when using these items, especially under adverse weather conditions such as high winds and cold temperatures.
+
+## Personal protective equipment
+
+All participants are expected to always wear a personal flotation device (PFD) when working “over the water”; these will be provided. Crew members will also be provided with well-fitting rain gear (jacket and bibs) and closed-toed shoes or boots (eg, Xtratuffs). No sandals, flip-flops, or other open-toed shoes are allowed on the research vessel. In addition, properly fitting waders and wading boots may be necessary when working in nearshore or lentic environments. If so, they will be provided.
+
+Temperatures out on the water are often much colder than those in Seattle, so crew members are encouraged to bring a warm hat, gloves, and additional layers. We have waterproof bags that people can use to keep their extra clothes dry. Crew members are also encouraged to wear sunscreen, sunglasses (polarized, if possible), and a hat, even when conditions are not particularly sunny. The crew leader will provide sunscreen for everyone.
+
+We will stop for occasional bathroom breaks, which may include using porta potties or pit toilets at boat launches or parks. In the even that no facility is available, field crews will also have a toilet kit containing a hand trowel, toilet paper, feminine hygiene products, waste bags, and hand sanitizer. On the boat, this kit is kept inside the main console under the helm of the vessel.
+
+## In case of accident or injury
+
+In case of accident or injury, all crew members should cease their activities and attend to the affected person(s). There is a first aid kit in an orange Pelican case located in a locker behind the helm of the vessel. The kit contains numerous items for treating cuts, burns, and other maladies. Shore-based operations will also have a well-supplied first aid kit available for use.
+
+If an accident involves another vessel, crew members should first attend to any injuries to passengers in all vessels. If necessary, there is a signal kit in an orange Pelican case located in a locker behind the helm of the vessel. The signal kit includes hand-held and aerial flares, and a signal flag. The Coast Guard can also be reached via channel 16 on the vessel’s VHF radio. 
+
+In the event of a serious injury requiring immediate medical assistance, the crew leader will designate one of the other members to contact medical professionals. If the crew leader is themself injured, the second-in-command will designate a communications person.
+
+After an injury has been addressed and the immediate threat has passed, the injured person or someone else from the field crew will alert Mark Scheuerell (PI). At a minimum, their report should detail the following information:
+
+*	Name(s) of persons injured  
+*	Location, date, and time of the injury  
+*	Nature of the injury (eg, “laceration to right index finger”, “sprained left ankle”)  
+*	Whether or not professional medical assistance was rendered  
+
+## Cleaning and sanitzing procedures
+
+All work surfaces in the lab and on the vessel will be cleaned with 95% ethanol prior to use. This also includes knives, forceps, and other small handheld tools and instruments. Field gear such as nets, sondes, etc should be rinsed well in the field using the onboard wash pump, and then rinsed again upon returning to the lab. Nets and ropes should be hung in the lab to dry. Waders and wading boots should be placed in the freezer for at least 24 hours to kill potential invasive species.
+
+## Food and meals
+
+Everyone is responsible for bringing their own food and drinking water or other beverages for day trips. We often work long days, sometimes in hot and windy conditions, so people are encouraged to bring more food and beverages than they might typically consume. There may be opportunities to purchase additional food and beverages along the way, but people should not rely on that as an option.
+
