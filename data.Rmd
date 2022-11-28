@@ -1,6 +1,6 @@
 # Data management
 
-<p></p>
+<br>
 
 Data management is one of the most important aspects of our research program. In particular, when we are collecting our own data we must ensure that we 
 

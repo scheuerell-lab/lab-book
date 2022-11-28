@@ -2,7 +2,7 @@
 
 # Personal website
 
-<p></p>
+<br>
 
 Maintaining an online presence feels increasingly important in science, as it's often the quickest and most convenient way to communicate about what's being done, who's doing it, and where it's happening. If someone wants to find out about you, they're going to search for you online.
 
