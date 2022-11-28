@@ -6,6 +6,8 @@ We recognize that scientific endeavors are reflective of society at large. We al
 
 As such, all members of the Scheuerell Lab are expected to abide by the following Code of Conduct. This includes collaborators and visitors to the lab as well. **Violations of this code are taken very seriously and will be addressed swiftly.** We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, religion or (non)belief, age, education, or socio-economic status. 
 
+**Note**: Lab members are also expected to abide by the [SAFS Code of Conduct](https://fish.uw.edu/about/code-of-conduct/).
+
 ## Things you _can_ do
 
 In order to foster a positive and professional learning environment, we encourage the following kinds of behaviors:
