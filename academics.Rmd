@@ -1,7 +1,5 @@
 # Academics
 
-<p></p>
-
 This section includes the most important resources for navigating the various SAFS milestones/protocols/procedures, including coursework requirements, the master's by-pass process, and various exams. Most of the resources here have been summarized from the [SAFS grad guide](https://docs.google.com/document/d/1LuPMsUMPyA4AYuD5CIjDwVsFM2tNyA2pg3A-d90PrF8/edit) or the [SAFS Forms, Guidelines, & Handbooks Page](https://fish.uw.edu/students/advising/forms-guidelines-handbooks/). A more detailed description of most of these processes/protocols/requirements can be found there.
 
 ## Required coursework
@@ -19,7 +17,7 @@ There are only a few courses that SAFS requires every student to take, as our go
 
 There is a *very* good chance Mark will also require you to take the following courses (or their equivalent), if you haven't done so already.
 
-- [FISH 497](https://fish497.github.io/website/) "Introduction to Environmental Data Science" (3 credits; offered Winter of odd years)
+- [FISH 549](https://fish549.github.io/website/) "Best Practices in Environmental Data Science" (3 credits; offered Winter of odd years)
 - [QERM 514](https://qerm514.github.io/website/) "Analysis of Ecological and Environmental Data" (4 credits; offered Spring)
 
 ### M.S. {-}
