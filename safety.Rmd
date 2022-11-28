@@ -16,15 +16,13 @@ Our lab keeps a confidential list of emergency contacts for every member of the 
 
 ## Field
 
+**NOTE**: Click [here](resources\Scheuerell_fieldwork_safety_plan_2022.pdf) to access our full field safety document.
+
 ### General considerations
 
--	When going into the field, someone else should always be told where you’re going, and when you anticipate being back
-
--	Before going into a remote area, check for the nearest hospitals so in an emergency you already have an idea of where to go. 
+-	When going into the field, someone else should always be told where you’re going, and when you anticipate being back. For on-the-water activities, the trip leader should file [a detailed float plan](resources/float_plan.pdf).
 
 -	When heading into remote areas, have detailed physical maps with you and a compass. Relying on technology or cell service without any physical map backups is a bad idea.
-
--	When going out in a group, have everyone write down an emergency contact, as well as any life threatening allergies that others should be aware of in an emergency. 
 
 -	If you carry an epipen or similar device, make sure someone else in the group knows where it is and how to use it, in case you are unable to administer it yourself in an emergency.
 
@@ -33,11 +31,11 @@ And always remember: **People’s safety is more important than any sample!**
 
 ## UW safety resources
 
-[UW Environmental Health & Safety (EH&S)](https://www.ehs.washington.edu/)
+* [UW Environmental Health & Safety (EH&S)](https://www.ehs.washington.edu/)
 
-[UW Lab Safety Manual](https://www.ehs.washington.edu/resource/laboratory-safety-manual-510)
+* [UW Lab Safety Manual](https://www.ehs.washington.edu/resource/laboratory-safety-manual-510)
 
-[UW Online Accident Reporting System (OARS)](https://www.ehs.washington.edu/ohsoars)
+* [UW Online Accident Reporting System (OARS)](https://www.ehs.washington.edu/ohsoars)
 
-[Chemical Inventory & Safety Data Sheets (MyChem)](https://cspc.admin.uw.edu/mychem/uwnetid/home/greeting.aspx)
+* [Chemical Inventory & Safety Data Sheets (MyChem)](https://cspc.admin.uw.edu/mychem/uwnetid/home/greeting.aspx)
 
