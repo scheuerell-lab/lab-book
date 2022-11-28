@@ -1,9 +1,52 @@
 # Vehicles
 
-The Coop Unit has its own group of vehicles and boats that are available only to us. Before you can use or even ride in them, you'll need to fill out a federal volunteer form. Sarah Romero can help you with this. 
+The Coop Unit has its own fleet of vehicles that are available only to us.
+
+| Make & model | License plate | Passengers | Capable of towing?
+|:-------------------|:-------------------------:|:-----:|:----:|
+| Chevy HHR | I433302 | 3 | No |
+| Chevy Suburban 4x4 | I434802 | 6 | Yes |   
+| Chevy Silverado 4x4 | I433148 | 1 | Yes |
+| Ford F-350 4x4 | I434891 | 3 | Yes |
+| | | 
+
+Please do your best to select a vehicle most appropriate for your purpose. For example, if you and a colleague are going to a meeting in Olympia, the Chevy HHR would be a better choice than the Chevy Suburban.
+
+**NOTE**: Before you can use (or even ride in) any of the Coop Unit vehicles, you'll need to fill out a federal volunteer form. Sarah Romero can help you with this. 
 
 ## Training
 
+Before operating one of the Coop Unit's vehicles, you will need to take a defensive driving course, which is good for three years. The course is offered online and takes about 3 hours to complete. Mark will provide you with the URL and password to access the course. 
 
 ## Operation 
+
+### Reservations
+
+We use an informal Google sheet for making vehicle reservations, which you can access [here](https://docs.google.com/spreadsheets/d/1o0x9c0Xi18f2qPhW2GZs6KOKdgkI_d0CYqWZqG8VByk/edit#gid=1057139502). Please reserve a vehicle in advance of any trip and make sure no one else has a reservation that would conflict with yours (e.g., you're planning to have a vehicle for several days and return on a Thursday, but someone else has planned to use the vehicle on Wednesday).
+
+### Keys
+
+All of the vehicle keys are kept inside the Coop Unit suite (Rm 242D). Each vehicle has its own clipboard containing keys and a gas purchase log. Make sure to take the proper clipboard with you.
+
+### Parking
+
+The vehicles are typically parked on campus in lot W35, which is immediately to the east of SAFS. On some occasions, there may be special events, construction, or other activity that will preclude you from parking in W35 when you return from your trip. If so, please park the vehicle in one of the nearby lots (see the map at the bottom of the vehicle mileage form). **Note**: You should be able to park in any state-owned parking lot without issue, but please pay particular attention to any signage indicating possible restrictions.
+
+### Mileage & budget
+
+When using a Coop Unit vehicle, please make note of the beginning and ending mileage, as you will need to record these at the conclusion of your trip. Mark suggests using your phone to take a picture of the odometer before heading out to facilitate this process, but you can edit the mileage form after the fact.
+
+To access the mileage form, use the camera on your phone to scan the QR code on the cover of the clipboard, which will open a web browser and take you to the form. There are several fixed fields with dropdown menus from which to select your options:
+
+* Driver's name  
+* Budget number & name  
+* Vehicle name  
+
+You will have to manually enter the following:
+
+* Date  
+* Beginning mileage  
+* Ending mileage  
+
+Lastly, use the radio buttons to select the lot where the vehicle was parked.
 
