@@ -1,6 +1,8 @@
 # Safety
 
-###  **If you are experiencing an emergency, please dial 911 immediately!** {-}
+###  **If you are experiencing an emergency, dial 911 immediately!** {-}
+
+<br>
 
 ## SafeCampus
 
@@ -16,7 +18,7 @@ Our lab keeps a confidential list of emergency contacts for every member of the 
 
 ## Field
 
-**NOTE**: Click [here](resources\Scheuerell_fieldwork_safety_plan_2022.pdf) to access our full field safety document.
+**NOTE**: Click [here](resources/Scheuerell_fieldwork_safety_plan_2022.pdf) to access our full field safety document.
 
 ### General considerations
 
