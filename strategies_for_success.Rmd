@@ -1,0 +1,23 @@
+# Strategies for success
+
+The structure of academia, whether you are a graduate student, postdoc, faculty member, or research scientist, presents unique challenges for maintaining productivity. Timelines are often ambiguous, external sources of accountability are rare, and the "choose your own adventure" nature of planning your time can be alternately freeing and confusing.
+
+As such, figuring out strategies for your own productivity can help you have both a more successful and less stressful experience in the academy. However, strategies that work for someone else might not work for you, so it's important to try things out and see what works for you.
+
+## Here are some resources that you may find helpful in discovering what sorts of strategies work best for you:
+
+[Hotaling (2018)](https://ojs.library.queensu.ca/index.php/IEE/article/view/9045)
+
+[Ankur Desai - Unamanged time](https://flux.aos.wisc.edu/unmanaged-time)
+
+[Beck Tench - Academic Workflow](https://www.becktench.com/workflow)
+
+[National Center for Faculty Development and Diversity (NCFDD)](https://www.facultydiversity.org)
+- UW has a partnership with NCFDD, and if you sign in through your UW email you have access to a number of great webinars that cover various topics from mastering academic time management to how to say no. While targeted towards junior faculty, most of the information in these webinars is relevant to grad students, post docs, etc.
+
+[Toggl Time tracking software](https://toggl.com/track/)
+- This time tracking software is entirely free and is helpful for understanding how you are actually spending your time on a week-to-week basis
+
+### Books
+
+[Cal Newport - Deep Work](https://seattle.bibliocommons.com/item/show/3140305030)
