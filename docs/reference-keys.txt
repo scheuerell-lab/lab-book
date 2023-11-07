@@ -14,6 +14,7 @@ code-of-conduct
 things-you-can-do
 things-you-cannot-do
 reporting
+addressing-conflict
 relocating-to-seattle
 geography
 budgeting
@@ -52,7 +53,7 @@ slack
 github
 email-1
 text-message
-reporting-support
+reporting-and-support
 all-lab-members
 college-of-the-environment-resource-list
 uw-bias-reporting-tool
