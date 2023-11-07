@@ -14,6 +14,7 @@ rmd_files: [
   "onboarding_cru.Rmd",
   ## policies & procedures
   "communications.Rmd",
+  "reporting.Rmd",
   "participation.Rmd",
   "academics.Rmd",
   "collaborations.Rmd",
