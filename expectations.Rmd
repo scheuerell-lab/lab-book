@@ -32,7 +32,11 @@ Although Mark is committed to helping you find the resources and information you
 
 Graduate school should be a rewarding experience, but it can be incredibly challenging at times. The resources provided here are meant to help you transition to a new phase in your life and get the most out of your time at the UW School of Aquatic and Fishery Sciences. Staying organized with respect to your personal obligations, coursework, research, and outreach will help you through the process.
 
-As a new graduate student in our lab, you will be welcomed into a group of diverse individuals with varying interests. We support each other in our respective endeavors and celebrate our successes. You will have numerous opportunities to contribute to our research projects, develop lasting bonds to others within and outside the lab, and help us improve upon our ways.
+**You are not alone in this endeavor!**
+
+As a new graduate student in our lab, you will be welcomed into a group of diverse individuals with varying interests. We support each other and celebrate our successes. You will have numerous opportunities to contribute to our research projects, develop lasting bonds within and outside the lab, and help us improve upon our ways and each other.
+
+You can find a wealth of information, including forms, guidelines, handbooks, and milestones [here](https://fish.uw.edu/students/advising/forms-guidelines-handbooks/).
 
 ### Things Mark expects from you {-}
 
@@ -46,15 +50,15 @@ As a new graduate student in our lab, you will be welcomed into a group of diver
 
 * You will come prepared to any meetings we have, which includes a clear idea of the agenda or goals for the meeting.
 
-* You will keep careful notes of your research and meetings, and ensure that you research data and software are backed up. 
+* You will keep careful notes of your research and meetings with Mark and others, and ensure that you research data and software are backed up. 
 
 * You will keep Mark apprised of your academic progress.
 
-* You will ensure that your supervisory committee is kept informed about your research and you will organize meetings with your supervisory committee at least annually.
+* You will ensure that your supervisory committee is kept informed about your research, which includes meeting with them (at least) annually and in the quarter preceding *any* big milestone (e.g., qualifying exam, defense).
 
-* You will carefully review Mark's comments on drafts of your work (not simply “accept all”) and question me if a suggestion for a change is unclear or does not seem justified/appropriate.
+* You will carefully review Mark's comments on drafts of your work (not simply “accept all”) and question him if a suggestion for a change is unclear or does not seem justified/appropriate.
 
-* You will use your peer network to find and receive advice, to the extent possible.
+* You will ask your lab mates and peer network for information and advice, to the extent possible.
 
 ### Mentoring plans {-}
 
@@ -62,11 +66,13 @@ All grad students will develop a mentoring plan with assistance from Mark. This 
 
 ### Annual reviews {-}
 
-All grad students will undergo an annual review with Mark, which involves the following 3 steps, as outlined [here](https://fish.uw.edu/wp-content/uploads/sites/29/2020/06/GSAR.pdf):
+All grad students will undergo an annual review with Mark, which involves the following 3 steps:
 
 1. Independent reports
 
-    * Student and Advisor both complete Annual Review reports, which include a self assessment
+    * Student completes a self assessment (Word doc [here](resources/student_report.docx))
+
+    * Mark completes a student assessment (Word doc [here](resources/advisor_report.docx))
 
 2. Student / Advisor meeting
 
@@ -82,7 +88,7 @@ All grad students will undergo an annual review with Mark, which involves the fo
 
     * Revise and/or approve goals for next academic year
 
-    * Committee discusses and completes the Annual Committee Meeting Report, and sends it to Student for a response
+    * Committee discusses and completes the Annual Committee Meeting Report (Word doc [here](resources/committee_report.docx)), and sends it to Student for a response
 
     * Advisor files completed Committee Report with SAFS
 

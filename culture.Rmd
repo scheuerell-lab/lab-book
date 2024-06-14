@@ -4,7 +4,7 @@
 
 <br>
 
-We are dedicated to providing a welcoming and supportive environment for all people, regardless of their background, identity, appearance, or manner of communication. Our team works in an open science environment, relying on trust and respect to build effective partnerships. We continually strive to improve and expand upon our complementary skill sets through education and innovation, and we believe strongly in the sharing of knowledge through conversation and writing.
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of their background, identity, appearance, or disability. Our team works in an open science environment, relying on trust and respect to build effective partnerships. We continually strive to improve and expand upon our complementary skill sets through education and innovation, and we believe strongly in the sharing of knowledge through conversation and writing.
 
 ## Our mission
 
@@ -37,7 +37,7 @@ Our vision is to better understand and manage aquatic ecosystems through the int
 
 ### We focus on what is best for all of us {-}
 
-Our lab is meant to be a safe and welcoming place. We'll all have greater success in our endeavors, and feel better while doing it, when we focus on our collective good. We ask one another for help when needed and we graciously help each other when we can.
+Our lab is meant to be a safe and welcoming place. We'll all have greater success in our endeavors, and feel better while doing it, when we focus on our collective good. We ask one another for help when needed and we graciously help each other when we're able to do so.
 
 
 ### We embrace diversity {-}
@@ -47,7 +47,7 @@ We all come from different places and different backgrounds, and we respect that
 
 ### We listen with intent to understand {-}
 
-When we communicate with others, we listen with the intent to understand where others are coming from, and how their previous experiences shape their beliefs. We are active listeners and approach conversations with an open mind.
+When we communicate with others, we listen with the intent to understand the perspectives of others and how their previous experiences shape their beliefs. We are active listeners and approach conversations with an open mind.
 
 
 ### We consider the impact of our intent {-}
