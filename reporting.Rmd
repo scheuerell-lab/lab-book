@@ -4,6 +4,10 @@
 
 ## All lab members
 
+### SAFS Anonymous Reporting Tool
+
+If you would like to report an incident to SAFS leadership, but remain anonymous, please use the [SAFS online reporting form](https://forms.gle/mmRmT1GTkNwaoF198) (requires a UW net-ID to access).
+
 ### College of the Environment Resource List
 
 This [list of resources](http://environment.uw.edu/about/diversity-equity-inclusion/non-discrimination-and-sexual-harassment-resources), compiled by the College of the Environment, includes information on reporting and getting support for bias incidents, discrimination, and harassment.
