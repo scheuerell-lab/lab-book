@@ -35,7 +35,7 @@ It is important to all of us that people feel empowered and safe to share their 
 
 ## Forms of communication
 
-Our lab relies on several forms of communication, each with its own pros and cons. First and foremost, Mark maintains an "open door" policy when he's in his office. If the door is wide open, please come on in. If the door is open just a crack, please knock, as Mark may be on the phone or meeting with someone else. If the door is closed, please assume that either Mark does not want to be bothered or that he's out of the office. Note, too, that if Mark will be out of his office for just a bit during the day, he often leaves a message on his door with his whereabouts and estimated time of return.
+Our lab relies on several forms of communication, each with its own pros and cons. First and foremost, Mark maintains an "open door" policy when he's in his office. If the door is wide open, please come on in. If the door is open just a crack, please knock, as Mark may be on the phone or meeting with someone else. If the door is closed, please assume that either Mark does not want to be disturbed or that he's out of the office. Note, too, that if Mark will be out of his office for just a bit during the day, he often leaves a message on his door with his whereabouts and estimated time of return.
 
 **Note**: Anyone has the right to request that a conversation change venue if they are having trouble with the communication medium. For example, something might start as a Slack thread and then move to an in-person meeting, or someone might like to include more people in the conversation.
 
