@@ -28,9 +28,20 @@ You will need to get a [Husky Card](https://hfs.uw.edu/Husky-Card-Services/Husky
 [MyUW](https://my.uw.edu/) is your personal portal to University of Washington information. It is an easy-to-use tool for finding student and employee resources. You can personalize MyUW to fit your needs by including or excluding the services you see listed. Your UW NetID and password are required to log in.
 
 
+## IT
+
+The UW IT Connect group can help with a lot of general IT questions about email, calendars, and software. Yo can find a list of their services [here](https://itconnect.uw.edu/).
+
+SAFS used to have its own IT support as well, but those service have since been consolidated at the College level into the Environment Shared Information Technology Services (eSITS). To get help with a local IT problem, you can file a ticket request [here](https://urldefense.com/v3/__https://uw.service-now.com/sp?id=sc_cat_item&sys_id=fbd8e4571b6cddd0287ba683b24bcbdf__;!!K-Hz7m0Vt54!n0WOc1BaiZamhOqnL7aNdO2Sj38msi9IJzbkp8eom2tVuc4OMaJY92V1dX1CYIsbe6jOYNprySyjuA$).
+
 ## Email
 
 If you prefer to use a non-UW email account primarily (e.g., Gmail), you can forward all of your UW email by updating your preferences on [MyUW](https://my.uw.edu/). However, you should ensure that your forwarded UW email is not filtered into your junk-mail/SPAM folder (e.g., add your UW email address to your contact list on your non-UW account).
+
+
+## Lab mailing list
+
+Mark will subscribe you to the `scheuerell-lab@uw.edu`, which you can use to send things to the entire lab group. Note, though, that we generally prefer folks use Slack for messaging.
 
 
 ### SAFS email lists
@@ -93,15 +104,13 @@ These people are very helpful and may be able to assist you.
 
 * [Samantha "Sam" Scherer](mailto:safs@uw.edu) (SAFS graduate student advisor)
 
-* [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/) (SAFS graduate program coordinator)
+* [Chelsea Wood](https://fish.uw.edu/faculty/chelsea-woods/) (SAFS graduate program coordinator)
 
 * [Jon Wittouck](mailto:wittouck@uw.edu) (Facilities, Shop, Lab Safety)
 
 * [Jonas Louie](mailto:jinl@uw.edu)	(SAFS Administrator)
 
-* [Dan DiNicola](mailto:dinicola@uw.edu)	(Communications, Website)
-
-* [Michael Parker](mailto:safshelp@uw.edu) (IT)
+* [Niamh Owen-McLaughlin](mailto:nowenmcl@uw.edu)	(Communications, Website)
 
 
 ## Additional resources
