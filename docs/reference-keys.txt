@@ -23,7 +23,9 @@ uw-safs
 uw-netid
 husky-card
 myuw
+it
 email
+lab-mailing-list
 safs-email-lists
 regular-mail
 getting-paid
@@ -55,6 +57,7 @@ email-1
 text-message
 reporting-and-support
 all-lab-members
+safs-anonymous-reporting-tool
 college-of-the-environment-resource-list
 uw-bias-reporting-tool
 employee-assistance-program-uw-employees-only
