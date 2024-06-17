@@ -85,7 +85,7 @@ plan-of-study
 student-advisor-annual-review
 m.s.-thesis-proposal
 m.s.-final-exam
-masters-by-pass
+masters-bypass
 dissertation-proposal
 ph.d.-qualifying-exam
 ph.d.-general-exam
