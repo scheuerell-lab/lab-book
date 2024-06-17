@@ -91,6 +91,12 @@ ph.d.-qualifying-exam
 ph.d.-general-exam
 ph.d.-final-exam
 collaborations
+working-with-mark
+marks-affiliation
+pre-publication-disclaimer
+product-disclaimer
+peer-review-process
+preprints
 reproducible
 references
 github-1
@@ -110,8 +116,8 @@ authorship
 usgs-fundamental-science-practices
 affiliation
 peer-reviewed
-pre-publication-disclaimer
-product-disclaimer
+pre-publication-disclaimer-1
+product-disclaimer-1
 old-projects
 informal
 presentations
