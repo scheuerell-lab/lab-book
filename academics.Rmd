@@ -2,7 +2,7 @@
 
 <br>
 
-This section includes the most important resources for navigating the various SAFS milestones/protocols/procedures, including coursework requirements, the master's by-pass process, and various exams. Most of the resources here have been summarized from the [SAFS grad guide](https://docs.google.com/document/d/1LuPMsUMPyA4AYuD5CIjDwVsFM2tNyA2pg3A-d90PrF8/edit) or the [SAFS Forms, Guidelines, & Handbooks Page](https://fish.uw.edu/students/advising/forms-guidelines-handbooks/). A more detailed description of most of these processes/protocols/requirements can be found there.
+This section includes the most important resources for navigating the various SAFS milestones/protocols/procedures, including coursework requirements, the master's bypass process, and various exams. Most of the resources here have been summarized from the [SAFS grad guide](https://docs.google.com/document/d/1LuPMsUMPyA4AYuD5CIjDwVsFM2tNyA2pg3A-d90PrF8/edit) or the [SAFS Forms, Guidelines, & Handbooks Page](https://fish.uw.edu/students/advising/forms-guidelines-handbooks/). A more detailed description of most of these processes/protocols/requirements can be found there.
 
 ## Required coursework
 
@@ -60,24 +60,27 @@ This is typically the first milestone for both M.S. and Ph.D. students. The SAFS
 
 ### M.S. Committee {-}
 
+When you are ready to officially form your committee, use this [SAFS M.S. Committee Formation Form](https://docs.google.com/forms/d/e/1FAIpQLSdMCg96RoRiT4yEIAMorzOPT6GqDYFRQcPp0Ttr0D22idJqYg/viewform). Note the following:
+
 - M.S. committee is 3 members minimum: PI (Mark) + two other people
 - minimum of two members must be SAFS core faculty; this means that of the two people who aren't your PI, one can be non-SAFS core faculty.
 
-[SAFS M.S. Committee Formation Form](https://docs.google.com/forms/d/e/1FAIpQLSdMCg96RoRiT4yEIAMorzOPT6GqDYFRQcPp0Ttr0D22idJqYg/viewform)
+
 
 ### Ph.D. Committee {-}
 
-- Ph.D. committee is 4 members minimum
-  - Mark
-  - GSR (Graduate School Representative) - this is a faculty member from UW but outside of SAFS
-  - Two other people
-- minimum of two members must be SAFS core faculty
+When you are ready to officially form your committee, use this [SAFS Ph.D. Committee Formation Form](https://docs.google.com/forms/d/e/1FAIpQLScXAjjyjil49lIzOmPbsb12vHyJUlOGtW2B5pHD_5BcqutfFA/viewform). Note the following:
 
-[SAFS Ph.D. Committee Formation Form](https://docs.google.com/forms/d/e/1FAIpQLScXAjjyjil49lIzOmPbsb12vHyJUlOGtW2B5pHD_5BcqutfFA/viewform)
+- Ph.D. committee comprises a minimum of 4 members:
+  - Mark
+  - GSR (Graduate School Representative) - this is a faculty member from UW but outside of SAFS (or QERM) whose role is to ensure that the policies of the grad school are followed and that the student is treated equitably
+  - Two other people
+- A minimum of two members must be SAFS (or QERM) core faculty
+
 
 ## Plan of Study
 
-This is an agreement made between the student and the supervisory committee about what coursework will be required to complete the doctoral degree. It includes the core required courses as well as any other courses the committee feels are necessary to give the student the required background in her/his/their area of interest.
+The plan of study is an agreement made between the student and the supervisory committee about what coursework will be required to complete the doctoral degree. It includes the core required courses as well as any other courses the committee feels are necessary to give the student the required background in their area of interest.
 
 * [SAFS Plan of Study Toward the M.S. Degree](https://docs.google.com/forms/d/e/1FAIpQLSfJR2CyPnTCvS9S_M3ouymp5CRK823z5QZJCv2Ftq74hCBPFQ/viewform)
 
@@ -106,52 +109,48 @@ Every student is expected to undergo an annual review with their advisor and the
 
 ## M.S. Thesis Proposal
 
-After forming your committee (and submitting your plan of study), this is the next major milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 6th quarter of a degree; however, most students complete this in their second year. **NOTE**: Even if you plan on doing the by-pass, you still must complete an M.S. thesis proposal (see [below](Master's by-pass))!
+After forming your committee (and submitting your plan of study), this is the next major milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 6th quarter of a degree; however, most students complete this in their second year. **NOTE**: Even if you plan on doing the bypass, you still must complete an M.S. thesis proposal (see [below](masters-bypass)).
 
 [M.S. Thesis Proposal Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScL5Tp4GOxGUTxV2c1-kXW0orPTZEfuFeGtMF4eoJ9LHC9mcw/viewform)
 
 ## M.S. Final Exam
 
-The M.S. final exam consists of a public seminar on your thesis followed by a private oral examination by the supervisory committee (final exam).
+The M.S. final exam consists of a public seminar describing your thesis research followed by a private oral examination by the supervisory committee (final exam).
 
 ### Requirements {-}
 
-Two quarters before you plan to take your final examination, please schedule a 30 minute appointment with the SAFS GPA (Amy Fox).  At this meeting, the GPA will review your transcript, check your Plan of Study and confirm that all of your milestones have been completed.  If you fail to attend this meeting, your Request for M.S. Final Examination may not be granted, resulting in postponing your graduation quarter.
-
-[M.S. Request for Final Exam Form](https://docs.google.com/forms/d/e/1FAIpQLScJsXlPLyI56qPNQWOL8LGW3JR1jkmVNd4DrjQywx_4Q3SZ1A/viewform) is the link to submit your request for the M.S. final exam.
+Two quarters before you plan to take your final examination, please schedule a 30 minute appointment with the SAFS GPA (Sam Scherer).  At this meeting, the GPA will review your transcript, check your Plan of Study and confirm that all of your milestones have been completed.  If you fail to attend this meeting, your Request for M.S. Final Examination may not be granted, resulting in postponing your graduation quarter.
 
 ### Request for M.S. Final Examination {-}
 
-The student must submit a complete, near-to-final draft of the thesis, which has been reviewed and approved by the committee chair, to all members of his or her committee at least four weeks prior to the Final Examination.  After reading the draft and the supervisory committee agrees that you are ready for the Final Examination, please request the final exam via the MS Request for a Final Exam Form. Completion of this form verifies that your committee has read an entire near-to-final draft of your thesis and concurs that you are ready to sit for your final examination. The final draft of the thesis takes place after the final examination, incorporating changes suggested by the committee.
+The student must submit a complete, near-to-final draft of the thesis, which has been reviewed and approved by the committee chair, to all members of his or her committee at least four weeks prior to the Final Examination.  After reading the draft and the supervisory committee agrees that you are ready for the Final Examination, please request the final exam via the [MS Request for a Final Exam Form](https://docs.google.com/forms/d/e/1FAIpQLScJsXlPLyI56qPNQWOL8LGW3JR1jkmVNd4DrjQywx_4Q3SZ1A/viewform). Completion of this form verifies that your committee has read an entire near-to-final draft of your thesis and concurs that you are ready to sit for your final examination. The final version of the thesis is completed after the final examination, incorporating changes requested by the committee.
 
-## Master's by-pass
+## Master's bypass
 
-The M.S. by-pass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Below are the requirements from the SAFS grad guide. After you have met all of the requirements and assembled the necessary documents, you will need to submit the information via this form:
+The M.S. bypass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Below are the requirements from the SAFS grad guide. After you have met all of the requirements and assembled the necessary documents, you will need to submit the information via the [M.S. Bypass Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdu7hFCkKdvC003c6NpVExgD7KzVC9OR3uz_jYuYvFHrXj8cQ/viewform).
 
-[M.S. Bypass Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdu7hFCkKdvC003c6NpVExgD7KzVC9OR3uz_jYuYvFHrXj8cQ/viewform)
+### Bypass requirements: {-}
 
-### By-pass Requirements: {-}
+1) All M.S. coursework must be completed
+2) A statement from the student that describes their current M.S. research and illustrates the scientific direction and rationale they will take in expanding it to merit Doctoral status.  The statement should also include a plan for coursework that supports their Doctoral degree and satisfies program requirements, as well as a funding plan.
+3) A letter from Mark confirming:
+    - that the student's research has progressed to the point of demonstrating competence at the Master's level
+    - the completed M.S. research is a considerable and meaningful base of work for the proposed Ph.D. research, and, the proposed Ph.D. research is a substantive and logical advance from the M.S. research; evidence for this should be outlined in the draft Doctoral dissertation proposal
+    - guaranteeing space and financial support for the student for at least the first academic year of Doctoral study; and
+    - Mark's approval of the draft Doctoral proposal.
+4) Current CV or resume;
+5) UW transcript (unofficial);
+6) A letter or email (to safs@uw.edu) from each member of the student's MS Supervisory Committee indicating that they have read the draft Doctoral proposal, confirm that it constitutes a sufficient basis for a PhD dissertation, as well as their approval to bypass the MS Degree;
+7) A copy of the M.S. thesis proposal;
+8) A draft doctoral dissertation research proposal that outlines each chapter of the Ph.D. dissertation, including methods, likely outcomes and significance.  Importantly, this must demonstrate that the proposed body of proposed work would satisfy the requirements for a Ph.D. degree. (Note: This will not be the final dissertation proposal that will later be defended for the General Examination--you will still be expected to submit a formal dissertation proposal after your bypass application has been accepted.)
+9) A copy of a paper accepted for publication in a peer-reviewed scientific journal; a manuscript that has been submitted (or deemed submittable) to a journal may also be acceptable, in which case letters from at least two MS committee members indicating that the manuscript is scientifically rigorous and publishable are required.
 
-- All M.S. coursework must be completed
-- A statement from the student that describes their current M.S. research and illustrates the scientific direction and rationale they will take in expanding it to merit Doctoral status.  The statement should also include a plan for coursework that supports their Doctoral degree, while also satisfying program requirements, as well as a funding plan.
-- A statement from the Master's committee chairperson confirming:
-  - that the student's research has progressed to the point of demonstrating competence at the Master's level
-  - the completed M.S. research is a considerable and meaningful base of work for the proposed Ph.D. research, and, the proposed Ph.D. research is a substantive and logical advance from the M.S. research; evidence for this should be outlined in the draft Doctoral dissertation proposal
-  - guaranteeing space and financial support for the student for at least the first academic year of Doctoral study; and
-  - their approval of the draft Doctoral proposal.
-- Current CV or resume;
-- UW transcript (unofficial);
-- A letter or email (to safs@uw.edu) from each member of the student's MS Supervisory Committee indicating that they have read the draft Doctoral proposal, confirm that it constitutes a sufficient basis for a PhD dissertation, as well as their approval to bypass the MS Degree;
-- A copy of the M.S. thesis proposal;
-- A draft doctoral dissertation research proposal that outlines each chapter of the Ph.D. dissertation, including methods, likely outcomes and significance.  Importantly, this must demonstrate that the proposed body of proposed work would satisfy the requirements for a Ph.D. degree This will not be the final dissertation proposal that will later be defended for the General Examination – you will still be expected to submit a formal dissertation proposal after your bypass application has been accepted;
-- A copy of a paper accepted for publication in a peer-reviewed scientific journal; a manuscript that has been submitted (or deemed submittable) to a journal may also be acceptable, in which case letters from at least two MS committee members indicating that the manuscript is scientifically rigorous and publishable are required
-
-### Milestones for students planning to by-pass {-}
+### Milestones for students bypassing into PhD {-}
 
 1. Form M.S. committee
 2. Submit plan of study for master's and have first M.S. committee meeting
 3. Submit M.S. thesis proposal
-4. By-pass
+4. Get bypass application approved
 5. Form Ph.D. committee
 6. Submit plan of study for Ph.D.
 7. Submit dissertation proposal
@@ -161,29 +160,34 @@ The M.S. by-pass procedure is one of the most frequently asked about processes a
 
 ## Dissertation Proposal
 
-For those entering as Ph.D. students, this is the only proposal you need to write. For those who entered as M.S. students and wish to bypass, this happens once you have completed the by-pass (and therefore means you first must have finished your M.S. thesis proposal). 
+For students entering SAFS (or QERM) as Ph.D. students, this is the only proposal you need to write. For those who entered as M.S. students and wish to bypass, this happens once you have completed the bypass (and therefore means you first must have finished your M.S. thesis proposal). 
 
 ## Ph.D. Qualifying Exam
 
 - Should be completed within 18 months of residency in the doctoral program
-- Written exam administered over a one-week period
-- Prior to the Qualifying Exam, the student obtains guidance from each Committee member on the subject matter to be covered and the expected question and answer formats
+- Written exam administered over a five-day period  
+    - Each committee member prepares a set of questions to be answered in one day (i.e., typically 8 hours)
+    - In the event that there are only 4 examiners on the committee, Mark will write 2 sets of questions
+- Prior to the Qualifying Exam (i.e., at least 3 months), the student obtains guidance from each Committee member on the subject matter to be covered and the expected question and answer formats
 
 ## Ph.D. General Exam
 
-- Passing your generals means that you are admitted as a Ph.D. candidate
+The general exam consists of the student presenting their proposal in oral form to their committee and the committee asking questions about theory/background, methods, and possible outcomes. You can think of it as a defense of your research questions and your approaches for answering them. The general exam is typically completed in the quarter following your qualifying exam.
+
+- Passing your general exam means that you are admitted as a Ph.D. candidate (and you get a pay raise!)
 - A General Examination may be scheduled if:
   - You've completed 60 credits (some of these credits may be taken the same quarter of the exam)
-  - All required program examinations that do not need Graduate School approval have been completed (for SAFS PhD students, this is a written qualifying exam) 
-  - All members of the supervisory committee agree that the student's background of study and preparation is sufficient and have approved the student to schedule a General Examination.
+  - All required program examinations that do not need Graduate School approval have been completed (i.e., for PhD students, this is a written qualifying exam) 
+  - All members of the supervisory committee agree that the student's background of study and preparation is sufficient and have approved the student to schedule a General Examination  
+
 
 ## Ph.D. Final Exam
 
-Requirements: Two quarters before you plan to take your final examination, please schedule a 30 minute appointment with the SAFS GPA.  At this meeting, the GPA will review your transcript, check your Plan of Study and confirm that all of your milestones have been completed.  If you fail to attend this meeting, your Request for PhD Final Examination may not be granted, resulting in postponing your graduation quarter.
+Two quarters before you plan to take your final examination, please schedule a 30 minute appointment with the SAFS GPA.  At this meeting, the GPA will review your transcript, check your Plan of Study and confirm that all of your milestones have been completed.  If you fail to attend this meeting, your Request for PhD Final Examination may not be granted, resulting in postponing your graduation quarter.
 
-A Final Examination may be scheduled if:
-  - A student passed a General Examination in a previous quarter
-  - A reading committee is officially established with the Graduate School
-  - The reading committee has read an entire draft of the dissertation
+A Final Examination may be scheduled if:  
+  - A student passed a General Examination in a previous quarter  
+  - A reading committee is officially established with the Graduate School (i.e., not all committee members need to provide a detailed evaluation of the written dissertation)  
+  - The reading committee has read an entire draft of the dissertation  
   - The entire supervisory committee has agreed that the student is prepared and has approved the student to schedule a Final Examination.
 
