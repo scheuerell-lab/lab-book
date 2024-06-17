@@ -2,7 +2,7 @@
 
 <br>
 
-Collaborative science is a hallmark of the Scheuerell Lab and as such, it's important to establish some ground rules when working with others. In so doing, there are generally three types of objectives:
+Collaborative science is a hallmark of the Applied Ecology Lab and as such, it's important to establish some ground rules when working with others. In so doing, there are generally three types of objectives:
 
 1) Your needs as an individual (eg, professional advancement, mental health);
 
@@ -13,4 +13,64 @@ Collaborative science is a hallmark of the Scheuerell Lab and as such, it's impo
 Each of these may be top priority at different times or in different types of conflict, but be aware of which one you (and other team members) are prioritizing and which, if any, are being deprioritized.
 
 [Click here](https://docs.google.com/presentation/d/1_8Dt204Onja83bx5QjLAaHGiU2hPP1ImQH1gldVzVdo/edit?ts=5f3ed056#slide=id.g7dbff98225_0_98) to view a collection of slides that Kelly Mistry put together to help navigate this process.
+
+
+## Working with Mark
+
+Because Mark is an employee of the U.S. government, he must follow a set of policies and procedures for ensuring the quality and integrity of his science, which includes scientific presentations and publications, known as the  [Fundamental Science Practices (FSP)](https://www.usgs.gov/about/organization/science-support/office-science-quality-and-integrity/fundamental-science-practices). To comply with FSP, there are several steps we must take before a manuscript may be published. Failure to do so causes a number of problems, and could potentially result in disciplinary action against Mark.
+
+### Mark's affiliation
+
+It is **very important** that Mark's affiliation on the title page be listed as:
+
+> U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit  
+> School of Aquatic and Fishery Sciences  
+> University of Washington  
+> Seattle, WA
+
+Although there may be some subtle differences depending on the journal/outlet, such as the inclusion of a street address or zip code, the first line must always be written verbatim as above. Note, too, that you may not abbreviate the first line in any manner (eg, "USGS WACFWRU").
+
+### Pre-publication disclaimer
+
+As part of the [USGS Fundamental Science Practices](https://www.usgs.gov/office-of-science-quality-and-integrity/fundamental-science-practices), publications with Mark s a co-author **must** include the following statement on the cover page or somewhere else near the beginning when formatting a paper for submission to a journal:
+
+> This draft manuscript is distributed solely for purposes of scientific peer review. Its content is deliberative and predecisional, so it must not be disclosed or released by reviewers. Because the manuscript has not yet been approved for publication by the U.S. Geological Survey (USGS), it does not represent any official USGS finding or policy.
+
+The disclaimer will be removed after the publication has been cleared by the bureau approving officer.
+
+### Product disclaimer
+
+If we refer to specific trade, firm, or product names within a publication (e.g., "R programming language", "YSI multisonde"), we **must** include the following statement in the acknowledgments:
+
+> Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+
+
+### Peer review process
+
+The process of getting a peer-reviewed publication approved involves the following steps:
+
+1) An outside expert is identified and asked to provide a "friendly" review of the manuscript. This person can be from a university, government agency, or NGO.
+
+2) Mark gets approval from his regional supervisor for the expert identified in (1) to proceed with the review.
+
+3) The manuscript is prepared in accordance with the journal guidelines and those listed above (i.e., affiliation, disclaimers).
+
+4) The manuscript is sent to the person identified in (1) and approved in (2).
+
+5) The manuscript can be concurrently sent to the journal for peer review.
+
+6) All reviews from steps (4) and (5) are addressed point-by-point and the manuscript revised accordingly.
+
+7) Mark provides the original manuscript, reviews, responses, and revised manuscript to his bureau approving officer (BAO).
+
+8) The BAO (hopefully) approves the manuscript and the review process then proceeds accordingly. Note: this process generally takes 1-2 weeks.
+
+9) Any copyright agreement needs to be sent to USGS HQ for review and possible revision.
+
+
+### Preprints
+
+Some authors like to post preprints to servers like [bioRxiv](https://www.biorxiv.org/). If you would like to do so, note that Mark will need to find TWO reviewers in step (1) above and they will need to complete their reviews before it's posted.
+
+Also note that under NO circumstance can the journal publish *any* version of the paper online before Mark gets the approval (ie, no online early, preprints, etc). If the journal does so, Mark gets in trouble, and the approving officer will sometimes search online for the paper title, authors, etc to make sure it hasn't been published online.
 
