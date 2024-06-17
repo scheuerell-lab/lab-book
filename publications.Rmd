@@ -14,7 +14,7 @@ Authorship will be discussed prior to the beginning of a new project, so that ex
 
 ## USGS Fundamental Science Practices
 
-Because Mark is an employee of the U.S. government, he and his lab members must follow a set of policies and procedures for ensuring the quality and integrity of our science, which includes our scientific communications, known as the  ["Fundamental Science Practices (FSP)](https://www.usgs.gov/about/organization/science-support/office-science-quality-and-integrity/fundamental-science-practices). To comply with FSP, there are several steps we must take before a manuscript may be published. Failure to do so causes a number of problems, and could potentially result in disciplinary action against Mark.
+Because Mark is an employee of the U.S. government, he and his lab members must follow a set of policies and procedures for ensuring the quality and integrity of our science, which includes our scientific communications, known as the  [Fundamental Science Practices (FSP)](https://www.usgs.gov/about/organization/science-support/office-science-quality-and-integrity/fundamental-science-practices). To comply with FSP, there are several steps we must take before a manuscript may be published. Failure to do so causes a number of problems, and could potentially result in disciplinary action against Mark.
 
 ### Affiliation
 
@@ -41,7 +41,7 @@ Although there may be some subtle differences depending on the journal/outlet, s
 
 ## Peer-reviewed
 
-Most of what we write is destined for publication in peer-reviewed journals.
+Most of what we write is destined for publication in peer-reviewed journals. Mark will help lab members with the process of ushering the paper through the FSP process, but there are two easy disclaimers you can add to the paper to help it along its way.
 
 ### Pre-publication disclaimer
 
