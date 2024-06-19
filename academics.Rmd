@@ -113,7 +113,7 @@ After forming your committee (and submitting your plan of study), this is the ne
 
 [M.S. Thesis Proposal Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScL5Tp4GOxGUTxV2c1-kXW0orPTZEfuFeGtMF4eoJ9LHC9mcw/viewform)
 
-## M.S. Final Exam
+## M.S. Final Exam (Defense)
 
 The M.S. final exam consists of a public seminar describing your thesis research followed by a private oral examination by the supervisory committee (final exam).
 
@@ -121,11 +121,17 @@ The M.S. final exam consists of a public seminar describing your thesis research
 
 Two quarters before you plan to take your final examination, please schedule a 30 minute appointment with the SAFS GPA (Sam Scherer).  At this meeting, the GPA will review your transcript, check your Plan of Study and confirm that all of your milestones have been completed.  If you fail to attend this meeting, your Request for M.S. Final Examination may not be granted, resulting in postponing your graduation quarter.
 
-### Request for M.S. Final Examination {-}
+### Request for M.S. Final Exam {-}
 
 The student must submit a complete, near-to-final draft of the thesis, which has been reviewed and approved by the committee chair, to all members of his or her committee at least four weeks prior to the Final Examination.  After reading the draft and the supervisory committee agrees that you are ready for the Final Examination, please request the final exam via the [MS Request for a Final Exam Form](https://docs.google.com/forms/d/e/1FAIpQLScJsXlPLyI56qPNQWOL8LGW3JR1jkmVNd4DrjQywx_4Q3SZ1A/viewform). Completion of this form verifies that your committee has read an entire near-to-final draft of your thesis and concurs that you are ready to sit for your final examination. The final version of the thesis is completed after the final examination, incorporating changes requested by the committee.
 
+### Timelines for reviewing & revision {-}
+
+It's important to establish a timeline for the student and committee members to review, revise, and respond to any comments and concerns. To the extent possible, this should be addressed in writing (email) before the defense, although things may change following the defense itself. In general, students should offer committee members a minimum of two weeks to review and comment on any written material. That time window may need to be extended if there are multiple chapters, code, supplements, etc. All of this should be factored in when scheduling your defense, which means defending in the last two weeks of a quarter may not be the best strategy. 
+
 ## Master's bypass
+
+Every student who enters our graduate program with only a B.S. or B.A. degree is automatically enrolled as an M.S. student, even if they would ultimately like to get a Ph.D. For some students, it _may_ be possible to "bypass" into the Ph.D. program before completing an M.S. degree, but there are no guarantees. In addition to the requirements outlined below, the student and Mark must agree that it is both of their interests to do so and that their working relationship is healthy.
 
 The M.S. bypass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Below are the requirements from the SAFS grad guide. After you have met all of the requirements and assembled the necessary documents, you will need to submit the information via the [M.S. Bypass Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdu7hFCkKdvC003c6NpVExgD7KzVC9OR3uz_jYuYvFHrXj8cQ/viewform).
 
@@ -140,10 +146,10 @@ The M.S. bypass procedure is one of the most frequently asked about processes at
     - Mark's approval of the draft Doctoral proposal.
 4) Current CV or resume;
 5) UW transcript (unofficial);
-6) A letter or email (to safs@uw.edu) from each member of the student's MS Supervisory Committee indicating that they have read the draft Doctoral proposal, confirm that it constitutes a sufficient basis for a PhD dissertation, as well as their approval to bypass the MS Degree;
-7) A copy of the M.S. thesis proposal;
-8) A draft doctoral dissertation research proposal that outlines each chapter of the Ph.D. dissertation, including methods, likely outcomes and significance.  Importantly, this must demonstrate that the proposed body of proposed work would satisfy the requirements for a Ph.D. degree. (Note: This will not be the final dissertation proposal that will later be defended for the General Examination--you will still be expected to submit a formal dissertation proposal after your bypass application has been accepted.)
-9) A copy of a paper accepted for publication in a peer-reviewed scientific journal; a manuscript that has been submitted (or deemed submittable) to a journal may also be acceptable, in which case letters from at least two MS committee members indicating that the manuscript is scientifically rigorous and publishable are required.
+6) A copy of the M.S. thesis proposal;
+7) A draft doctoral dissertation research proposal that outlines each chapter of the Ph.D. dissertation, including methods, likely outcomes and significance.  Importantly, this must demonstrate that the proposed body of proposed work would satisfy the requirements for a Ph.D. degree. (Note: This will not be the final dissertation proposal that will later be defended for the General Examination--you will still be expected to submit a formal dissertation proposal after your bypass application has been accepted.)
+8) A letter or email (to safs@uw.edu) from each member of the student's MS Supervisory Committee indicating that they have read the draft Doctoral proposal, confirm that it constitutes a sufficient basis for a PhD dissertation, as well as their approval to bypass the MS Degree;
+9) A copy of a paper accepted for publication in a peer-reviewed scientific journal; a manuscript that has been submitted (or deemed submittable) to a journal may also be acceptable, in which case letters from at least two M.S. committee members indicating that the manuscript is scientifically rigorous and publishable are required.
 
 ### Milestones for students bypassing into PhD {-}
 
@@ -181,13 +187,23 @@ The general exam consists of the student presenting their proposal in oral form 
   - All members of the supervisory committee agree that the student's background of study and preparation is sufficient and have approved the student to schedule a General Examination  
 
 
-## Ph.D. Final Exam
+## Ph.D. Final Exam (Defense)
+
+The Ph.D. final exam consists of a public seminar describing your dissertation research followed by a private oral examination by the supervisory committee (final exam).
+
+### Requirements {-}
 
 Two quarters before you plan to take your final examination, please schedule a 30 minute appointment with the SAFS GPA.  At this meeting, the GPA will review your transcript, check your Plan of Study and confirm that all of your milestones have been completed.  If you fail to attend this meeting, your Request for PhD Final Examination may not be granted, resulting in postponing your graduation quarter.
+
+### Request for Ph.D. Final Exam {-}
 
 A Final Examination may be scheduled if:  
   - A student passed a General Examination in a previous quarter  
   - A reading committee is officially established with the Graduate School (i.e., not all committee members need to provide a detailed evaluation of the written dissertation)  
-  - The reading committee has read an entire draft of the dissertation  
+  - The reading committee has read an entire draft of the dissertation (see below)  
   - The entire supervisory committee has agreed that the student is prepared and has approved the student to schedule a Final Examination.
+
+### Timelines for reviewing & revision {-}
+
+It's important to establish a timeline for the student and committee members to review, revise, and respond to any comments and concerns. To the extent possible, this should be addressed in writing (email) before the defense, although things may change following the defense itself. In general, students should offer committee members a minimum of two weeks to review and comment on any written material. That time window may need to be extended if there are multiple chapters, code, supplements, etc. All of this should be factored in when scheduling your defense, which means defending in the last two weeks of a quarter may not be the best strategy. 
 
