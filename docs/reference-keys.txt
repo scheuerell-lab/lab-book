@@ -84,12 +84,12 @@ forming-a-committee
 plan-of-study
 student-advisor-annual-review
 m.s.-thesis-proposal
-m.s.-final-exam
+m.s.-final-exam-defense
 masters-bypass
 dissertation-proposal
 ph.d.-qualifying-exam
 ph.d.-general-exam
-ph.d.-final-exam
+ph.d.-final-exam-defense
 collaborations
 working-with-mark
 marks-affiliation
@@ -119,9 +119,9 @@ peer-reviewed
 pre-publication-disclaimer-1
 product-disclaimer-1
 old-projects
-informal
+informal-scicomm
 presentations
-informal-1
+informal
 lab-meetings-1
 public-outreach
 community-engagement
