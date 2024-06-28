@@ -4,9 +4,11 @@
 
 ## All lab members
 
+The information in this section applies to everyone in the lab. There are additional resources for undergraduate and graduate students in the following section.
+
 ### SAFS Anonymous Reporting Tool
 
-If you would like to report an incident to SAFS leadership, but remain anonymous, please use the [SAFS online reporting form](https://forms.gle/mmRmT1GTkNwaoF198) (requires a UW net-ID to access).
+If you would like to report an incident to SAFS leadership, but remain anonymous, please use the [SAFS online reporting form](https://tinyurl.com/SAFSanonymous) (requires a UW net-ID to access).
 
 ### College of the Environment Resource List
 
@@ -26,7 +28,7 @@ The Washington State [Employee Assistance Program](https://hr.uw.edu/worklife/em
  
 ### Office of the Ombud
 
-The [Office of the Ombud](http://washington.edu/ombud) serves the UW community by providing high quality, client-focused services for preventing, managing, navigating and resolving conflict at the UW. Through active participation in the problem-solving process, clients develop the ability to prevent, manage, and resolve future conflicts. Read more about [what to expect](https://www.washington.edu/ombud/what-to-expect/) here.
+The [Office of the Ombud](http://washington.edu/ombud) serves the UW community by providing high quality, client-focused services for preventing, managing, navigating and resolving conflict at the UW. Through active participation in the problem-solving process, clients develop the ability to prevent, manage, and resolve future conflicts. Read more about what to expect [here](https://www.washington.edu/ombud/what-to-expect/).
 
 ### Civil Rights Investigation Office
 
@@ -38,24 +40,26 @@ The [Civil Rights Investigation Office](https://www.washington.edu/cr-investigat
  
 ### Environmental Health and Safety
 
-[This reporting tool](http://ehs.washington.edu/report-concern) is for non-emergency incidents that occur on University of Washington owned or leased property that involve a University student; staff, faculty, or other personnel; or a visitor.
+[This reporting tool](http://ehs.washington.edu/report-concern) is for non-emergency incidents that occur on University of Washington owned or leased property that involve a UW student, staff, faculty, or other personnel; or a visitor.
  
 
-## Students only
+## Additional student resources
 
-### Husky HelpLine (UW students only)
+### Husky HelpLine
 
 The [HuskyHelpLine](https://wellbeing.uw.edu/huskyhelpline/) exists to give students access to same-day, confidential mental health and crisis intervention support. It is available 24-hours a day and  in multiple languages. Students can connect with the HuskyHelpLine via phone (US & Canada: 206-616-7777 | abroad: 001-416-380-6578), online chat, or the Telus app. (Husky HelpLine is supported through Telus and was formally called MySSP.)
 
-### College of the Environment Academic Grievance Procedures (CoENV students only)
+### Academic Grievance Procedures
+
+#### College of the Environment students only {-}
 
 In the College of the Environment, faculty, mentors, and departmental leaders [welcome student feedback](https://environment.uw.edu/intranet/academics/academic-policies/student-academic-grievance-procedures/), including criticisms and grievances. All grievances are respected and treated seriously. The College of the Environment Student Academic Grievance Procedures provide mechanisms for graduate and undergraduate students to address academic problems or grievances in an equitable, respectful, and timely manner. Academic grievances are those involving conflicts between students and faculty instructor(s) or mentor(s) with respect to differences arising within credit-bearing coursework, research, and/or mentoring
 while the students are registered at UW.
  
-### Graduate Student Academic Grievance Procedures (UW graduate students only)
+#### Graduate students only {-}
 
-This is an [overview of the grievance procedures](https://grad.uw.edu/policies/3-8-academic-grievance-procedure/) available to UW graduate students. Grad students who believe they have been subjected to unfair treatment in the administration of academic policies may, except as noted, seek resolution of their complaints under this Academic Grievance Procedure. This applies, but is not limited, to the application of departmental, college, or Graduate School policies; deviations from stated grading practices (but not individual grade challenges); unfair treatment; and related issues.
+Grad students who believe they have been subjected to unfair treatment in the administration of academic policies may, except as noted, seek resolution of their complaints under this [Academic Grievance Procedure](https://grad.uw.edu/policies/3-8-academic-grievance-procedure/). This includes, but is not limited to, the application of departmental, college, or Graduate School policies; deviations from stated grading practices (but not individual grade challenges); unfair treatment; and related issues.
 
-### Student Legal Services (UW students only)
+### Student Legal Services
 
-[Student Legal Services](http://depts.washington.edu/slsuw/) (SLS) is an on-campus law office that provides a safe and confidential space for all UW-Seattle and Bothell students who have legal questions or concerns. They offer free 40-minute consultations on a broad range of issues. Students can also hire ongoing representation for a low hourly rate. SLS is located in Husky Union Building (HUB) 306.
+[Student Legal Services](http://depts.washington.edu/slsuw/) is an on-campus law office that provides a safe and confidential space for all students who have legal questions or concerns. They offer free 40-minute consultations on a broad range of issues. Students can also hire ongoing representation for a low hourly rate. They are located in Rm 306 of the Husky Union Building (HUB).
