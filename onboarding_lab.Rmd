@@ -1,22 +1,26 @@
-# Scheuerell Lab 
+# Our lab group
 
 <br>
 
-Here is some information about getting set up in the Scheuerell Lab, specifically with respect to office space, access, and communication.
+Here is some information about getting set up in our lab group, specifically with respect to office space, access, and communication.
 
-## Office suite
+## Student suite
 
-Our lab's office spaces are all located within a suite (Rm 134). Each student will be assigned office space inside the lab suite, which could be in any one of the three interior offices. Specific desks are assigned based on seniority, such that you will have the opportunity to switch desks after students graduate and move on. Each sit/stand desk has an external monitor, keyboard, and mouse to which you may connect your laptop.
+Our lab group's office spaces are all located within a single suite on the first floor of our building (FSH 134). The suite's anteroom has a table with chairs, a couch, whiteboard, small refrigerator, and microwave. There is also a hot water kettle, coffee grinder, and French Press.
+
+## Student offices
+
+Each student will be assigned an individual space inside the lab suite, which could be in any one of the three interior offices. Specific desks are assigned based on seniority, such that you will have the opportunity to switch desks after students graduate and move on. Each sit/stand desk has an external monitor, keyboard, and mouse to which you may connect your laptop.
 
 ## Keys
 
-Mark will assign you a key to the office suite, which will grant you access to the anteroom and your specific office space inside the suite (134B, 134C, or 134D). Students and post-docs share keys to the Coop Admin suite (Rm 250) and the lab (Rm 132); Mark will show you where they are kept. These keys should be returned immediately after you are done with them, so that others may use them when necessary.
+Mark will assign you a key to the office suite, which will grant you access to the anteroom and your specific office space inside the suite (134B, 134C, or 134D). Students and post-docs share keys to the lab nextdoor (FSH 132) and the Coop's administrative suite (FSH 250); Mark will show you where they are kept. These keys should be returned immediately after you are done with them, so that others may use them when needed.
 
 ## Slack account
 
-We use [Slack](https://scheuerell-lab.slack.com) as our primary mode of communication in the lab, as it helps to keep our email more manageable while providing a simple means for categorizing, archiving, and searching prior content. If you do not already have an account in Slack, please sign up for a free one [here](https://slack.com/get-started#/create). After you do so, Mark can invite you to the lab's workspace.
+We use [Slack](https://scheuerell-lab.slack.com) as our primary mode of communication in the lab, as it helps to keep our email more manageable while providing a simple means for categorizing, archiving, and searching prior content. If you do not already have an account in Slack, please sign up for a free one [here](https://slack.com/get-started#/create). After you do so, Mark can invite you to the lab's workspace. Also note that the Coop Unit, SAFS, and the grad students maintain their own workspaces as well. Ask Mark about signing up for those, if you'd like.
 
 ## GitHub account
 
-Our lab maintains a so-called "organization" on GitHub [here](https://github.com/scheuerell-lab) where we host information and data related to the lab website, this lab manual, lab meetings, and specific projects. If you do not already have a free GitHub account, please do so [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). After you have established an account, please send your username to Mark so he can add you to the lab organization.
+Our lab maintains a so-called "organization" on GitHub [here](https://github.com/scheuerell-lab) where we host information and data related to the lab website, this lab manual, lab meetings, and specific projects. If you do not already have a free GitHub account, please see the instructions [here](https://fish549.github.io/website/references/github_signup.html). After you have established an account, please send your username to Mark so he can add you to the lab organization.
 
