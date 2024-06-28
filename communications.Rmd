@@ -37,7 +37,7 @@ It is important to all of us that people feel empowered and safe to share their 
 
 Our lab relies on several forms of communication, each with its own pros and cons. First and foremost, Mark maintains an "open door" policy when he's in his office. If the door is wide open, please come on in. If the door is open just a crack, please knock, as Mark may be on the phone or meeting with someone else. If the door is closed, please assume that either Mark does not want to be disturbed or that he's out of the office. Note, too, that if Mark will be out of his office for just a bit during the day, he often leaves a message on his door with his whereabouts and estimated time of return.
 
-**Note**: Anyone has the right to request that a conversation change venue if they are having trouble with the communication medium. For example, something might start as a Slack thread and then move to an in-person meeting, or someone might like to include more people in the conversation.
+Anyone has the right to request that a conversation change venue if they are having trouble with the communication medium. For example, something might start as a Slack thread and then move to an in-person meeting, or someone might like to include more people in the conversation.
 
 
 ### Slack
@@ -50,8 +50,10 @@ We use [GitHub](https://github.com/scheuerell-lab) as a collaboration platform f
 
 ### Email
 
-Email is a tried and true means for communicating inside and outside of the lab, in particular if the conversation involves people outside of the lab or you need to send attachments (e.g., draft manuscript, forms for signatures). Please try your best to respond to all email messages within 24 hours of their receipt. If you are going to be away from your email from an extended period of time (e.g., vacation, field work), please turn on a vacation auto-response. If you need some help setting one up, please ask Mark or someone else in the lab.
+Email is a tried and true means of communication, particularly if you want an official record (e.g., forms for signatures) or if you need to send attachments (e.g., draft manuscript). Please try your best to respond to all email messages within 24 hours of their receipt. If you are going to be away from your email from an extended period of time (e.g., vacation, field work), please turn on a vacation auto-response. If you need some help setting one up, please ask Mark or someone else in the lab.
+
+NOTE: Graduate students should cc Mark on any email communications with their committee. Everyone should cc Mark on messages to the administrative staff concerning funding (e.g., accepting RA appointments) or travel.
 
 ### Text message
 
-In the event of an emergency or safety concern, please send Mark a text message or call him on his mobile phone. All members of the lab will be provided with Mark's number.
+All members of the lab will be provided with Mark's mobile number. In the event of an emergency or safety concern, please send Mark a text message or call him. Mark may also ask you to text him upon your safe return to campus following field work or other travel.
