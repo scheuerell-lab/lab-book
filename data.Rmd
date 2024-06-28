@@ -24,30 +24,30 @@ Data chain of custody refers to part of a process whereby everyone must insure t
 
 We ascribe to the "tidy" format for data, wherein each row of a data table or flat file is a unique record and each column is a unique field. [Broman and Woo (2018)](resources/Broman_Woo_2018_spreadsheet_data.pdf) provide an excellent overview of data entry and organization in spreadsheets. Here are their take-home messages:
 
-* **Be consistent**. This includes names of locations, species, sex, as well as dates and file names.
+* *Be consistent*. This includes names of locations, species, sex, as well as dates and file names.
 
-* **Choose good names**. Choose short, but descriptive names for files and avoid spaces in them. For example, `L_WA_limno_sampling.csv` rather than `Lake Washington limnology sampling.csv`.
+* *Choose good names*. Choose short, but descriptive names for files and avoid spaces in them. For example, `L_WA_limno_sampling.csv` rather than `Lake Washington limnology sampling.csv`.
 
-* **Write dates as `YYYY-MM-DD`**. This may sound trivial, but it turns out to be really important when working with the file as part of an analysis.
+* *Write dates as* `YYYY-MM-DD`. This may sound trivial, but it turns out to be really important when working with the file as part of an analysis.
 
-* **Don't leave empty cells**. Although it can be tempting to do so when some aspect of a field or record is to be repeated many times, it can wreak havoc on the resulting object when imported into a software like **R**. In particular, if a cell should be consider empty or null, please enter `NA`.
+* *Don't leave empty cells*. Although it can be tempting to do so when some aspect of a field or record is to be repeated many times, it can wreak havoc on the resulting object when imported into a software like **R**. In particular, if a cell should be consider empty or null, please enter `NA`.
 
-* **Only include one piece of info in a cell**. For example, you might consider a column/field named `plot_sample` with a possible value like `10A`, which would be better separated into 2 columns labeled `plot` and `sample` with respective values `10` and `A`.
+* *Only include one piece of info in a cell*. For example, you might consider a column/field named `plot_sample` with a possible value like `10A`, which would be better separated into 2 columns labeled `plot` and `sample` with respective values `10` and `A`.
 
-* **Do not use color, highlighting, or comments as data**. If the data in a particular cell is otherwise noteworthy for some reason (eg, value is 10X greater than anything else), it's probably best to add an additional `notes` column/field to the file and include any comments there.
+* *Do not use color, highlighting, or comments as data*. If the data in a particular cell is otherwise noteworthy for some reason (eg, value is 10X greater than anything else), it's probably best to add an additional `notes` column/field to the file and include any comments there.
 
-* **No calculations in cells**. Although tempting, resist the urge to add cells with calculations that are based on other cells (eg, `=SUM(A1:A3)`). Similarly, do not include graphs or pivot tables in your data files either.
+* *No calculations in cells*. Although tempting, resist the urge to add cells with calculations that are based on other cells (eg, `=SUM(A1:A3)`). Similarly, do not include graphs or pivot tables in your data files either.
 
-* **Use data validation**. If you are using Excel for data entry, you can take advantage of its "[data validation](https://support.microsoft.com/en-us/office/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249)" feature, which will help insure that the correct type (eg, text) and value (eg, min/max) are entered into a cell.
+* *Use data validation*. If you are using Excel for data entry, you can take advantage of its "[data validation](https://support.microsoft.com/en-us/office/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249)" feature, which will help insure that the correct type (eg, text) and value (eg, min/max) are entered into a cell.
 
-* **Create a data dictionary**. This should be a separate (and tidy) file with some metadata about the columns/fields, which might include the following:  
+* *Create a data dictionary*. This should be a separate (and tidy) file with some metadata about the columns/fields, which might include the following:  
     - The exact variable name as in the data file  
     - A version of the variable name that might be used in data visualizations  
     - A longer explanation of what the variable means  
     - The measurement units  
     - Expected minimum and maximum values  
 
-* **Save the data as plain text**. If using a spreadsheet like Excel to enter your data, export a copy in a plain text format. Although some people like tab delimited files (`.txt`), we prefer to save our files as comma separated values (`.csv`). CSV files are nice because you can easily open the file in Excel or another spreadsheet program, but perhaps more importantly, this file format does not require any sort of special software to open it.
+* *Save the data as plain text*. If using a spreadsheet like Excel to enter your data, export a copy in a plain text format. Although some people like tab delimited files (`.txt`), we prefer to save our files as comma separated values (`.csv`). CSV files are nice because you can easily open the file in Excel or another spreadsheet program, but perhaps more importantly, this file format does not require any sort of special software to open it.
 
 
 ## Metadata
@@ -122,7 +122,7 @@ Where and how to store your data is an important consideration. In general, you 
 
 Each research project (or chapter of a thesis/dissertation) should have a corresponding repository in GitHub. At the outset, students and postdocs may choose to create these repos under their own GitHub username, with the expectation that they also invite Mark as a formal collaborator. As people finish projects, the corresponding repo should be transferred over to the lab's [GitHub organization](https://github.com/scheuerell-lab).
 
-Data for your project should be pushed/pulled from GitHub as part of your regular workflow. Each project repo should be set up as a "[research compendium](https://fish497.github.io/website/lectures/week_01/lec_03_orgs_styles.html)" following one of the templates [here](https://github.com/scheuerell-lab/onboarding/tree/master/templates). Each compendium should be structured with a `/data` folder that contains sub-folders for raw and derived ("cleaned") datasets. It is important that you **do not** revise the raw data files outside of your workflow, and instead keep unchanged versions of them in the `/data/raw` folder.
+Data for your project should be pushed/pulled from GitHub as part of your regular workflow. Each project repo should be set up as a "[research compendium](https://fish549.github.io/website/lectures/week_01/lec_03_orgs_styles.html)" following one of the templates [here](https://github.com/scheuerell-lab/onboarding/tree/master/templates). Each compendium should be structured with a `/data` folder that contains sub-folders for raw and derived ("cleaned") datasets. It is important that you *do not* revise the raw data files outside of your workflow, and instead keep unchanged versions of them in the `/data/raw` folder.
 
 ### Others
 
@@ -138,4 +138,5 @@ Upon completion of a project, all data will be archived in a formal repository a
 
 ### USGS
 
-USGS also offers a data archival service, which some of our projects use.
+USGS also offers a data archival service, which some of our projects use. Pleas check with Mark about data archiving requirements for USGS projects.
+
