@@ -115,7 +115,7 @@ After forming your committee (and submitting your plan of study), this is the ne
 
 ## M.S. Final Exam (Defense)
 
-The M.S. final exam consists of a public seminar describing your thesis research followed by a private oral examination by the supervisory committee (final exam).
+The M.S. final exam consists of a public seminar describing your thesis research followed by a private oral examination by the supervisory committee (final exam). Students should work with the front desk to find a room in FSH to hold the public presentation and subsequent closed-door committee meeting. Please plan on reserving the room for a total of 3 hours (30 min of room and A/V prep, 60 min of public presentation, 90 min of examination). If you cannot find a 3-hour time block, the closed-door meeting can be moved to another conference room in FSH.
 
 ### Requirements {-}
 
@@ -127,13 +127,13 @@ The student must submit a complete, near-to-final draft of the thesis, which has
 
 ### Timelines for reviewing & revision {-}
 
-It's important to establish a timeline for the student and committee members to review, revise, and respond to any comments and concerns. To the extent possible, this should be addressed in writing (email) before the defense, although things may change following the defense itself. In general, students should offer committee members a minimum of two weeks to review and comment on any written material. That time window may need to be extended if there are multiple chapters, code, supplements, etc. All of this should be factored in when scheduling your defense, which means defending in the last two weeks of a quarter may not be the best strategy. 
+It's important to establish a timeline for the student and committee members to review, revise, and respond to any comments and concerns. To the extent possible, this should be addressed in writing (email) before the defense, although things may change following the defense itself. In general, students should offer committee members a minimum of two weeks to review and comment on any written material. That time window may need to be extended if there are multiple chapters, code, supplements, etc. In general, the graduate school's deadline for thesis submission is 11:59 PM on the Friday of finals week. All of this should be factored in when scheduling your defense, which means defending during the last two weeks of a quarter may not be the best strategy. 
 
 ## Master's bypass
 
-Every student who enters our graduate program with only a B.S. or B.A. degree is automatically enrolled as an M.S. student, even if they would ultimately like to get a Ph.D. For some students, it _may_ be possible to "bypass" into the Ph.D. program before completing an M.S. degree, but there are no guarantees. In addition to the requirements outlined below, the student and Mark must agree that it is both of their interests to do so and that their working relationship is healthy.
+Every student who enters our graduate program with only a B.S., B.A., or equivalent degree is automatically enrolled as an M.S. student, even if they would ultimately like to get a Ph.D. For some students, it _may_ be possible to "bypass" into the Ph.D. program before completing an M.S. degree, but there are no guarantees. In addition to the requirements outlined below, the student and Mark must agree that it is both of their interests to do so and that they share a healthy working relationship.
 
-The M.S. bypass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Below are the requirements from the SAFS grad guide. After you have met all of the requirements and assembled the necessary documents, you will need to submit the information via the [M.S. Bypass Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdu7hFCkKdvC003c6NpVExgD7KzVC9OR3uz_jYuYvFHrXj8cQ/viewform).
+The M.S. bypass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Below are the requirements from the SAFS grad guide. After you have met all of the requirements and assembled the necessary documents, you will need to submit the information via the [M.S. Bypass Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdu7hFCkKdvC003c6NpVExgD7KzVC9OR3uz_jYuYvFHrXj8cQ/viewform). Please ask Mark or Sam Scherer for help or guidance, if you need it.
 
 ### Bypass requirements: {-}
 
@@ -164,15 +164,15 @@ The M.S. bypass procedure is one of the most frequently asked about processes at
 9. General exam
 10. Final exam
 
-## Dissertation Proposal
+## PH.D. Dissertation Proposal
 
-For students entering SAFS (or QERM) as Ph.D. students, this is the only proposal you need to write. For those who entered as M.S. students and wish to bypass, this happens once you have completed the bypass (and therefore means you first must have finished your M.S. thesis proposal). 
+For students entering SAFS (or QERM) as Ph.D. students, this is the only proposal you need to write. For anyone who entered as an M.S. student and wishes to bypass, this happens after you have completed the bypass (and therefore you first must have finished your M.S. thesis proposal). 
 
 ## Ph.D. Qualifying Exam
 
 - Should be completed within 18 months of residency in the doctoral program
 - Written exam administered over a five-day period  
-    - Each committee member prepares a set of questions to be answered in one day (i.e., typically 8 hours)
+    - Each committee member prepares a set of questions to be answered in one day, typically consisting of 8 hours of work spread over a 10-12 hour period
     - In the event that there are only 4 examiners on the committee, Mark will write 2 sets of questions
 - Prior to the Qualifying Exam (i.e., at least 3 months), the student obtains guidance from each Committee member on the subject matter to be covered and the expected question and answer formats
 
@@ -185,11 +185,13 @@ The general exam consists of the student presenting their proposal in oral form 
   - You've completed 60 credits (some of these credits may be taken the same quarter of the exam)
   - All required program examinations that do not need Graduate School approval have been completed (i.e., for PhD students, this is a written qualifying exam) 
   - All members of the supervisory committee agree that the student's background of study and preparation is sufficient and have approved the student to schedule a General Examination  
+  
+Students should work with the front desk to find a conference room in FSH to hold their exam. Please reserve the room (and a projector if the room doens't have one) for 3 hours, although we may not need all of that time.
 
 
 ## Ph.D. Final Exam (Defense)
 
-The Ph.D. final exam consists of a public seminar describing your dissertation research followed by a private oral examination by the supervisory committee (final exam).
+The Ph.D. final exam consists of a public seminar describing your dissertation research followed by a private oral examination by the supervisory committee (final exam). Students should work with the front desk to find a room in FSH to hold the public presentation and subsequent closed-door committee meeting. Please plan on reserving the room for a total of 3 hours (30 min of room and A/V prep, 60 min of public presentation, 90 min of examination). If you cannot find a 3-hour time block, the closed-door meeting can be moved to another conference room in FSH.
 
 ### Requirements {-}
 
@@ -205,5 +207,5 @@ A Final Examination may be scheduled if:
 
 ### Timelines for reviewing & revision {-}
 
-It's important to establish a timeline for the student and committee members to review, revise, and respond to any comments and concerns. To the extent possible, this should be addressed in writing (email) before the defense, although things may change following the defense itself. In general, students should offer committee members a minimum of two weeks to review and comment on any written material. That time window may need to be extended if there are multiple chapters, code, supplements, etc. All of this should be factored in when scheduling your defense, which means defending in the last two weeks of a quarter may not be the best strategy. 
+It's important to establish a timeline for the student and committee members to review, revise, and respond to any comments and concerns. To the extent possible, this should be addressed in writing (email) before the defense, although things may change following the defense itself. In general, students should offer committee members a minimum of two weeks to review and comment on any written material. That time window may need to be extended if there are multiple chapters, code, supplements, etc. In general, the graduate school's deadline for dissertation submission is 11:59 PM on the Friday of finals week. All of this should be factored in when scheduling your defense, which means defending in the last two weeks of a quarter may not be the best strategy. 
 
