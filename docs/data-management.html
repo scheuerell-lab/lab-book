@@ -8,8 +8,8 @@
 <meta name="author" content="Mark Scheuerell">
 <!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.2"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
-<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><link href="libs/Open_Sans-0.4.6/font.css" rel="stylesheet">
-<script src="libs/bs3compat-0.4.2/transition.js"></script><script src="libs/bs3compat-0.4.2/tabs.js"></script><script src="libs/bs3compat-0.4.2/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><link href="libs/Open_Sans-0.4.8/font.css" rel="stylesheet">
+<script src="libs/bs3compat-0.6.1/transition.js"></script><script src="libs/bs3compat-0.6.1/tabs.js"></script><script src="libs/bs3compat-0.6.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
 <script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script><!-- CSS --><link rel="stylesheet" href="style.css">
 <meta name="description" content="Data management is one of the most important aspects of our research program. In particular, when we are collecting our own data we must ensure that we use conventional formats for entering data...">
 <meta property="og:description" content="Data management is one of the most important aspects of our research program. In particular, when we are collecting our own data we must ensure that we use conventional formats for entering data...">
@@ -42,7 +42,7 @@
 <li class="book-part">Getting started</li>
 <li><a class="" href="relocating-to-seattle.html"><span class="header-section-number">4</span> Relocating to Seattle</a></li>
 <li><a class="" href="uw-safs.html"><span class="header-section-number">5</span> UW &amp; SAFS</a></li>
-<li><a class="" href="scheuerell-lab.html"><span class="header-section-number">6</span> Scheuerell Lab</a></li>
+<li><a class="" href="our-lab-group.html"><span class="header-section-number">6</span> Our lab group</a></li>
 <li><a class="" href="coop-unit.html"><span class="header-section-number">7</span> Coop Unit</a></li>
 <li class="book-part">Policies &amp; procedures</li>
 <li><a class="" href="communication.html"><span class="header-section-number">8</span> Communication</a></li>
@@ -104,16 +104,16 @@
 </h2>
 <p>We ascribe to the “tidy” format for data, wherein each row of a data table or flat file is a unique record and each column is a unique field. <a href="resources/Broman_Woo_2018_spreadsheet_data.pdf">Broman and Woo (2018)</a> provide an excellent overview of data entry and organization in spreadsheets. Here are their take-home messages:</p>
 <ul>
-<li><p><strong>Be consistent</strong>. This includes names of locations, species, sex, as well as dates and file names.</p></li>
-<li><p><strong>Choose good names</strong>. Choose short, but descriptive names for files and avoid spaces in them. For example, <code>L_WA_limno_sampling.csv</code> rather than <code>Lake Washington limnology sampling.csv</code>.</p></li>
-<li><p><strong>Write dates as <code>YYYY-MM-DD</code></strong>. This may sound trivial, but it turns out to be really important when working with the file as part of an analysis.</p></li>
-<li><p><strong>Don’t leave empty cells</strong>. Although it can be tempting to do so when some aspect of a field or record is to be repeated many times, it can wreak havoc on the resulting object when imported into a software like <strong>R</strong>. In particular, if a cell should be consider empty or null, please enter <code>NA</code>.</p></li>
-<li><p><strong>Only include one piece of info in a cell</strong>. For example, you might consider a column/field named <code>plot_sample</code> with a possible value like <code>10A</code>, which would be better separated into 2 columns labeled <code>plot</code> and <code>sample</code> with respective values <code>10</code> and <code>A</code>.</p></li>
-<li><p><strong>Do not use color, highlighting, or comments as data</strong>. If the data in a particular cell is otherwise noteworthy for some reason (eg, value is 10X greater than anything else), it’s probably best to add an additional <code>notes</code> column/field to the file and include any comments there.</p></li>
-<li><p><strong>No calculations in cells</strong>. Although tempting, resist the urge to add cells with calculations that are based on other cells (eg, <code>=SUM(A1:A3)</code>). Similarly, do not include graphs or pivot tables in your data files either.</p></li>
-<li><p><strong>Use data validation</strong>. If you are using Excel for data entry, you can take advantage of its “<a href="https://support.microsoft.com/en-us/office/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249">data validation</a>” feature, which will help insure that the correct type (eg, text) and value (eg, min/max) are entered into a cell.</p></li>
+<li><p><em>Be consistent</em>. This includes names of locations, species, sex, as well as dates and file names.</p></li>
+<li><p><em>Choose good names</em>. Choose short, but descriptive names for files and avoid spaces in them. For example, <code>L_WA_limno_sampling.csv</code> rather than <code>Lake Washington limnology sampling.csv</code>.</p></li>
+<li><p><em>Write dates as</em> <code>YYYY-MM-DD</code>. This may sound trivial, but it turns out to be really important when working with the file as part of an analysis.</p></li>
+<li><p><em>Don’t leave empty cells</em>. Although it can be tempting to do so when some aspect of a field or record is to be repeated many times, it can wreak havoc on the resulting object when imported into a software like <strong>R</strong>. In particular, if a cell should be consider empty or null, please enter <code>NA</code>.</p></li>
+<li><p><em>Only include one piece of info in a cell</em>. For example, you might consider a column/field named <code>plot_sample</code> with a possible value like <code>10A</code>, which would be better separated into 2 columns labeled <code>plot</code> and <code>sample</code> with respective values <code>10</code> and <code>A</code>.</p></li>
+<li><p><em>Do not use color, highlighting, or comments as data</em>. If the data in a particular cell is otherwise noteworthy for some reason (eg, value is 10X greater than anything else), it’s probably best to add an additional <code>notes</code> column/field to the file and include any comments there.</p></li>
+<li><p><em>No calculations in cells</em>. Although tempting, resist the urge to add cells with calculations that are based on other cells (eg, <code>=SUM(A1:A3)</code>). Similarly, do not include graphs or pivot tables in your data files either.</p></li>
+<li><p><em>Use data validation</em>. If you are using Excel for data entry, you can take advantage of its “<a href="https://support.microsoft.com/en-us/office/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249">data validation</a>” feature, which will help insure that the correct type (eg, text) and value (eg, min/max) are entered into a cell.</p></li>
 <li>
-<p><strong>Create a data dictionary</strong>. This should be a separate (and tidy) file with some metadata about the columns/fields, which might include the following:</p>
+<p><em>Create a data dictionary</em>. This should be a separate (and tidy) file with some metadata about the columns/fields, which might include the following:</p>
 <ul>
 <li>The exact variable name as in the data file<br>
 </li>
@@ -126,7 +126,7 @@
 <li>Expected minimum and maximum values</li>
 </ul>
 </li>
-<li><p><strong>Save the data as plain text</strong>. If using a spreadsheet like Excel to enter your data, export a copy in a plain text format. Although some people like tab delimited files (<code>.txt</code>), we prefer to save our files as comma separated values (<code>.csv</code>). CSV files are nice because you can easily open the file in Excel or another spreadsheet program, but perhaps more importantly, this file format does not require any sort of special software to open it.</p></li>
+<li><p><em>Save the data as plain text</em>. If using a spreadsheet like Excel to enter your data, export a copy in a plain text format. Although some people like tab delimited files (<code>.txt</code>), we prefer to save our files as comma separated values (<code>.csv</code>). CSV files are nice because you can easily open the file in Excel or another spreadsheet program, but perhaps more importantly, this file format does not require any sort of special software to open it.</p></li>
 </ul>
 </div>
 <div id="metadata" class="section level2" number="14.2">
@@ -248,7 +248,7 @@
 <span class="header-section-number">14.3.1</span> GitHub<a class="anchor" aria-label="anchor" href="#github-2"><i class="fas fa-link"></i></a>
 </h3>
 <p>Each research project (or chapter of a thesis/dissertation) should have a corresponding repository in GitHub. At the outset, students and postdocs may choose to create these repos under their own GitHub username, with the expectation that they also invite Mark as a formal collaborator. As people finish projects, the corresponding repo should be transferred over to the lab’s <a href="https://github.com/scheuerell-lab">GitHub organization</a>.</p>
-<p>Data for your project should be pushed/pulled from GitHub as part of your regular workflow. Each project repo should be set up as a “<a href="https://fish497.github.io/website/lectures/week_01/lec_03_orgs_styles.html">research compendium</a>” following one of the templates <a href="https://github.com/scheuerell-lab/onboarding/tree/master/templates">here</a>. Each compendium should be structured with a <code>/data</code> folder that contains sub-folders for raw and derived (“cleaned”) datasets. It is important that you <strong>do not</strong> revise the raw data files outside of your workflow, and instead keep unchanged versions of them in the <code>/data/raw</code> folder.</p>
+<p>Data for your project should be pushed/pulled from GitHub as part of your regular workflow. Each project repo should be set up as a “<a href="https://fish549.github.io/website/lectures/week_01/lec_03_orgs_styles.html">research compendium</a>” following one of the templates <a href="https://github.com/scheuerell-lab/onboarding/tree/master/templates">here</a>. Each compendium should be structured with a <code>/data</code> folder that contains sub-folders for raw and derived (“cleaned”) datasets. It is important that you <em>do not</em> revise the raw data files outside of your workflow, and instead keep unchanged versions of them in the <code>/data/raw</code> folder.</p>
 </div>
 <div id="others" class="section level3" number="14.3.2">
 <h3>
@@ -272,7 +272,7 @@
 <h3>
 <span class="header-section-number">14.4.2</span> USGS<a class="anchor" aria-label="anchor" href="#usgs"><i class="fas fa-link"></i></a>
 </h3>
-<p>USGS also offers a data archival service, which some of our projects use.</p>
+<p>USGS also offers a data archival service, which some of our projects use. Pleas check with Mark about data archiving requirements for USGS projects.</p>
 
 </div>
 </div>
@@ -323,7 +323,7 @@
   </div>
 
   <div class="col-12 col-md-6 mt-3">
-    <p>Built with <a class="text-light" href="https://bookdown.org">bookdown</a> on 2024-06-19 </p>
+    <p>Built with <a class="text-light" href="https://bookdown.org">bookdown</a> on 2024-06-28 </p>
   </div>
 
 
