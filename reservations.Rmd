@@ -24,7 +24,9 @@ There are several conference rooms in the Fisheries Science Building that can be
 
 * Enter your UW netID and password in the dialogue box
 
-![](images/reserve_4.png){width=75%}
+```{r, echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/reserve_4.png")
+```
 
 <br>
 
