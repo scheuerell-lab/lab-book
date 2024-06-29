@@ -122,7 +122,6 @@ product-disclaimer-1
 old-projects
 informal-scicomm
 presentations
-informal
 lab-meetings-1
 public-outreach
 community-engagement
