@@ -172,10 +172,13 @@ in-case-of-accident-or-injury
 cleaning-and-sanitzing-procedures
 food-and-meals
 vehicles
+fleet
 training
 operation
 reservations
 keys-1
+first-aid-assistance-kits
+trailering
 parking
 mileage-budget
 boats
