@@ -2,21 +2,23 @@
 
 <br>
 
-**NOTE**: Click [here](resources\Scheuerell_fieldwork_safety_plan_2022.pdf) to access our full field safety document.
-
 
 ## General etiquette and advice
 
--	When taking new volunteers out to help on your project, it’s helpful to give them a list of things they should bring and/or a packing guide. Oftentimes new volunteers are stepping out of their comfort zone, and may or may not know what to bring or how to dress. For example: If you’re expecting rain and it’s going to be very cold, make sure to highlight the warm clothes etc they should bring. Don’t assume they will know what to bring.
+Fieldwork can be difficult, especially if it's wet and cold outside, so being prepared for various scenarios will help to ensure everything will go as smoothly as possible. First and foremost, make sure that everyone in the group feels safe and included. Before taking new people out in the field, meet with them to discuss the following:
 
--	Keep an eye on each other and make sure everyone is doing ok, feeling ok, and is being safe. If you’re in charge of undergrads or other volunteers, make sure to take group breaks where people are drinking water, keeping their blood sugar up, and not overexerting themselves.
+* trip objectives and itinerary  
 
--	Fieldwork can be intense, and the group dynamic is important in making sure things go smoothly. Try to make sure everyone feels included and comfortable around each other. This can go a long way to making the trip a success.
+* gear and equipment (e.g., waders, nets, electronics).
 
--	Find time to have fun and unwind. 
+* personal items (e.g., food, water, extra clothing).
+
+* safety plans (see below)
 
 
 ## Site information
+
+Most of our field work is done in large lakes and nearshore ocean environments. The specific launch site, destination(s), and expected departure and arrival times will be detailed on the day's float plan.
 
 ### Lake Sammamish
 
@@ -34,9 +36,10 @@ Field work on Puget Sound is based out of several locations, depending on the sp
 *	Mukilteo’s Lighthouse Park Public Boat Launch (609 Front St, Mukilteo, WA 98275)  
 *	Anacortes’ Washington Park (6300 Sunset Avenue, Anacortes, WA 98221)  
 
-The specific launch site, destination(s), and expected departure and arrival times will be detailed on the day’s float plan.
 
 ## Fieldwork safety policies
+
+**NOTE**: Click [here](resources\Scheuerell_fieldwork_safety_plan_2022.pdf) to access our full field safety document.
 
 ### “No-go” criteria
 
@@ -68,13 +71,13 @@ All participants are expected to always wear a personal flotation device (PFD) w
 
 Temperatures out on the water are often much colder than those in Seattle, so crew members are encouraged to bring a warm hat, gloves, and additional layers. We have waterproof bags that people can use to keep their extra clothes dry. Crew members are also encouraged to wear sunscreen, sunglasses (polarized, if possible), and a hat, even when conditions are not particularly sunny. The crew leader will provide sunscreen for everyone.
 
-We will stop for occasional bathroom breaks, which may include using porta potties or pit toilets at boat launches or parks. In the even that no facility is available, field crews will also have a toilet kit containing a hand trowel, toilet paper, feminine hygiene products, waste bags, and hand sanitizer. On the boat, this kit is kept inside the main console under the helm of the vessel.
+We will stop for occasional bathroom breaks, which may include using porta potties or pit toilets at boat launches or parks. In the event that no facility is available, field crews will also have a toilet kit containing a hand trowel, toilet paper, feminine hygiene products, waste bags, and hand sanitizer. On the boat, this kit is kept inside the main console under the helm of the vessel.
 
 ## In case of accident or injury
 
-In case of accident or injury, all crew members should cease their activities and attend to the affected person(s). There is a first aid kit in an orange Pelican case located in a locker behind the helm of the vessel. The kit contains numerous items for treating cuts, burns, and other maladies. Shore-based operations will also have a well-supplied first aid kit available for use.
+In case of accident or injury, all crew members should cease their activities and attend to the affected person(s). There is a first aid kit in an orange Pelican case located in a locker behind the helm of the R/V _Nerka_. The kit contains numerous items for treating cuts, burns, and other maladies. Shore-based operations will also have a well-supplied first aid kit available for use.
 
-If an accident involves another vessel, crew members should first attend to any injuries to passengers in all vessels. If necessary, there is a signal kit in an orange Pelican case located in a locker behind the helm of the vessel. The signal kit includes hand-held and aerial flares, and a signal flag. The Coast Guard can also be reached via channel 16 on the vessel’s VHF radio. 
+If an accident involves another vessel, crew members should first attend to any injuries to passengers in all vessels. If necessary, there is a signal kit in an orange Pelican case located in a locker behind the helm of the R/V _Nerka_. The signal kit includes hand-held and aerial flares, and a signal flag. The Coast Guard can also be reached via channel 16 on the vessel’s VHF radio. 
 
 In the event of a serious injury requiring immediate medical assistance, the crew leader will designate one of the other members to contact medical professionals. If the crew leader is themself injured, the second-in-command will designate a communications person.
 
