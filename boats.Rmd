@@ -1,8 +1,22 @@
 # Boats
 
-The Coop Unit has a few boats that are available only to unit employees, students, and post-docs. **Note**: before you can use or even ride in them, you'll need to fill out a federal volunteer form. Sarah Romero can help you with this.
+<br>
+
+The Coop Unit has two federally owned boats that are available only to faculty, students, and staff in the Unit. Importantly, you must fill out a federal volunteer form _before you can even ride in_ any of the Unit's boats (Mark can help you with this). 
+
+
+## Fleet
+
+| Name | Make & model | Length (ft) | Occupants |
+|:----------|:-------------------------:|:-----:|:----:|
+| R/V _Nerka_ | North River Seahawk Patrol | 21 | 6 |
+| R/V _Aves_  | Wing P4.7 Inflatable | 15.5 | 4 |
+|           |                            |       |   |
+
+Any of the Unit's trucks can tow the Wing inflatable, but you will need to use either the GMC Suburban or Ford F-350 to tow the North River.
+
 
 ## Training
 
-Before you can drive any of the boats, you need to complete both the [Washington State Boater Education course](https://parks.state.wa.us/442/Mandatory-Boater-Education) and the [USGS Motorboat Operator Certification Course (MOCC)](https://water.usgs.gov/admin/memo/policy/wrdpolicy96.25.html).
+Before you can drive any of the boats, you need to complete the [USGS Motorboat Operator Certification Course (MOCC)](https://water.usgs.gov/admin/memo/policy/wrdpolicy96.25.html). Mark also encourages people to complete the [Washington State Boater Education course](https://parks.state.wa.us/442/Mandatory-Boater-Education). Mark is a certified instructor for the USGS MOCC so you can work with him to schedule a training session. 
 
