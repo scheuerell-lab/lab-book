@@ -21,3 +21,17 @@
 -	Never store samples or chemicals outside of the lab.
 
 -	All samples placed in the freezer should be labeled with a date, sample contents, and name of project or person responsible.
+
+
+## Eyewash
+
+During times when the lab is used regularly, we must flush the eyewash system with 10 gallons of water _every week_. There is a dedicated and marked 5-gallon bucket on the floor next to the eyewash. To flush the system, make sure the bucket is under the white drain pipe and then gently push the activation lever until water starts coming out both holes and drains into the bucket. When the bucket is nearly full, turn off the water by pulling back on the lever and then empty the bucket into the sink. Repeat the process a second time and then record the date and your initials on the sheet in the rack near the microscope.
+
+
+## Chemicals
+
+Mark maintains a chemical inventory and tracks it with MyChem.
+
+### Flammables
+
+All flammable chemicals must be kept inside the dedicated flammable cabinet under the fume hood. 
