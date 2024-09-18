@@ -116,9 +116,9 @@ publications
 authorship
 usgs-fundamental-science-practices
 affiliation
-peer-reviewed
 pre-publication-disclaimer-1
 product-disclaimer-1
+bureau-approval
 old-projects
 informal-scicomm
 presentations
