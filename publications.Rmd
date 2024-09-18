@@ -18,6 +18,15 @@ Because Mark is an employee of the U.S. government, he and his lab members must 
 
 ### Affiliation
 
+It is <strong>very important</strong> that Mark's affiliation be listed as:
+
+> U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit  
+> School of Aquatic and Fishery Sciences  
+> University of Washington  
+> Seattle, WA
+
+Although there may be some subtle differences depending on the journal/outlet, such as the inclusion of a street address or zip code, the first line must always be written verbatim as above. Note, too, that you may not abbreviate the first line in any manner (eg, "USGS WACFWRU").
+
 Students and postdocs should list their affiliation as
 
 > School of Aquatic and Fishery Sciences  
@@ -30,30 +39,38 @@ although QERM students may elect to use
 > University of Washington  
 > Seattle, WA
 
-It is **very important** that Mark's affiliation be listed as:
-
-> U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit  
-> School of Aquatic and Fishery Sciences  
-> University of Washington  
-> Seattle, WA
-
-Although there may be some subtle differences depending on the journal/outlet, such as the inclusion of a street address or zip code, the first line must always be written verbatim as above. Note, too, that you may not abbreviate the first line in any manner (eg, "USGS WACFWRU").
-
-## Peer-reviewed
-
-Most of what we write is destined for publication in peer-reviewed journals. Mark will help lab members with the process of ushering the paper through the FSP process, but there are two easy disclaimers you can add to the paper to help it along its way.
 
 ### Pre-publication disclaimer
 
-As part of the [USGS Fundamental Science Practices](https://www.usgs.gov/office-of-science-quality-and-integrity/fundamental-science-practices), publications with Mark s a co-author **must** include the following statement on the cover page or somewhere else near the beginning when formatting a paper for submission to a journal:
+As part of the [USGS Fundamental Science Practices](https://www.usgs.gov/office-of-science-quality-and-integrity/fundamental-science-practices), publications with Mark s a co-author <strong>must</strong> include the following statement on the cover page or somewhere else near the beginning when formatting a paper for submission to a journal:
 
 > This draft manuscript is distributed solely for purposes of scientific peer review. Its content is deliberative and predecisional, so it must not be disclosed or released by reviewers. Because the manuscript has not yet been approved for publication by the U.S. Geological Survey (USGS), it does not represent any official USGS finding or policy.
 
 ### Product disclaimer
 
-If we refer to specific trade, firm, or product names within a publication (eg, "R programming language", "YSI multisonde"), we **must** include the following statement in the acknowledgments:
+If we refer to specific trade, firm, or product names within a publication (eg, "R programming language", "YSI multisonde"), we <strong>must</strong> include the following statement in the acknowledgments:
 
 > Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+
+### Bureau approval
+
+At the point we are ready to submit a manuscript to a journal, there is a formal internal review process that Mark must follow. Here are the steps:
+
+1) Mark finds a "friendly" reviewer who is willing to provide comments on the paper akin to those we might expect from an unknown reviewer at a journal (ie, they must be rigorous but hopefully not too onerous).
+
+2) Mark uploads a reviewer form with information about the manuscript and person identified in (1), along with clean copies of the manuscript and all supplemental material(s).
+
+3) Mark asks his regional supervisor to approve the person identified in (1).
+
+4) We send the paper to the target journal and the person identified in (1), and wait for comments to come back.
+
+5) We address all of the comments from (4), in a point-by-point manner, in either separate documents or inline via the track changes option if comments were provided in that manner (eg, this is common with friendly reviewers). Note that we do not have to comply with every request, but we do need to address every comment, even if that means we simply say something like "We respectfully disagree because..." or "This is a great idea but it's out of the scope of the current study".
+
+6) Mark uploads all of the comments from (4) and our responses from (5), along with a clean revised manuscript.
+
+7) Mark requests formal manuscript approval from his Bureau Approving Officer (BAO). This process typically takes 1-2 weeks.
+
+__Note__: Under no circumstances can we allow a journal to post a preprint, online early, or other draft of our paper _before_ Mark gets the BAO's approval.
 
 
 ## Old projects
