@@ -38,9 +38,3 @@ li {
 .summary > li:first-child {
   height: auto !important; 
 }
-
-strong {
-  font-weight: 600;
-}
-
-span { font-weight: bold; }
